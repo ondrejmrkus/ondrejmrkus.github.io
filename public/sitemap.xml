@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/</loc>
     <lastmod>2022-06-11T17:17:38+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/blog/</loc>
     <lastmod>2022-06-11T17:17:38+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/categories/</loc>
     <lastmod>2022-04-28T17:08:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/reflections/</loc>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/tags/reflections/</loc>
     <lastmod>2022-04-28T17:08:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/reflections/</loc>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/categories/reflections/</loc>
     <lastmod>2022-04-28T17:08:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/tags/</loc>
     <lastmod>2022-04-28T17:08:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/2022-q1/</loc>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/2022-q1/</loc>
     <lastmod>2022-04-28T17:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/about/</loc>
+    <lastmod>2022-02-06T19:37:15+00:00</lastmod>
+  </url><url>
+    <loc>https://radiant-chimera-75c1b4.netlify.app/pages/</loc>
+    <lastmod>2022-02-06T19:37:15+00:00</lastmod>
   </url>
 </urlset>
