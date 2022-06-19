@@ -1,11 +1,11 @@
 ---
-title: "Writings, drawings, and reflections"
+title: "Blog"
 date: 2022-06-11T17:17:38+02:00
 author: Ondrej Markus
 draft: false
 
 slug: blog
-description: "This is where I share my stuff. Enjoy."
+description: "Good luck. Have fun."
 summary: "Blog"
 
 cover:

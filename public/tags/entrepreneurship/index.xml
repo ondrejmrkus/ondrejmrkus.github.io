@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on Ondrej Markus</title>
-    <link>https://radiant-chimera-75c1b4.netlify.app/blog/</link>
-    <description>Recent content in Blog on Ondrej Markus</description>
+    <title>Entrepreneurship on Ondrej Markus</title>
+    <link>https://radiant-chimera-75c1b4.netlify.app/tags/entrepreneurship/</link>
+    <description>Recent content in Entrepreneurship on Ondrej Markus</description>
     <image>
       <url>https://radiant-chimera-75c1b4.netlify.app/100</url>
       <link>https://radiant-chimera-75c1b4.netlify.app/100</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jun 2022 17:17:38 +0200</lastBuildDate><atom:link href="https://radiant-chimera-75c1b4.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What the work happened: Q1 2022</title>
-      <link>https://radiant-chimera-75c1b4.netlify.app/2022-q1/</link>
-      <pubDate>Thu, 28 Apr 2022 17:08:00 +0000</pubDate>
-      
-      <guid>https://radiant-chimera-75c1b4.netlify.app/2022-q1/</guid>
-      <description>A very personal reflection on my work-life from January to March 2022.</description>
-    </item>
-    
-    <item>
-      <title>How to be as useful as you can</title>
-      <link>https://radiant-chimera-75c1b4.netlify.app/max-useful/</link>
-      <pubDate>Sun, 17 Oct 2021 08:28:09 +0000</pubDate>
-      
-      <guid>https://radiant-chimera-75c1b4.netlify.app/max-useful/</guid>
-      <description>Make a positive difference without losing your mind.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 06 Sep 2021 14:32:00 +0000</lastBuildDate><atom:link href="https://radiant-chimera-75c1b4.netlify.app/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Full-Stack Freelancer – A new approach to work</title>
       <link>https://radiant-chimera-75c1b4.netlify.app/fsf/</link>
