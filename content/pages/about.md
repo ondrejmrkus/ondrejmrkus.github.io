@@ -9,8 +9,8 @@ description: ""
 summary: ""
 
 cover:
-  image: ""
-  alt: ""
+  image: "digital-garage.jpg"
+  alt: "This website is my digital garage"
   caption: ""
   relative: false
   responsiveImages: false
@@ -19,11 +19,11 @@ cover:
 
 This website is a sincere effort of one introvert on a mission to help humans **create simple systems that make us happy and productive**.
 
-{{< figure src="__GHOST_URL__/content/images/2022/02/about1.png" >}}
+{{< figure src="/images/2022/02/about1.png" >}}
 
 ## What's the deal here
 
-My name is Ondrej. I'm a 27-year-old entrepreneur, designer, and indie writer living in Prague. Also [generalist](__GHOST_URL__/fsf/), [introvert](__GHOST_URL__/16/), and [self-learner](__GHOST_URL__/expert/). Big fan of [systems](__GHOST_URL__/system-that-works/) and games.
+My name is Ondrej. I'm a 27-year-old entrepreneur, designer, and indie writer living in Prague. Also [generalist](/fsf/), [introvert](/16/), and [self-learner](/expert/). Big fan of [systems](/system-that-works/) and games.
 
 And this is my digital garage with the doors kept open.
 
@@ -57,9 +57,9 @@ Life and work should be enjoyable. All of this is a game worth playing well, but
 
 I've been doing this for a while now _(about 2 years)_, so there are plenty of articles you can get into. I picked some of my favorites for you.
 
-* [2021: The Courage to Try](__GHOST_URL__/2021/): This is my very personal year reflection of 2021 and it's a good crossroad for my other work. Also, there's Batman involved.
-* [How to be as useful as you can](__GHOST_URL__/max-useful/): My five cents on making a positive difference without losing your mind.
-* [The Full-Stack Freelancer](__GHOST_URL__/fsf/): New approach to work for generalists.
+* [2021: The Courage to Try](/2021/): This is my very personal year reflection of 2021 and it's a good crossroad for my other work. Also, there's Batman involved.
+* [How to be as useful as you can](/max-useful/): My five cents on making a positive difference without losing your mind.
+* [The Full-Stack Freelancer](/fsf/): New approach to work for generalists.
 
 If you like what you see, you can join my email list and I will send you a new article every Tuesday and Thursday. My routine is ruthless. I never miss a day. ;)
 

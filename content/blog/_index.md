@@ -6,7 +6,7 @@ draft: false
 
 slug: blog
 description: "This is where I share my stuff. Enjoy."
-summary: "Hey."
+summary: "Blog"
 
 cover:
   image: ""

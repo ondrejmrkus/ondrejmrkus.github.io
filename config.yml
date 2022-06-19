@@ -65,7 +65,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Hey there, I'm Ondrej.
     subtitle: "I'm exploring the intersection of **games**, **learning**, and **self-improvement**."
-    imageUrl: "https://www.ondrejmarkus.com/content/images/size/w1462/2022/02/cover-garage3.jpg"
+    imageUrl: "digital-garage.jpg"
     imageWidth: auto
     imageHeight: auto
     imageTitle: my image
@@ -77,8 +77,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: Hey there, I'm Ondrej.
+    Content: "I'm exploring the intersection of **games**, **learning**, and **self-improvement**."
 
   socialIcons:
     - name: twitter
