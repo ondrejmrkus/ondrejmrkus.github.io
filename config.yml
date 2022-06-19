@@ -1,9 +1,9 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://radiant-chimera-75c1b4.netlify.app/'
 languageCode: en-us
 theme: PaperMod
 title: Ondrej Markus
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
