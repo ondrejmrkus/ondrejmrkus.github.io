@@ -24,10 +24,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "My blog"
+  description: "designer, writer, introvert"
   keywords: [Blog, Portfolio]
   author: Ondrej Markus
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: "digital-garage.jpg"
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: false
@@ -72,8 +72,8 @@ params:
     buttons:
       - name: Blog
         url: blog
-      - name: Tags
-        url: tags
+      - name: Categories
+        url: categories
 
   # home-info mode
   homeInfoParams:
