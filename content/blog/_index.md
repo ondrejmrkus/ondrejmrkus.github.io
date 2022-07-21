@@ -5,7 +5,7 @@ author: Ondrej Markus
 draft: false
 
 slug: blog
-description: "Good luck. Have fun."
+description: "So far there are over 60 articles with 300+ stickman comics. Go nuts."
 summary: "Blog"
 
 cover:

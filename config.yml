@@ -1,15 +1,16 @@
-baseURL: 'https://radiant-chimera-75c1b4.netlify.app/'
+baseURL: 'https://www.ondrejmarkus.com/'
 languageCode: en-us
 theme: PaperMod
 title: Ondrej Markus
 
-enableRobotsTXT: false
+enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
 permalinks:
   blog: '/:slug/'
+  games: '/:slug/'
   pages: '/:slug/'
 
 outputs:
@@ -24,8 +25,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "designer, writer, introvert"
-  keywords: [Blog, Portfolio]
+  description: "Game designer exploring how games make us better."
+  keywords: [ondrej markus, blog, game design, games]
   author: Ondrej Markus
   images: "digital-garage.jpg"
   DateFormat: "January 2, 2006"
@@ -51,11 +52,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: /favicon/favicon.ico
+    favicon16x16: /favicon/favicon16x16.png
+    favicon32x32: /favicon/favicon32x32.png
+    apple_touch_icon: /favicon/apple-touch-icon.png
+    safari_pinned_tab: /favicon/apple-touch-icon.png
 
   label:
     text: "Ondrej Markus"
@@ -64,7 +65,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hey there, I'm Ondrej.
-    subtitle: "I'm exploring the intersection of **games**, **learning**, and **self-improvement**."
+    subtitle: "Game designer exploring how games make us better."
     imageUrl: "digital-garage.jpg"
     imageWidth: auto
     imageHeight: auto
@@ -72,13 +73,13 @@ params:
     buttons:
       - name: Blog
         url: blog
-      - name: Categories
-        url: categories
+      - name: Games
+        url: games
 
   # home-info mode
   homeInfoParams:
     Title: Hey there, I'm Ondrej.
-    Content: "I'm exploring the intersection of **games**, **learning**, and **self-improvement**."
+    Content: "Game designer exploring how games make us better."
 
   socialIcons:
     - name: twitter
@@ -114,22 +115,22 @@ menu:
       name: Blog
       url: /blog/
       weight: 5
+    - identifier: games
+      name: Games
+      url: /games/
+      weight: 10
     - identifier: about
       name: About
       url: /about/
-      weight: 10
-    - identifier: categories
-      name: Categories
-      url: /categories/
       weight: 20
-    - identifier: archive
-      name: Archive
-      url: /archives/
-      weight: 30
     - identifier: search
-      name: Search
+      name: "&#8981;"
       url: /search/
-      weight: 40
+      weight: 30
+
+module:
+  imports:
+    - path: github.com/divinerites/plausible-hugo
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
