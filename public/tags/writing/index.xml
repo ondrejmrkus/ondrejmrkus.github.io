@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Writing on Ondrej Markus</title>
+    <link>https://radiant-chimera-75c1b4.netlify.app/tags/writing/</link>
+    <description>Recent content in Writing on Ondrej Markus</description>
+    <image>
+      <url>https://radiant-chimera-75c1b4.netlify.app/100</url>
+      <link>https://radiant-chimera-75c1b4.netlify.app/100</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Feb 2022 15:55:59 +0000</lastBuildDate><atom:link href="https://radiant-chimera-75c1b4.netlify.app/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write to learn better</title>
+      <link>https://radiant-chimera-75c1b4.netlify.app/write-to-learn/</link>
+      <pubDate>Thu, 17 Feb 2022 15:55:59 +0000</pubDate>
+      
+      <guid>https://radiant-chimera-75c1b4.netlify.app/write-to-learn/</guid>
+      <description>How to use writing to improve at any skill</description>
+    </item>
+    
+    <item>
+      <title>Write public reflections</title>
+      <link>https://radiant-chimera-75c1b4.netlify.app/write-public-reflections/</link>
+      <pubDate>Thu, 06 Jan 2022 20:12:00 +0000</pubDate>
+      
+      <guid>https://radiant-chimera-75c1b4.netlify.app/write-public-reflections/</guid>
+      <description>It&amp;#39;s the best way to start writing and improve at anything you do.</description>
+    </item>
+    
+    <item>
+      <title>Building faster learning loops for writing in public</title>
+      <link>https://radiant-chimera-75c1b4.netlify.app/writing-loop/</link>
+      <pubDate>Mon, 17 May 2021 15:48:07 +0000</pubDate>
+      
+      <guid>https://radiant-chimera-75c1b4.netlify.app/writing-loop/</guid>
+      <description>I&amp;#39;m going to live inside this feedback loop for the next 100 days to become a better writer.</description>
+    </item>
+    
+    <item>
+      <title>Speed drafting: How to write an article in 25 minutes</title>
+      <link>https://radiant-chimera-75c1b4.netlify.app/speed-drafting/</link>
+      <pubDate>Sun, 25 Apr 2021 10:01:00 +0000</pubDate>
+      
+      <guid>https://radiant-chimera-75c1b4.netlify.app/speed-drafting/</guid>
+      <description>No backspace. Ignore grammar. Write faster.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -110,14 +110,12 @@ He might be working a part-time job, building an online product, and making extr
 
 Shifting his time between projects makes him flexible. He can more easily react to new opportunities without having to make drastic transitions – like changing his only job.
 
-<b>Example: My portfolio of projects (August 2021)</b>
-<ul>
-    <li>Writing my blog: <b>Skills</b>, Network</li>
-    <li>Running my online course: <b>Income</b>, Contribution</li>
-    <li>Teaching a university seminar: <b>Skills</b>, Income</li>
-    <li>Growing my Twitter: <b>Network</b>, Skills</li>
-    <li>Designing an app UX for an agency: <b>Income</b>, Skills</li>
-</ul>
+Example: My portfolio of projects (August 2021)
+- Writing my blog: Skills, Network
+- Running my online course: Income, Contribution
+- Teaching a university seminar: Skills, Income
+- Growing my Twitter: Network, Skills
+- Designing an app UX for an agency: Income, Skills
 
 > **Think about your work as a portfolio of projects, not one job.**
 
@@ -133,11 +131,11 @@ It doesn't matter. She only needs a couple of winners in her portfolio. So she u
 
 This way, she **reacts to opportunities faster** than most people while **taking less risk** because she doesn’t commit herself fully until she sees the project is probably going to work.
 
-<b>Example: Developing a new course in 3 weeks</b>
-<p>This April, I had an idea for a writers course, but I was buried in other projects and didn’t know how it should work. So I ran an experiment. I made a <a href="https://metasprint.webflow.io/">simple website</a> and I sent it to a few friends who wanted to write more.</p>
-<p>They sent me feedback, and I used it to improve the idea. I repeated this 3 times with different friends. And, in the third round, I started getting replies like “I want this. When does it start?”</p>
-<p>I knew I’m onto something. So I told my friends the course is happening: Weekly sessions for a month and the price is $50. 7 people enrolled and I ran the course.</p>
-<p>The whole process took just 3 weeks and just a few hours of work from having the idea to launching the course with 7 paying customers.</p>
+Example: Developing a new course in 3 weeks
+- This April, I had an idea for a writers course, but I was buried in other projects and didn’t know how it should work. So I ran an experiment. I made a [simple website](https://metasprint.webflow.io/) and I sent it to a few friends who wanted to write more.
+- They sent me feedback, and I used it to improve the idea. I repeated this 3 times with different friends. And, in the third round, I started getting replies like “I want this. When does it start?”
+- I knew I’m onto something. So I told my friends the course is happening: Weekly sessions for a month and the price is $50. 7 people enrolled and I ran the course.
+- The whole process took just 3 weeks and just a few hours of work from having the idea to launching the course with 7 paying customers.
 
 > **Try different things as experiments, use what works, and discard the rest. Repeat.**
 
@@ -155,14 +153,10 @@ The result is a growing network of symbiotic projects linked with people interes
 
 {{< figure src="/images/2021/09/fsf-network.png" caption="Treat your work as a network of people and projects." >}}
 
-<div class='c-note c-note--info'>
-  <p><b>Example: Build an online home</b></p>
-    <p>One simple thing you can do to start weaving your projects together is to build an online home – a website with links to all your projects. So whenever people want to find out more about you and your work, they discover all your other projects.</p>
-<ul>
-    <li><a href="/">This website</a> is my online home connecting all my projects.</li>
-    <li><a href="https://twitter.com/ondrej_markus">Twitter</a> is where I meet new people and expose them to my work by having this site in my bio.</li>
-</ul>
-</div>
+Example: Build an online home
+- One simple thing you can do to start weaving your projects together is to build an online home – a website with links to all your projects. So whenever people want to find out more about you and your work, they discover all your other projects.
+- This website is my online home connecting all my projects.
+- [Twitter](https://twitter.com/ondrej_markus) is where I meet new people and expose them to my work by having this site in my bio.
 
 > **Weave your projects and people into one network.**
 
@@ -184,9 +178,9 @@ When I was 19, I used all my savings (~$1000) to [start my first business](/buil
 
 I chose a challenge with an unlimited learning potential rather than selling ice cream or guarding festival fences. Those jobs had nothing to offer me except extra cash I had no immediate use for. But the skills I gained building a business are timeless.
 
-<b>Example: Bootstrapping a business</b></p>
-<p>When I was 19, I used all my savings (~$1000) to <a href="/build/">start my first business</a>. It bankrupted in 6 months, but it was the best learning experience I ever had.</p>
-<p>I chose a challenge with an unlimited learning potential rather than selling ice cream or guarding festival fences. Those jobs had nothing to offer me except extra cash I had no immediate use for. But the skills I gained building a business are timeless.</p>
+Example: Bootstrapping a business
+- When I was 19, I used all my savings (~$1000) to [start my first business](/build/). It bankrupted in 6 months, but it was the best learning experience I ever had.
+- I chose a challenge with an unlimited learning potential rather than selling ice cream or guarding festival fences. Those jobs had nothing to offer me except extra cash I had no immediate use for. But the skills I gained building a business are timeless.
 
 > **Invest your time into skills over extra income.**
 
@@ -200,9 +194,9 @@ Technology is reshaping the world. Anyone can learn anything for free on the int
 
 **The Full-Stack Freelancer uses technology to maximize her potential.** She automates things to make herself more productive and scale her impact. Her ability to leverage technology gives her unprecedented power.
 
-<b>Example: Social media</b></p>
-<p>I just started on Twitter a few months ago and my account was tiny (~100 followers), but I recently wrote a series of tweets that got some traction. In 3 days, 20.000 people saw it, 400 visited my profile, and 80 followed me. Just because I wrote and shared something useful.</p>
-<p>The next week it happened again. What is going to happen if I can do this every week?</p>
+Example: Social media
+- I just started on Twitter a few months ago and my account was tiny (~100 followers), but I recently wrote a series of tweets that got some traction. In 3 days, 20.000 people saw it, 400 visited my profile, and 80 followed me. Just because I wrote and shared something useful.
+- The next week it happened again. What is going to happen if I can do this every week?
 
 > **Use technology to 1000x your productivity and impact.**
 
@@ -220,10 +214,9 @@ We pick a label and get stuck with it.
 
 Not tying his identity to one project makes him free to take on new opportunities and adapt to a changing environment.
 
-<b>Example: Shifting work identity</b></p>
-<p>My work identity shifts often. Over 10 years, I was a freelance graphic designer, entrepreneur, project manager, game designer, CEO founder, innovation designer, UX designer, teacher, and writer.</p>
-<p>Once I stopped playing status games, I understood these labels represent skill-sets more than anything else. And that’s why I prefer to describe my work identity with verbs, instead of nouns:</p>
-<p>“I <b>make</b> things to <b>help</b> people <b>design</b> a better life.”</p>
+Example: Shifting work identity
+- My work identity shifts often. Over 10 years, I was a freelance graphic designer, entrepreneur, project manager, game designer, CEO founder, innovation designer, UX designer, teacher, and writer.
+- Once I stopped playing status games, I understood these labels represent skill-sets more than anything else. And that’s why I prefer to describe my work identity with verbs, instead of nouns: “I make things to help people design a better life.”
 
 > **Keep your identity open to new opportunities.**
 
@@ -239,15 +232,12 @@ She often asks herself: **“How do I want to spend my days?”** And wraps her 
 
 {{< figure src="/images/2021/09/fsf-lifestyle.png" caption="Design a life you enjoy living." >}}
 
-<b>Example: Designing my lifestyle</b></p>
-<ul>
-    <li>My energy peak is in the morning, and I prefer working alone. So I have a rule: “<a href="/no-meetings/">No meetings before noon</a>.” I don’t pick up the phone, do emails, or schedule meetings until 12 am. I protect my prime time.</li>
-    <li>I chose projects where I don’t have to meet people often, so my calendar is empty. I spend 3/4 of my time doing deep work I enjoy.</li>
-    <li>I make just enough money to make a living (~$1000/m) while optimizing for learning (writing, storytelling, design, marketing) and building projects with passive income.</li>
-    <li>I make enough time in my week to meet friends, exercise, play games, and spend time with my girlfriend. (I have active projects for all of these.)</li>
-</ul>
-    <p>But everyone prefers a different lifestyle. So my point isn’t that you should live more like me. Not at all. It’s that you should <b>find a design that works for you.</b></p>
-</div>
+Example: Designing my lifestyle
+- My energy peak is in the morning, and I prefer working alone. So I have a rule: [No meetings before noon](/no-meetings/). I don’t pick up the phone, do emails, or schedule meetings until 12 am. I protect my prime time.
+- I chose projects where I don’t have to meet people often, so my calendar is empty. I spend 3/4 of my time doing deep work I enjoy.
+- I make just enough money to make a living (~$1000/m) while optimizing for learning (writing, storytelling, design, marketing) and building projects with passive income.
+- I make enough time in my week to meet friends, exercise, play games, and spend time with my girlfriend. (I have active projects for all of these.)
+- But everyone prefers a different lifestyle. So my point isn’t that you should live more like me. Not at all. It’s that you should find a design that works for you.
 
 > **Design your work around a lifestyle you enjoy.**
 
