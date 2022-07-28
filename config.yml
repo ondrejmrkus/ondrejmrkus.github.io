@@ -1,4 +1,4 @@
-baseURL: 'https://www.ondrejmarkus.com/'
+baseURL: 'https://ondrejmarkus.com/'
 languageCode: en-us
 theme: PaperMod
 title: Ondrej Markus
@@ -25,7 +25,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Game designer exploring how games make us better."
+  description: "Game designer exploring why games matter."
   keywords: [ondrej markus, blog, game design, games]
   author: Ondrej Markus
   images: "digital-garage.jpg"
@@ -65,7 +65,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hey there, I'm Ondrej.
-    subtitle: "Game designer exploring how games make us better."
+    subtitle: "Game designer exploring why games matter."
     imageUrl: "digital-garage.jpg"
     imageWidth: auto
     imageHeight: auto
@@ -73,13 +73,11 @@ params:
     buttons:
       - name: Blog
         url: blog
-      - name: Games
-        url: games
 
   # home-info mode
   homeInfoParams:
     Title: Hey there, I'm Ondrej.
-    Content: "Game designer exploring how games make us better."
+    Content: "Game designer exploring why games matter."
 
   socialIcons:
     - name: twitter
@@ -115,22 +113,18 @@ menu:
       name: Blog
       url: /blog/
       weight: 5
-    - identifier: games
-      name: Games
-      url: /games/
-      weight: 10
     - identifier: about
       name: About
       url: /about/
       weight: 20
     - identifier: search
-      name: "&#8981;"
+      name: Search
       url: /search/
       weight: 30
 
 module:
   imports:
-    - path: github.com/divinerites/plausible-hugo
+    - path: "github.com/divinerites/plausible-hugo"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
