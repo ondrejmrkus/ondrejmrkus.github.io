@@ -16,6 +16,7 @@ cover:
   caption: 
   relative: false
   responsiveImages: false
+
 ---
 
 Games tickle my brain the right way. I enjoy examining them, making them, and playing them.
@@ -62,7 +63,7 @@ However, over the last year, I completely changed my opinion on games. Or, I sho
 
 I won't go deeper into why that is right now. Partly because I'm not exactly sure yet. It's one of the things I want to understand better and put into words soon.
 
-![Life is a game!](/images/2022/08/Life-is-a-game.jpg)
+![Life is a game!](/images/2022/08/life-is-a-game.jpg)
 
 ## Get my emails about games
 So. If you like what you see, feel free to join me in my playful explorations:

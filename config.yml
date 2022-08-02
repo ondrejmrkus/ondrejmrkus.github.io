@@ -125,6 +125,10 @@ menu:
       name: Search
       url: /search/
       weight: 30
+    - identifier: emails
+      name: Emails
+      url: https://www.getrevue.co/profile/ondrej_markus
+      weight: 30
 
 module:
   imports:
