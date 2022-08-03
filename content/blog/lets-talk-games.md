@@ -29,15 +29,15 @@ Why not spend my life doing what I enjoy the most?
 These are some of the questions I'm exploring:
 
 **How can games enrich your life?**
-	- What can we learn from games? (games as powerful learning engines)
-	- How to use games to connect with others? (games as rich social experiences)
-	- How to enjoy games more? (games as vehicles for joy)
+- What can we learn from games? (games as powerful learning engines)
+- How to use games to connect with others? (games as rich social experiences)
+- How to enjoy games more? (games as vehicles for joy)
 
 **How to use games to help others?**
-	- How to use games to enhance education? (games as educational tools)
+- How to use games to enhance education? (games as educational tools)
 
 **How games shape the world?**
-	- How games shape our thinking about the world? (games as a philosophy)
+- How games shape our thinking about the world? (games as a philosophy)
 
 Right now, my plan is to explore games both hands-on (create games myself) and theoretically (research and write about what makes games remarkable).
 
