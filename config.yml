@@ -12,6 +12,7 @@ permalinks:
   blog: '/:slug/'
   games: '/:slug/'
   pages: '/:slug/'
+  archives: '/:slug/'
 
 outputs:
   home:
@@ -25,7 +26,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Game designer exploring why games matter."
+  description: "A designer based in Amsterdam, exploring what makes games remarkable."
   keywords: [ondrej markus, blog, game design, games]
   author: Ondrej Markus
   images: "digital-garage.jpg"
@@ -65,7 +66,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hey there, I'm Ondrej.
-    subtitle: "Game designer exploring why games matter."
+    subtitle: "A designer based in Amsterdam, exploring what makes games remarkable."
     imageUrl: "digital-garage.jpg"
     imageWidth: auto
     imageHeight: auto

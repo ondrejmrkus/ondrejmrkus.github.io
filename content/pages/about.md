@@ -17,7 +17,7 @@ cover:
 
 ---
 
-Hello again. My name is Ondrej. I'm a 28-year-old game designer living in Prague but moving to Amsterdam in September 2022.
+Hello again. My name is Ondrej. I'm a 28-year-old designer living in Prague but moving to Amsterdam in September 2022.
 
 When I throw other self-related keywords around, I say I'm a [generalist](/fsf/), [introvert](/16/), and [self-learner](/expert/) and a big fan of elegant [systems](/system-that-works/) and a gamer.
 
