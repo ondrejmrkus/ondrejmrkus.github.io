@@ -49,6 +49,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  hideFooter: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -66,19 +67,19 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hey there, I'm Ondrej.
-    subtitle: "A designer based in Amsterdam, exploring what makes games remarkable."
+    subtitle: "A designer exploring how games improve our lives."
     imageUrl: "digital-garage.jpg"
     imageWidth: auto
     imageHeight: auto
     imageTitle: my image
     buttons:
-      - name: Blog
+      - name: Articles
         url: blog
 
   # home-info mode
   homeInfoParams:
     Title: Hey there, I'm Ondrej.
-    Content: "Game designer exploring why games matter."
+    Content: "A designer exploring how games improve our lives."
 
   socialIcons:
     - name: twitter
@@ -122,18 +123,10 @@ menu:
       name: Connect
       url: /connect/
       weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 30
     - identifier: emails
       name: Emails
       url: https://www.getrevue.co/profile/ondrej_markus
       weight: 30
-
-module:
-  imports:
-    - path: "github.com/divinerites/plausible-hugo"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
