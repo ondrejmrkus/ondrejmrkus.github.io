@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2022-09-20T12:00:00Z
+date: 2022-20-09T11:00:00Z
 author: Ondrej Markus
 draft: false
 
