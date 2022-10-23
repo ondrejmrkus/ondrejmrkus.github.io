@@ -1,0 +1,60 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+
+:root {
+    --brand: rgb(87, 68, 255);
+}
+
+.dark {
+    --brand: rgb(87, 68, 255);
+}
+
+/* Make links purple and without underlining */
+.post-content a {
+    color: var(--brand);
+    box-shadow: 0 0px;
+}
+/* The same in text on Home page */
+.entry-content a {
+    color: var(--brand);
+    box-shadow: 0 0px;
+}
+
+/* Change link hover color to black and add underlining */
+.post-content a:hover {
+    color: var(--primary);
+    box-shadow: 0 1px;
+}
+/* The same in text on Home page */
+.entry-content a:hover {
+    color: var(--primary);
+    box-shadow: 0 1px;
+}
+
+.entry-content ul {
+    list-style-type: circle;
+}
+
+/* Add highlight hover effect when clicking articles in a list view */
+.post-entry a:hover {
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+}
+
+/* Remove Description info from article list view */
+.post-entry .entry-content  {
+    display: none;
+}
+
+/* Remove Date, Reading time, Author info from article list view */
+.post-entry .entry-footer  {
+    display: none;
+}
+
+/* Change text color of secondary info text on Home page */
+.first-entry .entry-content {
+    color: var(--primary);
+}
