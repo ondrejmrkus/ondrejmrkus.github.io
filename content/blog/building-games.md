@@ -66,7 +66,7 @@ And much more.
 
 First, I tried getting hired by Synthesis, but I'm in Europe and they hire only in the US timezones. So that didn't work out.
 
-I've looked for similar projects elsewhere but didn't find any. ([Let me know](mailto:o@ondrejmarkus.com) if you do know some.)
+I've looked for similar projects elsewhere but didn't find any. (Let me know if you do know some.)
 
 The only other option now is to build my own version of this. So I'm working on my first game prototype using JavaScript which I suck at.
 
