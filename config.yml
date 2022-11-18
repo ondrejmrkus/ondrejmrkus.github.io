@@ -25,8 +25,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "A designer based in Amsterdam, exploring what makes games remarkable."
-  keywords: [ondrej markus, blog, game design, games]
+  description: "A designer based in Amsterdam, exploring game-based learning."
+  keywords: [ondrej markus, blog, game design, games, game-based learning, serious games]
   author: Ondrej Markus
   images: 
   DateFormat: "January 2, 2006"
@@ -67,8 +67,8 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Hey there, I'm Ondrej.
-    subtitle: "A designer exploring how games improve our lives."
+    title:
+    subtitle: 
     imageUrl: 
     imageWidth: auto
     imageHeight: auto
@@ -82,7 +82,7 @@ params:
     Title: Hey there, I'm Ondrej.
     Content: |
 
-      I'm a **designer**, **entrepreneur**, and **writer**.
+      I'm a **designer**, **entrepreneur**, and **teacher** creating game-based learning experiences.
 
       This is my [digital garage](/open-garage/) where you can [follow my work](/now/) and learning process.
 
