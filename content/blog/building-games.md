@@ -11,7 +11,7 @@ description:
 summary: How to use games to teach kids problem-solving, decision-making, and cooperation in teams.
 
 cover:
-  image: /images/2022/11/build-games-cover.jpg
+  image: /images/2022/11/building-games-cover.jpg
   alt: Building games to train problem-solvers
   caption: 
   relative: false

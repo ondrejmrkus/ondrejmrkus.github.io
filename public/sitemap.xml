@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ondrejmarkus.com/building-games/</loc>
+    <lastmod>2022-11-18T10:10:34+00:00</lastmod>
+  </url><url>
     <loc>https://ondrejmarkus.com/categories/</loc>
-    <lastmod>2022-10-10T15:32:00+00:00</lastmod>
+    <lastmod>2022-11-18T10:10:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ondrejmarkus.com/tags/learning/</loc>
+    <lastmod>2022-11-18T10:10:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ondrejmarkus.com/categories/learning/</loc>
+    <lastmod>2022-11-18T10:10:34+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/</loc>
-    <lastmod>2022-10-10T15:32:00+00:00</lastmod>
+    <lastmod>2022-11-18T10:10:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ondrejmarkus.com/tags/</loc>
+    <lastmod>2022-11-18T10:10:34+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/tags/reflections/</loc>
     <lastmod>2022-10-10T15:32:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/categories/reflections/</loc>
-    <lastmod>2022-10-10T15:32:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ondrejmarkus.com/tags/</loc>
     <lastmod>2022-10-10T15:32:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/2022-q3/</loc>
@@ -54,12 +63,6 @@
     <lastmod>2022-03-31T20:32:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/overcompensation/</loc>
-    <lastmod>2022-03-29T21:44:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ondrejmarkus.com/tags/learning/</loc>
-    <lastmod>2022-03-29T21:44:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ondrejmarkus.com/categories/learning/</loc>
     <lastmod>2022-03-29T21:44:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/tags/entrepreneurship/</loc>

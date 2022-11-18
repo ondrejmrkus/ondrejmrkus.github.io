@@ -6,7 +6,16 @@
     <description>Recent content in Learning on Ondrej Markus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 21:44:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 10:10:34 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building games to train problem-solvers</title>
+      <link>https://ondrejmarkus.com/building-games/</link>
+      <pubDate>Fri, 18 Nov 2022 10:10:34 +0000</pubDate>
+      
+      <guid>https://ondrejmarkus.com/building-games/</guid>
+      <description>How to use games to teach kids problem-solving, decision-making, and cooperation in teams.</description>
+    </item>
+    
     <item>
       <title>Go nuts to find your balance</title>
       <link>https://ondrejmarkus.com/overcompensation/</link>
