@@ -37,7 +37,7 @@ Before I show you how I prepare for high-level planning, I need to explain the d
 
 This is a high-level **planning** and **reflection** mode. It's about **the big picture** of life.
 
-{{< figure src="images/2022/03/clouds.png" caption="Higher perspective" >}}
+{{< figure src="/images/2022/03/clouds.png" caption="Higher perspective" >}}
 
 -   Where am I going in life?
 -   What are my values?
@@ -51,7 +51,7 @@ The purpose of the Strategic mode is to help me see things from a higher perspec
 
 This is a low-level **execution** mode. It’s about the **everyday tasks** of life.
 
-{{< figure src="images/2022/03/dirt.png" caption="Everyday messiness" >}}
+{{< figure src="/images/2022/03/dirt.png" caption="Everyday messiness" >}}
 
 -   What will I focus on today?
 -   How can I stop procrastinating on my most important project?
@@ -83,11 +83,11 @@ The Strategic phase lasts from one day to up to a week depending on how big of a
 
 And the tactical phase then goes on for the next month or more, until it’s time to pull my head up from the dirt and go back to the strategic drawing board in the clouds, where I can see things more clearly.
 
-{{< figure src="images/2022/03/i-did-my-best.png" caption="Everyday messiness" >}}
+{{< figure src="/images/2022/03/i-did-my-best.png" caption="Everyday messiness" >}}
 
 These two work together in a continuous rhythm. On a bigger timeline, it could look like this:
 
-{{< figure src="images/2022/03/strategy-tactical-rhythm.png" caption="Strategy-Tactical Rhythm" >}}
+{{< figure src="/images/2022/03/strategy-tactical-rhythm.png" caption="Strategy-Tactical Rhythm" >}}
 
 While I’m in the everyday struggle, things get fast and messy and I embrace it. There is no way around it because unexpected problems will get in the way and I have to deal with them on the spot. That's 99% of the life experience.
 

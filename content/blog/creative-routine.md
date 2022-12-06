@@ -35,7 +35,7 @@ Today, I want to share with you some of my favorite snippets and insights from t
 
 > A solid routine fosters a well-worn groove for one's mental energies and helps stave off the tyranny of moods. – Daily Rituals
 
-{{< figure src="images/2022/02/2-6.png" caption="Creative routine is a sanity fortress." >}}
+{{< figure src="/images/2022/02/2-6.png" caption="Creative routine is a sanity fortress." >}}
 
 Let's start by defining routine:
 
@@ -47,7 +47,7 @@ I have at least one bad day a week when I don't feel like doing the work. Sure, 
 
 **A good routine prevents bad days from cascading into bad weeks.**
 
-{{< figure src="images/2022/02/3-5.png" caption="A good routine prevents bad days from cascading into bad weeks." >}}
+{{< figure src="/images/2022/02/3-5.png" caption="A good routine prevents bad days from cascading into bad weeks." >}}
 
 A bad day plus a solid routine ends up being a slightly below-average day you can work with and not get stuck.
 
@@ -74,7 +74,7 @@ I live in the repetition camp. I need structure.
 
 I write every morning except Saturdays. I work offline without interruptions of email or notifications. And I have a strict '[No meetings before noon](https://www.ondrejmarkus.com/no-meetings/)' policy because mornings are my natural energy peek of the day I want to spend on my [most important work](https://www.ondrejmarkus.com/miw/) – writing.
 
-{{< figure src="images/2022/02/4-4.png" caption="No meetings before noon." >}}
+{{< figure src="/images/2022/02/4-4.png" caption="No meetings before noon." >}}
 
 My routine is simple:
 
@@ -119,7 +119,7 @@ I'm among the weirdos.
 
 I need to rearrange the furniture in my studio every 2-3 months. Otherwise, I get uninspired and bored in my room.
 
-{{< figure src="images/2022/02/5-6.png" caption="Me rearranging furniture to reset my creativity." >}}
+{{< figure src="/images/2022/02/5-6.png" caption="Me rearranging furniture to reset my creativity." >}}
 
 That applies to my digital environment too. For example, I change my writing app every few months.
 
@@ -137,7 +137,7 @@ So, basically, I pay others money to make myself work.
 
 So stupid. But so effective.
 
-{{< figure src="images/2022/02/6-3.png" caption="I pay others to make myself work." >}}
+{{< figure src="/images/2022/02/6-3.png" caption="I pay others to make myself work." >}}
 
 ___
 

@@ -35,7 +35,7 @@ However, it's unlikely you can find yourself once and live happily ever since. I
 
 It's more likely you will find yourself and get lost again. It might take 5 years, 5 months, or 5 minutes, but you will eventually go back to being lost.
 
-{{< figure src="images/2022/01/5-6.png" caption="" >}}
+{{< figure src="/images/2022/01/5-6.png" caption="" >}}
 
 Finding yourself is less like a journey with a final destination, and more like an endless dance with unknown steps.
 
@@ -55,15 +55,15 @@ In the long term, the most successful species are the most adaptable.
 
 In your life, you can imagine this as climbing a hill. Going up is improving at a specific skill or a job.
 
-{{< figure src="images/2022/01/2-15.png" caption="" >}}
+{{< figure src="/images/2022/01/2-15.png" caption="" >}}
 
 Then, one day, you arrive at the top. Congratulations, you've reached excellence in what you do.
 
-{{< figure src="images/2022/01/3-10.png" caption="" >}}
+{{< figure src="/images/2022/01/3-10.png" caption="" >}}
 
 But o-ou. Because the environment shifts constantly with new trends and technology, there's suddenly a much higher hill right next to you.
 
-{{< figure src="images/2022/01/4-8.png" caption="" >}}
+{{< figure src="/images/2022/01/4-8.png" caption="" >}}
 
 The only way to get there is to go down the hill – get lost, unlearn, and let go of things. But you don't want to throw away everything you've done to get here. So you stay.
 
@@ -88,7 +88,7 @@ You can do these two things to start learning better right now:
 
 Efficiency is for robots. People thrive in inefficiency.
 
-{{< figure src="images/2022/01/saf.png" caption="" >}}
+{{< figure src="/images/2022/01/saf.png" caption="" >}}
 
 You will need a lot of attempts to figure out what does and doesn't work for you. So don't expect to be 100% efficient, solving everything on your first try. It leads to disappointment, frustration, and giving up too soon.
 
@@ -121,7 +121,7 @@ Don't take life too seriously.
 
 Go get lost.
 
-{{< figure src="images/2022/01/sfgdfg.png" caption="" >}}
+{{< figure src="/images/2022/01/sfgdfg.png" caption="" >}}
 
 #### Footnotes
 

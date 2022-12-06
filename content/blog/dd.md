@@ -56,19 +56,19 @@ These two complete a **daily learning cycle** that you might typically miss beca
 2.  **Perform** → Execute your design to the best of your ability.
 3.  **Reflect** → Analyze your mistakes to make sure you don't repeat them.
 
-{{< figure src="images/2022/02/2-4.png" caption="" >}}
+{{< figure src="/images/2022/02/2-4.png" caption="" >}}
 
 ## Morning setup
 
 _Take five to ten minutes every morning to decide what's important and make plans to get it done._
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.33.56.png" caption="Part 1: Morning setup" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.33.56.png" caption="Part 1: Morning setup" >}}
 
 ### Intention
 
 _State your intention for the day._
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.32.06.png" caption="Example: My Intention" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.32.06.png" caption="Example: My Intention" >}}
 
 Your intention is an expression of your _intent_ to act on your needs and values.
 
@@ -88,13 +88,13 @@ It's okay to repeat the same intention for weeks or even months. Actually, that'
 
 Also, you can have more than one active intention and mix them up on different days, depending on your current focus. But don't spread yourself too thin. Trying to go in too many directions might prevent you from getting anywhere at all.
 
-{{< figure src="images/2022/02/3-2.png" caption="Don't spread yourself in too many directions. Focus." >}}
+{{< figure src="/images/2022/02/3-2.png" caption="Don't spread yourself in too many directions. Focus." >}}
 
 ### Most important work
 
 _Choose 1-3 most important projects you want to finish or make significant progress on._
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.32.15.png" caption="Example: My Most important work" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.32.15.png" caption="Example: My Most important work" >}}
 
 There is limited space in the template for a reason. Every day has limited time and energy to spend on reaching your goals. So you better choose carefully what you work on.
 
@@ -108,7 +108,7 @@ For example, my MIW on most days is: _"Write the XY article."_ And I can't work 
 
 _List minor actions you need to do today._
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.32.21.png" caption="" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.32.21.png" caption="" >}}
 
 Example: My Tasks
 
@@ -118,7 +118,7 @@ Use this space to plan any task beyond your MIW (Most Important Work). Or decons
 
 _Reserve time for learning._
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-22.46.27.png" caption="" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-22.46.27.png" caption="" >}}
 
 This slot is a reminder to create time for purposeful learning: **_"What do I need to learn about today?"_**
 
@@ -142,7 +142,7 @@ If you struggle with focus and low energy, the reason might be that your daily s
 
 Living on a schedule misaligned with your chronotype is like living your life in _hard mode._
 
-{{< figure src="images/2022/02/4-2.png" caption="" >}}
+{{< figure src="/images/2022/02/4-2.png" caption="" >}}
 
 Find your prime time based on your chronotype and build your day around it.
 
@@ -154,7 +154,7 @@ I underestimate how much time I need to finish my articles all the time, and I'm
 
 Set aside more time than you think to do your MIW.
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.32.36.png" caption="Example: My Time blocks" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.32.36.png" caption="Example: My Time blocks" >}}
 
 ___
 
@@ -168,13 +168,13 @@ Next, we go to the Evening reflection.
 
 _When your work is over for today, take a few minutes to reflect on how you did._
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.34.07.png" caption="Part 2: Evening reflection" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.34.07.png" caption="Part 2: Evening reflection" >}}
 
 ### Scoreboard
 
 _Track important variables._
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.32.43.png" caption="Example: My Scoreboard" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.32.43.png" caption="Example: My Scoreboard" >}}
 
 I don't like to focus on numbers in life too much because they can lead our attention away from what's real. The danger is that we might maximize the number instead of what it represents.
 
@@ -223,11 +223,11 @@ _Give your brain something to think about until tomorrow._
 
 This is a habit I recently adopted. Before I shut my brain off from thinking about work, I ask a question.
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-20.32.50.png" caption="Example of my MIQ" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-20.32.50.png" caption="Example of my MIQ" >}}
 
 The idea is this: If you give your brain an open problem, it will work on it in the background as you go about your business. And it will continue to work on it while you sleep too.
 
-{{< figure src="images/2022/02/5-3.png" caption="Example of my MIQ" >}}
+{{< figure src="/images/2022/02/5-3.png" caption="Example of my MIQ" >}}
 
 So tomorrow, when you sit down to work, the solution might be waiting there for you.
 
@@ -235,7 +235,7 @@ ___
 
 That's it.
 
-{{< figure src="images/2022/02/Screenshot-2022-02-10-at-22.53.51.png" caption="Example: My Daily Design" >}}
+{{< figure src="/images/2022/02/Screenshot-2022-02-10-at-22.53.51.png" caption="Example: My Daily Design" >}}
 
 This is the Daily Design template I use to make the most of my days.
 
