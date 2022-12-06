@@ -37,9 +37,7 @@ But what happens after they stop being passionate about whatever they've realize
 
 That happens. **We change, and what we want changes with us.**
 
-![Finding new purpose](https://www.ondrejmarkus.com/content/images/2022/01/2-4.png)
-
-Finding new purpose
+{{< figure src="images/2022/01/2-4.png" caption="Finding new purpose" >}}
 
 That's probably not a good long-term strategy for maintaining a sense of purpose in your life.
 
@@ -75,9 +73,7 @@ Being unsure about what you do is normal.
 
 I cherish the occasional day or two when I know exactly _why_, _what_, and _how_ I should do things. But they are rare.
 
-![The sinusoid of life](https://www.ondrejmarkus.com/content/images/2022/01/4-3.png)
-
-The sinusoid of life
+{{< figure src="images/2022/01/4-3.png" caption="The sinusoid of life" >}}
 
 I found that when I'm in a long stretch of feeling lost, the important thing is to **do something**.
 
@@ -115,9 +111,7 @@ So don't worry if you don't know what you want to do. That's normal.
 
 We will learn how to move forward despite not knowing what we want. We will figure things out as we go.
 
-![You don't need to know before you begin](https://www.ondrejmarkus.com/content/images/2022/01/3-3.png)
-
-You don't need to know before you begin.
+{{< figure src="images/2022/01/3-3.png" caption="You don't need to know before you begin." >}}
 
 That's enough theory. Let's get practical.
 
@@ -127,9 +121,7 @@ The first thing we're going to get better at is _problem finding_.
 
 Problem _solving_ is important, but you can't solve a problem you don't see.
 
-![Can't solve problems you don't see](https://www.ondrejmarkus.com/content/images/2022/01/6-1.png)
-
-Can't solve problems you don't see
+{{< figure src="images/2022/01/6-1.png" caption="Can't solve problems you don't see" >}}
 
 It's the feeling that something is wrong, but you're not sure what: _"Why don't I enjoy the work-life I have?"_
 
@@ -147,9 +139,7 @@ This is the first exercise you can do to start designing your life the way you w
 
 I do this exercise every month as part of my [monthly review](https://www.ondrejmarkus.com/20/). Its purpose is to look at your life from a higher perspective to notice problems that might be hiding from you in the rush of everyday happenings.
 
-![Break your life into areas](https://www.ondrejmarkus.com/content/images/2022/01/5-2.png)
-
-Break your life into areas
+{{< figure src="images/2022/01/5-2.png" caption="Break your life into areas" >}}
 
 Let's do it right now. I'll do it too.
 
@@ -185,9 +175,7 @@ You could use a 1-5 or 1-10 scale if it helps you express yourself better. It do
 
 This is mine. I kept it short. You can write much more if you want.
 
-![Examining my life as areas](https://www.ondrejmarkus.com/content/images/2022/01/adsfasdf.png)
-
-Examining my life as areas
+{{< figure src="images/2022/01/adsfasdf.png" caption="Examining my life as areas" >}}
 
 Do this exercise to create a snapshot of **where you are** right now.
 

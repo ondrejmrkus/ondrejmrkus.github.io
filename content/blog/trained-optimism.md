@@ -31,7 +31,7 @@ Learning optimism started as a necessity after an ugly breakup when I was 19. I'
 
 The result left me very sour. Whenever I remembered it, I felt terrible.
 
-At hat time, I started reading more and discovered that [people can learn things and change](/imagine/). _(I know!)_
+At that time, I started reading more and discovered that [people can learn things and change](/imagine/). _(I know!)_
 
 I'm not sure what was more shocking to me:
 
@@ -75,7 +75,7 @@ I'm not here to tell you what you should feel. I'm here to tell you that **you c
 
 Now, let's look at how I learned optimism.
 
-I will describe this method as a_ **Trigger–Response–Reward**_ cycle, which is how people form new habits.
+I will describe this method as a **Trigger–Response–Reward** cycle, which is how people form new habits.
 
 {{< figure src="/images/2022/02/6-1.png" >}}
 
@@ -126,7 +126,7 @@ Now, you might think: _"But I don't want to lose my critical thinking and replac
 
 Good point. But that's not how this works.
 
-Training yourself to react positively doesn't make everything good. I can still tell that something sucks. This isn't about __ pretending nothing is ever a problem.
+Training yourself to react positively doesn't make everything good. I can still tell that something sucks. This isn't about pretending nothing is ever a problem.
 
 I haven't lost any critical thinking by training my brain to be more optimistic. I can still unleash my pessimism _after_ enjoying the initial positive reaction.
 
@@ -136,6 +136,6 @@ I mean, if you need to know what's wrong with something, I'm your guy.
 
 The difference is that my brain is now a much more pleasant place to live in because it's not angry or annoyed all the time.
 
-My initial reaction to almost anything is positive. This is because my brain automatically finds an upside on everything that happens.
+My initial reaction to almost anything is positive. This is because my brain automatically finds an upside in everything that happens.
 
 Creating the optimism habit was one of the tiniest but most impactful changes on my everyday happiness. I bet it can do the same for you.

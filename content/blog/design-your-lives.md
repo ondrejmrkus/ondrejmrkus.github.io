@@ -29,7 +29,7 @@ That's why we approach the problem of finding meaningful work we enjoy _as desig
 2.  Try and test as many things as quickly as we can.
 3.  And then choose the option we want to commit to for now.
 
-![](https://www.ondrejmarkus.com/content/images/2022/01/2-13.png)
+{{< figure src="images/2022/01/2-13.png" caption="" >}}
 
 We will do the first one today and the next two in the following sessions.
 
@@ -56,9 +56,7 @@ _(This version of the exercise is a slightly changed version of what Bill and Da
 
 5.  Think about **three questions** you need to answer to increase your confidence this scenario could work for you.
 
-![Five-year timeline template](https://www.ondrejmarkus.com/content/images/2022/01/1-10.png)
-
-Five-year timeline template
+{{< figure src="images/2022/01/1-10.png" caption="Five-year timeline template" >}}
 
 Use every bit of insight you have from previous sessions to inspire your scenarios:
 
@@ -79,25 +77,19 @@ Try it. It's fun.
 
 I did it too using the [template](https://designingyour.life/wp-content/uploads/2016/08/DYL-Odyssey-Planning-Worksheet-v21.pdf), and I share my 5-year scenarios as examples:
 
-![My first option scenario](https://www.ondrejmarkus.com/content/images/2022/01/2-11.png)
-
-My first option scenario
+{{< figure src="images/2022/01/2-11.png" caption="My first option scenario" >}}
 
 My first option didn't surprise me because I've already thought about it before _(I'm living it)_. But it was still useful to look further into the future and connect the dots on a timeline.
 
 Let's go next.
 
-![My second option scenario](https://www.ondrejmarkus.com/content/images/2022/01/3-8.png)
-
-My second option scenario
+{{< figure src="images/2022/01/3-8.png" caption="My second option scenario" >}}
 
 This _"plan B"_ scenario surprised me a little. I could imagine doing different things, but the _game designer_ came to me first, so I rolled with it.
 
 I've never actually thought about game design as a viable full-time work-life, and even though it might not work for me as a whole, I will borrow the best parts and add them to my life. Nice.
 
-![My third option scenario](https://www.ondrejmarkus.com/content/images/2022/01/4-7.png)
-
-My third option scenario
+{{< figure src="images/2022/01/4-7.png" caption="My third option scenario" >}}
 
 It's weird to imagine a world where no external reason to work exists _(money, status, impact)_, and it's all about you and what you want to spend your time doing.
 
@@ -111,7 +103,7 @@ In conclusion, this exercise isn't about figuring out a perfect scenario from A 
 
 If you unleash your imagination, every scenario, however unrealistic, will teach you something_._
 
-![](https://www.ondrejmarkus.com/content/images/2022/01/3-9.png)
+{{< figure src="images/2022/01/3-9.png" caption="My third option scenario" >}}
 
 Try it. It's a fascinating experiment to imagine different futures for yourself.
 

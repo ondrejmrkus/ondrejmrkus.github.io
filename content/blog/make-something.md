@@ -4,7 +4,7 @@ date: 2021-05-21T08:47:08Z
 draft: false
 
 title: Make something you want to exist
-slug: 2021-05-21T08:47:08Z
+slug: make-something
 categories: [Learning]
 tags: [Learning]
 description: Harvest ideas to start learning by doing.

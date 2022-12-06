@@ -58,3 +58,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 .first-entry .entry-content {
     color: var(--primary);
 }
+
+.post-content figure > figcaption {
+    text-align: center;
+}

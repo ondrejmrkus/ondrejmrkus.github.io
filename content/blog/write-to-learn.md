@@ -25,17 +25,13 @@ It never works.
 
 Because, to me, writing is a process of figuring out what I actually think about the topic. So I don't know what I'm going to say until I start writing.
 
-![The 5-step article writing process](https://www.ondrejmarkus.com/content/images/2022/02/the-article-writing-process-3.png)
-
-My 5-step article writing process
+{{< figure src="/images/2022/02/the-article-writing-process-3.png" caption="My 5-step article writing process" >}}
 
 I both love and hate this unpredictability. It makes writing an adventure. It's full of exploration and learning, which is fun until it's 10 minutes to midnight on the day of the deadline.
 
 I hold myself accountable to a schedule because otherwise, I wouldn't finish anything. So I share one article every Tuesday and Thursday. And I confess: It gets sweaty sometimes.
 
-![Me every other publishing day...](https://www.ondrejmarkus.com/content/images/2022/02/sweaty.png)
-
-Me every other publishing day...
+{{< figure src="/images/2022/02/sweaty.png" caption="Me every other publishing day..." >}}
 
 ## Use writing to improve at anything
 
@@ -51,9 +47,7 @@ Writing is a remarkable learning tool because it has a fast feedback loop. You p
 
 You'd think that writing true things goes without saying. Not really. I often catch myself not believing what I put down on my first or second try. So I delete and start again until I believe what I say.
 
-![Me unsatisfied with my own logic](https://www.ondrejmarkus.com/content/images/2022/02/liar.png)
-
-Me unsatisfied with my own logic
+{{< figure src="/images/2022/02/liar.png" caption="Me unsatisfied with my own logic" >}}
 
 ## Write as if you were teaching
 
@@ -61,9 +55,7 @@ Write as you were teaching a friend, even if you write only for yourself. It wil
 
 It's hard. And it's also the fastest way to realize you know less than you thought about everything.
 
-![When writing makes me realize I understand nothing](https://www.ondrejmarkus.com/content/images/2022/02/dontknow.png)
-
-When writing makes me realize I understand nothing
+{{< figure src="/images/2022/02/dontknow.png" caption="When writing makes me realize I understand nothing" >}}
 
 But that is what makes the process so effective: **Writing helps you find gaps in your understanding and patch them up.**
 

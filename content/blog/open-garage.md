@@ -33,19 +33,19 @@ This article is about how to make the shift that will help you **overcome the fe
 
 Sharing what we made is scary. It feels like we're naked in front of strangers, saying: _“This is me: my ideas, skills, and taste. Judge me.”_
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/2-5.png)
+{{< figure src="images/2022/02/2-5.png" caption="" >}}
 
 One way to overcome the fear is to see your work as _always in progress_.
 
 Think about the work you share as public prototypes.
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/4-3.png)
+{{< figure src="images/2022/02/4-3.png" caption="" >}}
 
 These prototypes are finished to the best of your ability at the moment of sharing, and that is enough. That's _literally_ the best you could do. Nobody can expect of you more than doing the best you can right now.
 
 Anything you create is a snapshot of your current skills, which will change soon anyway.
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/6-2.png)
+{{< figure src="images/2022/02/6-2.png" caption="" >}}
 
 Public prototypes are your practice, not your product. Although some prototypes might end up accidentally brilliant, their primary purpose is to help you improve faster by finishing things more often.
 
@@ -57,7 +57,7 @@ Prototypes is how you get better. Product is how you make a living.
 -   **Developer**: Beta builds are your prototypes. Launch version is your product.
 -   **Painter**: Sketches are your prototypes. Paintings are your product.
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/5-4.png)
+{{< figure src="images/2022/02/5-4.png" caption="" >}}
 
 ## Do your best but dare to suck
 
@@ -73,15 +73,13 @@ It works like this:
 
 If your ability to recognize good work is better than your ability to create good work, you will struggle to finish anything.
 
-![Self-criticism black hole](https://www.ondrejmarkus.com/content/images/2022/02/3-4.png)
-
-Self-criticism black hole
+{{< figure src="images/2022/02/3-4.png" caption="Self-criticism black hole" >}}
 
 The hardest thing is sharing your work when you know it could be better but you don’t have the skills to make it better _(yet)_.
 
 Most people who want to create but don't are stuck here. They are not willing to suck even for a moment. So they choose not to create anything at all.
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/8.png)
+{{< figure src="images/2022/02/8.png" caption="" >}}
 
 Embracing the _work-in-progress_ mindset will help you get unstuck from the _Self-criticism black hole_ because you change your thinking from _“Anything I make has to be a masterpiece.”_ to “_Let’s do the best I can right now and learn.”_
 
@@ -90,7 +88,7 @@ Let's look at the reasons why you should share your work even if you think it co
 -   **Your perception of what’s good might be off**: If you are close to the _Self-criticism black hole_, you are too critical. Your work is actually better than you think. Share your best attempt and let other people decide what is good.
 -   **You will soon think your earlier work sucks anyway**: When you look back at your work in a year, you might be horrified. That’s okay. It means your skills improved a lot. It's a reason to celebrate. Actually, the sooner your current work seems bad to you, the more you’ve improved. So you should wish you hate your work as soon as possible.
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/7-1.png)
+{{< figure src="images/2022/02/7-1.png" caption="" >}}
 
 -   **Your current work might be perfect for somebody right now**: There is no such thing as perfect work. Perfect work is just work that is imperfect in a way some people enjoy. So don't keep your imperfect work for yourself. It might be perfect for somebody who's out there, and they will love you for sharing it.
 
@@ -100,7 +98,7 @@ So if you are trying your best but remain slightly disappointed with your work, 
 
 The person _(you)_ in the garage is arguably the most interesting object in close proximity. Don't act like it _(you)_ is not there.
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/9.png)
+{{< figure src="images/2022/02/9.png" caption="" >}}
 
 After all, it's _you_ who made all this. _How did you do that? Why did you do that? What will you do next?_
 

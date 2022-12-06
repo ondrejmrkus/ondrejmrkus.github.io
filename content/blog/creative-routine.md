@@ -35,9 +35,7 @@ Today, I want to share with you some of my favorite snippets and insights from t
 
 > A solid routine fosters a well-worn groove for one's mental energies and helps stave off the tyranny of moods. – Daily Rituals
 
-![Creative routine is your sanity fortress](https://www.ondrejmarkus.com/content/images/2022/02/2-6.png)
-
-Creative routine is a sanity fortress
+{{< figure src="images/2022/02/2-6.png" caption="Creative routine is a sanity fortress." >}}
 
 Let's start by defining routine:
 
@@ -49,9 +47,7 @@ I have at least one bad day a week when I don't feel like doing the work. Sure, 
 
 **A good routine prevents bad days from cascading into bad weeks.**
 
-![A good routine prevents bad days from cascading into bad weeks.](https://www.ondrejmarkus.com/content/images/2022/02/3-5.png)
-
-A good routine prevents bad days from cascading into bad weeks.
+{{< figure src="images/2022/02/3-5.png" caption="A good routine prevents bad days from cascading into bad weeks." >}}
 
 A bad day plus a solid routine ends up being a slightly below-average day you can work with and not get stuck.
 
@@ -78,9 +74,7 @@ I live in the repetition camp. I need structure.
 
 I write every morning except Saturdays. I work offline without interruptions of email or notifications. And I have a strict '[No meetings before noon](https://www.ondrejmarkus.com/no-meetings/)' policy because mornings are my natural energy peek of the day I want to spend on my [most important work](https://www.ondrejmarkus.com/miw/) – writing.
 
-![No meetings before noon.](https://www.ondrejmarkus.com/content/images/2022/02/4-4.png)
-
-No meetings before noon.
+{{< figure src="images/2022/02/4-4.png" caption="No meetings before noon." >}}
 
 My routine is simple:
 
@@ -125,9 +119,7 @@ I'm among the weirdos.
 
 I need to rearrange the furniture in my studio every 2-3 months. Otherwise, I get uninspired and bored in my room.
 
-![Me rearranging furniture to reset my creativity.](https://www.ondrejmarkus.com/content/images/2022/02/5-6.png)
-
-Me rearranging furniture to reset my creativity.
+{{< figure src="images/2022/02/5-6.png" caption="Me rearranging furniture to reset my creativity." >}}
 
 That applies to my digital environment too. For example, I change my writing app every few months.
 
@@ -145,9 +137,7 @@ So, basically, I pay others money to make myself work.
 
 So stupid. But so effective.
 
-![I pay others to make myself work.](https://www.ondrejmarkus.com/content/images/2022/02/6-3.png)
-
-I pay others to make myself work.
+{{< figure src="images/2022/02/6-3.png" caption="I pay others to make myself work." >}}
 
 ___
 
@@ -160,45 +150,3 @@ Recognize that you are weirdly unique, and figuring out what works for you is a 
 So whatever ends up being your routine, if it works, it works. Nothing else matters. There is no single objectively correct routine for everyone's creative work.
 
 Look for inspiration in others, try new things, but keep only what helps you [finish important work while enjoying the process](https://www.ondrejmarkus.com/system-that-works/).
-
-[Entrepreneurship](https://www.ondrejmarkus.com/tag/entrepreneurship/)
-
-[![Ondrej Markus](https://www.ondrejmarkus.com/content/images/size/w320/2021/08/tw-profile-pic-solar30.png)](https://www.ondrejmarkus.com/author/ondrej/)
-
-I write about designing your life around meaningful work you enjoy.
-
-## Design your life in 10 minutes a week.
-
-Get new articles with hand-drawn comics to your inbox the minute they are ready.
-
-Your email address
-
-Please check your inbox and click the link to confirm your subscription.
-
-Please enter a valid email address.
-
-An error occurred, please try again later.
-
-24 Mar 2022
-
-## [Leverage your money-making potential](https://www.ondrejmarkus.com/money-making-potential/)
-
-How to live more intentionally without worrying about money
-
-![Leverage your money-making potential](https://www.ondrejmarkus.com/content/images/size/w1460/2022/03/leverage-your-money-making-potential.jpg)
-
-22 Mar 2022
-
-## [The best thing money can buy](https://www.ondrejmarkus.com/money-can-buy/)
-
-To me, the best use of money is buying my freedom. Specifically, the autonomy to use my time however I choose. Working only on projects I choose to work onSpending time with a friend in the middle of a workdayGoing for a long walk whenever it's sunny outsideThese are the
-
-![The best thing money can buy](https://www.ondrejmarkus.com/content/images/size/w1460/2022/03/freedom.jpg)
-
-15 Mar 2022
-
-## [What's your money motivation?](https://www.ondrejmarkus.com/money-motivations/)
-
-Since I'm writing this series of articles about money, I spend a lot of time thinking about my motivations behind money. And I've realized I should share with you my personal preferences because context is important. My opinions are bound to what I want in life – my needs and values.
-
-![What's your money motivation?](https://www.ondrejmarkus.com/content/images/size/w1460/2022/03/money-motivations.jpg)
