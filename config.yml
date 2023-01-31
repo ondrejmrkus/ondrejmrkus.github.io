@@ -124,6 +124,10 @@ menu:
       name: About
       url: /about/
       weight: 3
+    - identifier: newsletter
+      name: Newsletter
+      url: https://tinyletter.com/ondrej_markus
+      weight: 4
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
