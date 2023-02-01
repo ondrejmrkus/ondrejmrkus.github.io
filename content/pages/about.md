@@ -5,8 +5,8 @@ author: Ondrej Markus
 draft: false
 
 slug: about
-description: "This website is my digital garage where I share my work."
-summary: "This website is my digital garage where I share my work."
+description: "My digital garage where I share my work."
+summary: "Hi again, I'm Ondrej."
 
 cover:
   image: "digital-garage.jpg"
@@ -17,11 +17,9 @@ cover:
 
 ---
 
-Hello. I'm Ondrej. I [build products](/build/), [write articles](/archives/), and teach entrepreneurship. Living and biking everywhere in Amsterdam.
+These days, I'm [learning game development](https://youtu.be/c9iTACOZHlo) to create a [game-based education program](https://ondrejmarkus.com/building-games/) for kids. I also make [videos](https://www.youtube.com/@ondrej_markus) and [articles](/archives/) about the intersection of games and education.
 
-[Introvert](/16/), [generalist](/fsf/), [self-learner](/expert/) and gamer.
-
-This website is my [digital garage](/open-garage/) where I share my [articles](/archives/) and [reflections](/categories/reflections/) about design, games and self-improvement.
+I [build products](/build/), [write articles](/archives/), and teach entrepreneurship. Living and biking everywhere in Amsterdam. [Introvert](/16/), [generalist](/fsf/), and [self-learner](/expert/).
 
 ## Core beliefs
 
@@ -39,7 +37,7 @@ Life and work should be pleasant. Things might get hard, but don't lose a good n
 
 ## Some of my favorite work
 
-I've been writing for a while now _(almost 3 years)_, so there are many articles you can dive into. I picked some of my favorites for you:
+I've been writing this blog for over 3 years now, so there are many articles you can dive into. I picked some of my favorites for you:
 
 * [Become an expert on yourself](/expert/)
 * [Train your brain to be optimistic](/trained-optimism/)
@@ -48,3 +46,5 @@ I've been writing for a while now _(almost 3 years)_, so there are many articles
 * [How to be as useful as you can](/max-useful/)
 
 Have fun.
+
+And [send me an email](mailto:o@ondrejmarkus.com) to say hi. :)
