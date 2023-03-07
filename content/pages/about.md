@@ -17,7 +17,9 @@ cover:
 
 ---
 
-These days, I'm [learning game development](https://youtu.be/c9iTACOZHlo) to create a [game-based education program](https://ondrejmarkus.com/building-games/) for kids. I also make [videos](https://www.youtube.com/@ondrej_markus) and [articles](/archives/) about the intersection of games and education.
+These days, I spend most of my time [learning game development](https://www.youtube.com/@ondrej_markus) to create a [game-based education program](https://ondrejmarkus.com/building-games/) for kids.
+
+I also make [videos](https://www.youtube.com/@ondrej_markus) and [articles](/archives/) about the intersection of games and education.
 
 I [build products](/build/), [write articles](/archives/), and teach entrepreneurship. Living and biking everywhere in Amsterdam. [Introvert](/16/), [generalist](/fsf/), and [self-learner](/expert/).
 
@@ -47,4 +49,4 @@ I've been writing this blog for over 3 years now, so there are many articles you
 
 Have fun.
 
-And [send me an email](mailto:o@ondrejmarkus.com) to say hi. :)
+And [email me](mailto:o@ondrejmarkus.com) to say hi. :)
