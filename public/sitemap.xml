@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ondrejmarkus.com/2022/</loc>
-    <lastmod>2023-01-30T15:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ondrejmarkus.com/categories/</loc>
-    <lastmod>2023-01-30T15:00:00+00:00</lastmod>
+    <lastmod>2023-07-20T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/</loc>
-    <lastmod>2023-01-30T15:00:00+00:00</lastmod>
+    <lastmod>2023-07-20T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/tags/reflections/</loc>
-    <lastmod>2023-01-30T15:00:00+00:00</lastmod>
+    <lastmod>2023-07-20T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/categories/reflections/</loc>
-    <lastmod>2023-01-30T15:00:00+00:00</lastmod>
+    <lastmod>2023-07-20T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/tags/</loc>
+    <lastmod>2023-07-20T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondrejmarkus.com/2023-q1-q2/</loc>
+    <lastmod>2023-07-20T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondrejmarkus.com/2022/</loc>
     <lastmod>2023-01-30T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/building-games/</loc>
@@ -86,6 +89,9 @@
     <loc>https://ondrejmarkus.com/money-motivations/</loc>
     <lastmod>2022-03-15T22:43:00+00:00</lastmod>
   </url><url>
+    <loc>https://ondrejmarkus.com/fund-yourself/</loc>
+    <lastmod>2022-03-15T15:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ondrejmarkus.com/money-day/</loc>
     <lastmod>2022-03-10T15:35:00+00:00</lastmod>
   </url><url>
@@ -137,6 +143,9 @@
     <loc>https://ondrejmarkus.com/find-meaning/</loc>
     <lastmod>2022-01-20T15:26:00+00:00</lastmod>
   </url><url>
+    <loc>https://ondrejmarkus.com/follow-joy/</loc>
+    <lastmod>2022-01-15T15:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ondrejmarkus.com/start-where-you-are/</loc>
     <lastmod>2022-01-13T21:46:00+00:00</lastmod>
   </url><url>
@@ -148,6 +157,9 @@
   </url><url>
     <loc>https://ondrejmarkus.com/miw/</loc>
     <lastmod>2022-01-10T20:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondrejmarkus.com/get-unstuck/</loc>
+    <lastmod>2022-01-10T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondrejmarkus.com/write-public-reflections/</loc>
     <lastmod>2022-01-06T20:12:00+00:00</lastmod>
@@ -326,12 +338,6 @@
     <loc>https://ondrejmarkus.com/about/</loc>
   </url><url>
     <loc>https://ondrejmarkus.com/archives/</loc>
-  </url><url>
-    <loc>https://ondrejmarkus.com/follow-joy/</loc>
-  </url><url>
-    <loc>https://ondrejmarkus.com/fund-yourself/</loc>
-  </url><url>
-    <loc>https://ondrejmarkus.com/get-unstuck/</loc>
   </url><url>
     <loc>https://ondrejmarkus.com/connect/</loc>
   </url><url>

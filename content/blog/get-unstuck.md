@@ -1,6 +1,6 @@
 ---
 author: Ondrej Markus
-date: 
+date: 2022-01-10T15:00:00Z
 draft: false
 
 title: Get unstuck

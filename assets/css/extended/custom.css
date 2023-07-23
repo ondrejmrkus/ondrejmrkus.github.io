@@ -9,6 +9,9 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 }
 
 .dark {
+    --theme: #141518;
+    --entry: #141518;
+    --border: #3c404a;
     --brand: rgb(87, 68, 255);
 }
 

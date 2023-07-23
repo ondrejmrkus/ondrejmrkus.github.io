@@ -1,6 +1,6 @@
 ---
 author: Ondrej Markus
-date: 
+date: 2022-03-15T15:00:00Z
 draft: false
 
 title: Fund yourself

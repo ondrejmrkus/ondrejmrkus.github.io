@@ -25,8 +25,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "A designer based in Amsterdam, exploring game-based learning."
-  keywords: [ondrej markus, blog, game design, game development, games, game-based learning, serious games, education]
+  description: "A designer based in Prague, exploring game-based learning."
+  keywords: [ondrej markus, blog, education, innovation, game design, game development, games, game-based learning]
   author: Ondrej Markus
   images: 
   DateFormat: "January 2, 2006"
@@ -82,19 +82,15 @@ params:
     Title: Hey, I'm Ondrej
     Content: |
 
-      I'm a **designer**, **entrepreneur**, and **teacher** living and biking everywhere in Amsterdam.
-      
-      I spend most of my time these days learning game development and [making videos](https://www.youtube.com/@ondrej_markus) about it.
+      I've been an [entrepreneur](https://ondrejmarkus.com/tags/entrepreneurship/), [designer](https://ondrejmarkus.com/3-levels/), and teacher. I'm an [introvert](https://ondrejmarkus.com/16/) and [self-learner](https://ondrejmarkus.com/tags/learning/). 
 
-      You can [get a monthly email](https://tinyletter.com/ondrej_markus) from me where I share the most interesting things I made and discovered on the intersection of games and education.
+      These days, I'm creating [Playful](https://playful.cz) - a game-based education program for kids.
 
   socialIcons:
     - name: twitter
       url: https://twitter.com/ondrej_markus
     - name: youtube
       url: https://www.youtube.com/@ondrej_markus
-    - name: kofi
-      url: https://ko-fi.com/ondrej_markus
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -118,18 +114,10 @@ menu:
       name: Articles
       url: /blog/
       weight: 1
-    - identifier: notes
-      name: Notes
-      url: https://notes.ondrejmarkus.com/
-      weight: 2
     - identifier: about
       name: About
       url: /about/
       weight: 3
-    - identifier: newsletter
-      name: Newsletter
-      url: https://tinyletter.com/ondrej_markus
-      weight: 4
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
