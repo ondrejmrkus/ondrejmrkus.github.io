@@ -10,10 +10,10 @@ menu:
     url: /blog
     weight: 10
 
-  - identifier: about
-    name: About
-    url: /about
+  - identifier: projects
+    name: Projects
+    url: /projects
     weight: 20
 
 permalinks:
-  blog: '/:slug/'
+  blog: /:slug/

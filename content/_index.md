@@ -2,9 +2,9 @@
 title: "Home"
 ---
 
-![Ondrej Markus](images/stickman.png)
+![Ondrej Markus](/images/stickman.png)
 
-- I'm doing my best to build the future of education as a co-founder @ [Playful]((/playful/)).
+- I'm doing my best to build the future of education as a co-founder @ [Playful](/playful/).
 - Startup founder, product designer, game designer, university teacher.
 - [Generalist](/fsf/), [introvert](/16/), [self-starter](/build/), optimizing to be [useful](/max-useful/).
 - I write about designing products, running startups, and trying to be 1 % better every day.
