@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-22T22:41:00Z
+date: 2022-03-22
 draft: false
-
 title: The best thing money can buy
 slug: money-can-buy
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
-description: 
-summary: 
-
-cover:
-  image: /images/2022/03/freedom.jpg
-  alt: The best thing money can buy
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [entrepreneurship]
+description:
 ---
+
+![The best thing money can buy](/images/2022/03/freedom.jpg)
 
 To me, the best use of money is buying my freedom. Specifically, the autonomy to use my time however I choose.
 

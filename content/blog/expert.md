@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-02-03T19:39:00Z
+date: 2022-02-03
 draft: false
-
 title: Become an expert on yourself
 slug: expert
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: How to practice self-awareness and get your life under control.
-summary: How to practice self-awareness and get your life under control.
-
-cover:
-  image: /images/2022/02/1.png
-  alt: Become an expert on yourself
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Become an expert on yourself](/images/2022/02/1.png)
 
 You spend all your time with yourself. 24/7 you listen to your thoughts, feel your emotions, and dream your dreams.
 

@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-06T20:12:00Z
+date: 2022-01-06
 draft: false
-
 title: Write public reflections
 slug: write-public-reflections
-categories: [Writing]
-tags: [Writing]
+tags: [writing]
 description: It's the best way to start writing and improve at anything you do.
-summary: It's the best way to start writing and improve at anything you do.
-
-cover:
-  image: /images/2022/01/adsf.png
-  alt: Write public reflections
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Write public reflection](/images/2022/01/adsf.png)
 
 I have been writing for 2 years now.
 

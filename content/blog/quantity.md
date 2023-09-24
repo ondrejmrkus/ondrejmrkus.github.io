@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2020-10-19T17:00:00Z
+date: 2020-10-19
 draft: false
-
-title: Quantity is the shortest way to excellent results
+title: Try this counter-intuitive approach to creative work
 slug: quantity
-categories: [Learning]
-tags: [Learning]
-description: There is a counter-intuitive approach to creative work that changed how I do everything.
-summary: There is a counter-intuitive approach to creative work that changed how I do everything.
-
-cover:
-  image: /images/2020/10/quantity.png
-  alt: Quantity is the shortest way to excellent results
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [learning]
+description:
 ---
+
+![Quantity is the shortest way to excellent results](/images/2020/10/quantity.png)
 
 There is a counter-intuitive approach to creative work that changed how I do everything. It breaks old unproductive patterns in our behavior and replaces them with what we knew as kids but forgot.
 
@@ -35,9 +26,9 @@ If you do lots of anything, it stops being scary. When you write an article, dev
 
 But that's harder than it sounds because we aren't used to doing this. We got trained out of it a long time ago. It's a sad story, and I'm going to get angry.
 
-### This is how we kill creativity
+This is how we kill creativity:
 
-When you were about four years old, you probably draw pictures like a maniac. Your tiny fingers clutching crayons zig-zagged over one paper after another with incredible lightness. There were no stakes, no anxiety, no fear of failure.
+When you were about four years old, you probably drew pictures like a maniac. Your tiny fingers clutching crayons zig-zagged over one paper after another with incredible lightness. There were no stakes, no anxiety, no fear of failure.
 
 {{< figure src="/images/2020/10/fouryearold.png" >}}
 
@@ -62,13 +53,13 @@ But, of course, our goal isn't to create piles of junk instead of doing one thin
 I heard a story from Kevin Kelly (1). It's from the book Art & Fear by David Bayles and Ted Orland (2), and it shows how quantity works in practice.
 
 > In a pottery class, the teacher divided students into two equal-sized groups: a quantity group and a quality group.
-
+>
 > The rules were simple: On the final day of the semester, the teacher would weigh the work of the quantity group on a scale. Fifty pounds of pots gets an A, forty pounds a B, and so on. However, the quality group needed to produce only one pot–one perfect piece of work–to get an A.
-
+>
 > During the semester, the first group worked on producing as many pots as possible–they focused on quantity. The other group planned and polished just one piece into a state of perfection.
-
+>
 > Yet by the end of the semester, a curious fact emerged. All the highest quality pots came from the group graded for quantity. How is that possible?
-
+>
 > It seems that while the quantity group was busily churning out piles of work, they learned from their mistakes and improved rapidly. While the quality group ran in circles trying to get it right the first time and ended up with little to show for it.
 
 I like this story because it reminds me that everyone has to muddle through one, two, ten, or sometimes a hundred mediocre results to get better. There is no way around doing the hard work of quantity. No one is excellent on their first attempt.
@@ -86,3 +77,7 @@ How are you going to use the power of quantity in your life?
 Or if you are impatient like I am: How would any of them improve if you did it every day for a month?
 
 Quantity is the queen of progress. She's the shortest path to excellence we forgot we knew. Use her to your advantage.
+
+**Footnotes**
+- (1): [The Power of Being Lost | Kevin Kelly on Impact Theory](https://youtu.be/AWRx6f4blzM?si=4SV9dXMKvt6LVlNq)
+- (2): [Art & Fear by David Bayles and Ted Orland](https://www.goodreads.com/book/show/187633.Art_and_Fear)

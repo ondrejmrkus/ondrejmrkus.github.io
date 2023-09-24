@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-31T22:16:00Z
+date: 2022-01-31
 draft: false
-
 title: The power of being lost
 slug: lost
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: How to keep getting lost and find yourself anyway.
-summary: How to keep getting lost and find yourself anyway.
-
-cover:
-  image: /images/2022/01/1-12.png
-  alt: The power of being lost
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![The power of being lost](/images/2022/01/1-12.png)
 
 Today, I will share with you my favorite ideas from writer [Kevin Kelly](https://kk.org/).
 
@@ -123,6 +114,5 @@ Go get lost.
 
 {{< figure src="/images/2022/01/sfgdfg.png" caption="" >}}
 
-#### Footnotes
-
+**Footnotes**
 1.  Most of the ideas from this article are based on the first half of [Kevin Kelly's video interview](https://youtu.be/AWRx6f4blzM) on the Impact Theory Youtube channel. Watch it. It's really good.

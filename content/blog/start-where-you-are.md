@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-13T21:46:00Z
+date: 2022-01-13
 draft: false
-
 title: Start where you are
 slug: start-where-you-are
-categories: [Life design]
-tags: [Life design]
+tags: [life-design]
 description: "A friend once told me: I don't know what I want to do in life. I really need a near-death experience to find out."
-summary: "A friend once told me: I don't know what I want to do in life. I really need a near-death experience to find out."
-
-cover:
-  image: /images/2022/01/1-8.png
-  alt: Start where you are
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Start where you are](/images/2022/01/1-8.png)
 
 A friend once told me: _"I don't know what I want to do in life. I really need a near-death experience to find out."_
 

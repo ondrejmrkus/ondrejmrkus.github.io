@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-06-15T18:20:00Z
+date: 2021-06-15
 draft: false
-
 title: "What the work happened #5"
 slug: may21
-categories: [Reflections]
-tags: [Reflections]
+tags: [reflections]
 description: Better systems, bloody writing, and The Van incident
-summary: Better systems, bloody writing, and The Van incident
-
-cover:
-  image: /images/2021/06/wtwh5-cover.png
-  alt: "What the work happened #5"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![What the work happened #5](/images/2021/06/wtwh5-cover.png)
 
 Hey there 👋
 
@@ -41,7 +32,7 @@ Let's go.
 
 ## How to design a better System for work
 
-{{< figure src="/images/2021/06/system-parts-1.png" caption="Design your System for work" >}}
+{{< figure src="/images/2021/06/system-parts.png" caption="Design your System for work" >}}
 
 I need my System to help me do 2 things:
 
@@ -206,7 +197,7 @@ This is meant as a snapshot of my design process that could be helpful when you 
 
 What do you think?
 
-If you have a question, an opinion, an idea, please shoot at: [o@ondrejmarkus.com](mailto:o@ondrejmarkus.com)
+If you have a question, an opinion, an idea, please shoot at: [my email](mailto:o@ondrejmarkus.com)
 
 Please, really do. Knowing what's helpful, or unclear, or completely missing is precious feedback for me.
 

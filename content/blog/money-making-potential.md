@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-24T21:27:00Z
+date: 2022-03-24
 draft: false
-
 title: Leverage your money-making potential
 slug: money-making-potential
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [entrepreneurship]
 description: How to live more intentionally without worrying about money.
-summary: How to live more intentionally without worrying about money.
-
-cover:
-  image: /images/2022/03/leverage-your-money-making-potential.jpg
-  alt: Leverage your money-making potential
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Leverage your money-making potential](/images/2022/03/leverage-your-money-making-potential.jpg)
 
 Today, I want to talk about a concept that helps me sleep well even when my savings are running low.
 

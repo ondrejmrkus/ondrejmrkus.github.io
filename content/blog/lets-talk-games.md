@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-08-02T11:38:00Z
+date: 2022-08-02
 draft: false
-
 title: "Let's talk games"
 slug: lets-talk-games
-categories: [Games]
-tags: [Games]
+tags: [games]
 description: I want to write about games and what makes them remarkable.
-summary: I want to write about games and what makes them remarkable.
-
-cover:
-  image: /images/2022/08/lets-talk-games.jpg
-  alt: "Let's talk games"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Let's talk games](/images/2022/08/lets-talk-games.jpg)
 
 Games tickle my brain the right way. I enjoy examining them, making them, and playing them.
 

@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-02-08T19:20:00Z
+date: 2021-02-08
 draft: false
-
 title: "What the work happened #1"
 slug: jan21
-categories: [Reflections]
-tags: [Reflections]
+tags: [reflections]
 description: A very personal reflection on my work in January 2021.
-summary: A very personal reflection on my work in January 2021.
-
-cover:
-  image: /images/2021/02/january-21.jpg
-  alt: "What the work happened #1"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![What the work happened #1](/images/2021/02/january-21.jpg)
 
 Hey there.
 
@@ -39,14 +30,14 @@ Alright, let's begin.
 
 ## What I worked on in January
 
-1. **[2020: The ballad for bad work](/jan21/#2020-the-ballad-for-bad-work)** (writing)
+1. **[2020: My ballad for bad work](/jan21/#2020-my-ballad-for-bad-work)** (writing)
 2. **[Comic book: První hráči](/jan21/#prvn-hr-i)** (writing + drawing)
 3. **[Meaningful work guide 2.0](/jan21/#meaningful-work-guide-2-0)** (research)
 4. **[JavaScript practice](/jan21/#javascript-practice)** (learning to code)
 
 I'll go through them one by one. Feel free to skip to whatever interests you, of course.
 
-### 2020: The ballad for bad work
+### 2020: My ballad for bad work
 
 I like to start the new year by [**properly looking back**](/2020/) at the last one. Going through my journals helps me to understand myself a little better. (And/or wonder what the hell am I trying to do with my life). In either case, I can mentally move on.
 
@@ -174,8 +165,4 @@ Overall, what gives me comfort in uncertainty, is that, for now, I know **the go
 
 Currently, I keep adding more tools and forms into my toolbox to have the ability to always pick the most effective combination to say what I want to say. Sometimes that might be a pure text essay, sometimes comics, sometimes an online game, and sometimes a hybrid of more than one of them. Maybe that isn't the most effective way to pursue that goal, but it's the way I like.
 
----
-
-**Thank you** for reading. Hopefully, some of it made sense to you.
-
-**P. S.: What are _you_ thinking about the most lately?** (I'm curious, [email me](mailto:o@ondrejmarkus.com) back, please.)
+Thank you for reading. Hopefully, some of it made sense to you.

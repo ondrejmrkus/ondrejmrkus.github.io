@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-01T22:49:00Z
+date: 2022-03-01
 draft: false
-
 title: Feelgood journal
 slug: feelgood
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: A simple method I used to train my brain to be more optimistic.
-summary: A simple method I used to train my brain to be more optimistic.
-
-cover:
-  image: /images/2022/03/life-doesnt-suck.jpg
-  alt: Feelgood journal
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Feelgood journal](/images/2022/03/life-doesnt-suck.jpg)
 
 A few weeks ago, I wrote about how [I learned optimism as a habit](/trained-optimism/) in 2014.
 

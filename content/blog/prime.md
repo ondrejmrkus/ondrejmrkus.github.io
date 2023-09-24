@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-31T20:32:00Z
+date: 2022-03-31
 draft: false
-
 title: Prime your mind for better decisions
 slug: prime
-categories: [Self-management]
-tags: [Self-management]
+tags: [self-management]
 description: How to be your best self when making life-changing decisions.
-summary: How to be your best self when making life-changing decisions.
-
-cover:
-  image: /images/2022/03/prime-your-mind.png
-  alt: Prime your mind for better decisions
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Prime your mind for better decisions](/images/2022/03/prime-your-mind.png)
 
 When you are about to make a big decision, it deserves your highest state of mind.
 

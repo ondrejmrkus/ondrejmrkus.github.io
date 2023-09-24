@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-02-08T20:43:36Z
+date: 2022-02-08
 draft: false
-
 title: Train your brain to be optimistic
 slug: trained-optimism
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: How to stop having negative reactions to everything that happens to you.
-summary: How to stop having negative reactions to everything that happens to you.
-
-cover:
-  image: /images/2022/02/1-2.png
-  alt: Train your brain to be optimistic
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Train your brain to be optimistic](/images/2022/02/1-2.png)
 
 I was a pessimist when I was younger. I spent a lot of time unhappy because my brain reacted to bad things by flooding me with negative thoughts.
 

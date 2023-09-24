@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-05-17T15:48:07Z
+date: 2021-05-17
 draft: false
-
-title: Building faster learning loops for writing in public
+title: "I will try writing 100 articles in 100 days"
 slug: writing-loop
-categories: [Writing]
-tags: [Writing]
+tags: [writing]
 description: I'm going to live inside this feedback loop for the next 100 days to become a better writer.
-summary: I'm going to live inside this feedback loop for the next 100 days to become a better writer.
-
-cover:
-  image: /images/2021/05/learning-loop-cover.png
-  alt: Building faster learning loops for writing in public
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Building faster learning loops for writing in public](/images/2021/05/learning-loop-cover.png)
 
 It's about a year since I started writing on this blog. I'm spending more and more time doing it and I've learned a lot in the process. In fact, **writing is one of the best things that happened to my learning**.
 

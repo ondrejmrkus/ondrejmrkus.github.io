@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-04-07T18:30:00Z
+date: 2021-04-07
 draft: false
-
 title: "What the work happened #3"
 slug: mar21
-categories: [Reflections]
-tags: [Reflections]
+tags: [reflections]
 description: A very personal reflection on my work in March 2021.
-summary: A very personal reflection on my work in March 2021.
-
-cover:
-  image: /images/2021/04/wtwh-3-cover.png
-  alt: "What the work happened #3"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![What the work happened #3](/images/2021/04/wtwh-3-cover.png)
 
 Hey there 👋
 
@@ -78,8 +69,6 @@ Also, I recently switched to a new **project-centric system** that combines the 
 
 Together they form a **productivity system optimized for high creative output**. In other words, they help me produce a lot of things that make my inner productivity junkie happy.
 
-I'm going to write more about that soon. ([Join the email list](/mar21/#/portal) to get it when it's ready.)
-
 Moving on.
 
 ## A 10-year reflection of what I care about in my projects
@@ -137,7 +126,7 @@ I pushed this from an idea at the beginning of March to something that's actuall
 
 I made some quick web prototypes and tested them every few days with people who might be interested in joining, most of them were, so I launched it as an experimental run.
 
-(It's a Czech-speaking group, so [the latest prototype](https://metasprint.webflow.io/) is also Czech. [Let me know](mailto:o@ondrejmarkus.com) if that's something you'd be interested in. We will sprint again soon with both Czech and English-speaking group.)
+([The latest prototype](https://metasprint.webflow.io/))
 
 ### 🚀 Innovation lab
 

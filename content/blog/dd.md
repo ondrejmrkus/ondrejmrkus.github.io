@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-02-10T22:04:29Z
+date: 2022-02-10
 draft: false
-
 title: "Daily Design: Template for winning your day"
 slug: dd
-categories: [Self-management]
-tags: [Self-management]
-description: 
-summary: 
-
-cover:
-  image: /images/2022/02/1-5.png
-  alt: Daily Design
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [self-management]
+description:
 ---
+
+![Daily Design](/images/2022/02/1-5.png)
 
 The Daily Design is a mindful way to plan your day in five minutes.
 

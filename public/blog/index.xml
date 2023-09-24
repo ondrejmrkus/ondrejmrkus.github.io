@@ -1,70 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Ondrej Markus</title>
+    <title>Blogs on Ondrej Markus</title>
     <link>https://ondrejmarkus.com/blog/</link>
-    <description>Recent content in Blog on Ondrej Markus</description>
+    <description>Recent content in Blogs on Ondrej Markus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jun 2022 17:17:38 +0200</lastBuildDate><atom:link href="https://ondrejmarkus.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What the work happened: Q1 &#43; Q2 2023</title>
       <link>https://ondrejmarkus.com/2023-q1-q2/</link>
-      <pubDate>Thu, 20 Jul 2023 15:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/2023-q1-q2/</guid>
-      <description>A reflection on my work and life from January to June 2023.</description>
+      <description>Hey there,
+it&amp;rsquo;s been a long time since I wrote anything here. That&amp;rsquo;s because a lot was happening, and still is. Exciting times.
+Let&amp;rsquo;s start with bullet points as a summary, and then the long version. If you want to read the long version, you can skip the summary.
+TLDR: Had a great time in Amsterdam, riding bikes everywhere, meeting new people I was learning game development in Godot for 3 months I published 5 videos on Youtube about my gamedev journey, I learned video-editing in the process I was exchanging daily video journals with Michel to learn how to talk on camera and keep external accountability as a solo maker I co-ran another cohort of Innovation Lab on the Charles University in Prague (online) I interview people for 2 podcasts and was a guest in 1 (all in Czech) I organized my first sessions with kids playing Minecraft, testing my game-based edu program concept Moved back to Prague for now because Lin&amp;rsquo;s fashion tech course ended in April and we didn&amp;rsquo;t have any apartment lined up.</description>
     </item>
     
     <item>
       <title>2022: Unanswered questions</title>
       <link>https://ondrejmarkus.com/2022/</link>
-      <pubDate>Mon, 30 Jan 2023 15:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/2022/</guid>
-      <description>A yearly reflection on my work and life in 2022.</description>
+      <description>2022 was a turbulent year for me:
+I wrote full-time for 3 months, published 26 articles, but ended up deciding not to pursue writing full-time anymore I grinded for 3 months as a consulting innovation designer I decided to pivot my focus to game design I moved from Prague to Amsterdam Last year feels like it had four distinct chapters. So let&amp;rsquo;s begin by going over each of them to briefly reflect on what happened.</description>
     </item>
     
     <item>
       <title>Building games to train problem-solvers</title>
       <link>https://ondrejmarkus.com/building-games/</link>
-      <pubDate>Fri, 18 Nov 2022 10:10:34 +0000</pubDate>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/building-games/</guid>
-      <description>How to use games to teach kids problem-solving, decision-making, and cooperation in teams.</description>
+      <description>I recently discovered Synthesis and how they use games to teach kids complex problem-solving, decision making, and communication in teams.
+I&amp;rsquo;m blown away. Inspired.
+You know the feeling when you&amp;rsquo;ve been looking for a project to do for some time, and then you find something and you feel like: &amp;ldquo;YES! That&amp;rsquo;s exactly it.&amp;rdquo;
+When everything clicks together.
+You knew the ingredients of what you wanted to do, but you didn&amp;rsquo;t know how to mix them together.</description>
     </item>
     
     <item>
       <title>What the work happened: Q3 2022</title>
       <link>https://ondrejmarkus.com/2022-q3/</link>
-      <pubDate>Mon, 10 Oct 2022 15:32:00 +0000</pubDate>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/2022-q3/</guid>
-      <description>My quarterly reflection about moving to Amsterdam, looking for a job, and designing games.</description>
+      <description>Hey there,
+it’s been a while, I know.
+I stopped writing and I’m not sure why. I guess it’s because moving to a different country turned out to be more mentally draining than I expected.
+So let’s sum up what happened over the last three months. We should start where my last reflection ended. I said I’m going to do two things in Q3:
+“I will make games and talk about it.</description>
     </item>
     
     <item>
       <title>Let&#39;s talk games</title>
       <link>https://ondrejmarkus.com/lets-talk-games/</link>
-      <pubDate>Tue, 02 Aug 2022 11:38:00 +0000</pubDate>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/lets-talk-games/</guid>
-      <description>I want to write about games and what makes them remarkable.</description>
+      <description>Games tickle my brain the right way. I enjoy examining them, making them, and playing them.
+This year, I realized my mind spends a lot of time thinking about the world in terms of games, so I might as well follow my enthusiasm and dive in.
+Why not spend my life doing what I enjoy the most?
+What I&amp;rsquo;m going to write about These are some of the questions I&amp;rsquo;m exploring:</description>
     </item>
     
     <item>
       <title>What the work happened: Q2 2022</title>
       <link>https://ondrejmarkus.com/2022-q2/</link>
-      <pubDate>Mon, 11 Jul 2022 16:32:00 +0000</pubDate>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/2022-q2/</guid>
-      <description>A very personal reflection on my work-life from April to June 2022.</description>
+      <description>Hey there,
+it’s time for a quarterly reflection.
+First, I wrote a super-long piece about everything that happened. It was helpful for my introspection, but it was not interesting. Believe me.
+So I scratched it.
+And now I’m sharing this relatively short n’ sweet version.
+Let’s do it.
+What&amp;rsquo;s the story of Q2? It began by me priming my decision-making muscles and then taking a 3-week break from writing to figure out what do I want to do next in life.</description>
     </item>
     
     <item>
       <title>Why don&#39;t I do what I say I want</title>
       <link>https://ondrejmarkus.com/why-dont/</link>
-      <pubDate>Tue, 07 Jun 2022 17:44:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/why-dont/</guid>
       <description>A month ago, I switched from a writing-only lifestyle to a part-time design job. I joined an innovation agency where I worked a year ago to lead a project with a big corporate client.
@@ -76,25 +97,31 @@ And I&amp;rsquo;m not happy about that.</description>
     <item>
       <title>What the work happened: Q1 2022</title>
       <link>https://ondrejmarkus.com/2022-q1/</link>
-      <pubDate>Thu, 28 Apr 2022 17:08:00 +0000</pubDate>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/2022-q1/</guid>
-      <description>A very personal reflection on my work-life from January to March 2022.</description>
+      <description>I&amp;rsquo;m back after a three-week strategic break from publishing articles which I used to self-reflect and plan the next big step in my work-life.
+Now I&amp;rsquo;m ready to share with you what I cooked up and what my life-planning process looked like with more detail than anyone needs.
+There are two major parts:
+Reflection on Q1: What worked well for me, what didn&amp;rsquo;t work, what surprised me most, and what I learned from all that.</description>
     </item>
     
     <item>
       <title>Prime your mind for better decisions</title>
       <link>https://ondrejmarkus.com/prime/</link>
-      <pubDate>Thu, 31 Mar 2022 20:32:00 +0000</pubDate>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/prime/</guid>
-      <description>How to be your best self when making life-changing decisions.</description>
+      <description>When you are about to make a big decision, it deserves your highest state of mind.
+High energy, not exhausted Calm, not anxious Focused, not distracted I have been priming my state of mind for the last two weeks because I&amp;rsquo;m considering a big change in my life.
+So, today, I will show you how I prime my state of mind before making life-changing decisions.
+Switching modes: Strategic vs. Tactical Before I show you how I prepare for high-level planning, I need to explain the difference between the two perspectives I switch between in life: Strategic and Tactical.</description>
     </item>
     
     <item>
-      <title>Go nuts to find your balance</title>
+      <title>Use overcompensation to find your balance</title>
       <link>https://ondrejmarkus.com/overcompensation/</link>
-      <pubDate>Tue, 29 Mar 2022 21:44:00 +0000</pubDate>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/overcompensation/</guid>
       <description>About a month ago, I wrote about how keeping a feelgood journal can help you train your brain to be more optimistic.
@@ -105,16 +132,19 @@ So today, I want to explore how can we use overcompensation to find the right ba
     <item>
       <title>Leverage your money-making potential</title>
       <link>https://ondrejmarkus.com/money-making-potential/</link>
-      <pubDate>Thu, 24 Mar 2022 21:27:00 +0000</pubDate>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/money-making-potential/</guid>
-      <description>How to live more intentionally without worrying about money.</description>
+      <description>Today, I want to talk about a concept that helps me sleep well even when my savings are running low.
+Understand your potential First, let’s pin down what exactly I mean by the money-making potential.
+Your potential is what you know you could be doing but are not doing right now.
+For example, let&amp;rsquo;s say you are good at programming but decide not to work for the next three months so you can travel and regain perspective in life.</description>
     </item>
     
     <item>
       <title>The best thing money can buy</title>
       <link>https://ondrejmarkus.com/money-can-buy/</link>
-      <pubDate>Tue, 22 Mar 2022 22:41:00 +0000</pubDate>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/money-can-buy/</guid>
       <description>To me, the best use of money is buying my freedom. Specifically, the autonomy to use my time however I choose.
@@ -125,16 +155,18 @@ And I wonder, why don&amp;rsquo;t we get the freedom, autonomy, and flexibility 
     <item>
       <title>Why you should go broke</title>
       <link>https://ondrejmarkus.com/go-broke/</link>
-      <pubDate>Thu, 17 Mar 2022 22:59:00 +0000</pubDate>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/go-broke/</guid>
-      <description>At least once...</description>
+      <description>About four years ago, I went broke for like a week, and it was the best thing that could happen to me. It taught me a valuable lesson about money.
+I will tell you that story today.
+It&amp;rsquo;s 2018, and I&amp;rsquo;ve just left a business I co-founded with three friends. We were relatively successful financially, but after two years of working hard on it, I felt empty of meaning and needed to make a change.</description>
     </item>
     
     <item>
       <title>What&#39;s your money motivation?</title>
       <link>https://ondrejmarkus.com/money-motivations/</link>
-      <pubDate>Tue, 15 Mar 2022 22:43:00 +0000</pubDate>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/money-motivations/</guid>
       <description>Since I&amp;rsquo;m writing this series of articles about money, I spend a lot of time thinking about my motivations behind money. And I&amp;rsquo;ve realized I should share with you my personal preferences because context is important.
@@ -144,16 +176,18 @@ My opinions are bound to what I want in life – my needs and values. And if you
     <item>
       <title>Fund yourself</title>
       <link>https://ondrejmarkus.com/fund-yourself/</link>
-      <pubDate>Tue, 15 Mar 2022 15:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/fund-yourself/</guid>
-      <description>How to use money on what matters the most?</description>
+      <description>Money is a versatile resource. We can trade it for almost anything at any time. It creates options, flexibility, and safety. And that&amp;rsquo;s why we like it.
+But because money represents so many things we want, it&amp;rsquo;s easy to mistake it for the goal, while it&amp;rsquo;s just a resource. And it would be pointless to hoard a resource we never use for what it&amp;rsquo;s for.
+So what is money for?</description>
     </item>
     
     <item>
       <title>What if you made money 1 day a week?</title>
       <link>https://ondrejmarkus.com/money-day/</link>
-      <pubDate>Thu, 10 Mar 2022 15:35:00 +0000</pubDate>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/money-day/</guid>
       <description>Let&amp;rsquo;s continue stretching our mental models about money.
@@ -165,28 +199,33 @@ Create space for what you want to do We are social creatures with a need to fit 
     <item>
       <title>How to turn bad days around</title>
       <link>https://ondrejmarkus.com/bad-days/</link>
-      <pubDate>Thu, 03 Mar 2022 22:45:00 +0000</pubDate>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/bad-days/</guid>
       <description>I had a couple of bad days in a row. That didn&amp;rsquo;t happen to me for a while. So I was surprised.
 Because the less it happens, the easier it is to forget how quickly can one bad day turn into a crisis.
 So even though I had something else planned for today, I want to talk about this:
-How can we prevent bad days from snowballing into a disaster? How can we stop negative momentum and turn things around?</description>
+How can we prevent bad days from snowballing into a disaster?</description>
     </item>
     
     <item>
       <title>Feelgood journal</title>
       <link>https://ondrejmarkus.com/feelgood/</link>
-      <pubDate>Tue, 01 Mar 2022 22:49:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/feelgood/</guid>
-      <description>A simple method I used to train my brain to be more optimistic.</description>
+      <description>A few weeks ago, I wrote about how I learned optimism as a habit in 2014.
+And today, I remembered one technique I forgot I used at the time: I kept a positive-emotions-only journal.
+It was my first journal ever – a pocket-sized Moleskine. Look, I still have it.
+My first-ever journal
+Every day, I would write there positive things, nothing negative.
+Sometimes I added things during the day. But, more often, I&amp;rsquo;d take a few minutes in the evening and remember what happened today and what was good about it.</description>
     </item>
     
     <item>
       <title>Finding yourself as you go</title>
       <link>https://ondrejmarkus.com/finding-yourself/</link>
-      <pubDate>Thu, 24 Feb 2022 20:28:00 +0000</pubDate>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/finding-yourself/</guid>
       <description>I want to share with you my struggle today.
@@ -198,7 +237,7 @@ Because of that, I often get demotivated to share my work anywhere because my br
     <item>
       <title>Creative routine: How to do your best work as a creator</title>
       <link>https://ondrejmarkus.com/creative-routine/</link>
-      <pubDate>Tue, 22 Feb 2022 21:27:00 +0000</pubDate>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/creative-routine/</guid>
       <description>I&amp;rsquo;m fascinated by how different people with different personalities get their creative work done.
@@ -210,25 +249,31 @@ How to do meaningful creative work while also earning a living? How to make the 
     <item>
       <title>Write to learn better</title>
       <link>https://ondrejmarkus.com/write-to-learn/</link>
-      <pubDate>Thu, 17 Feb 2022 15:55:59 +0000</pubDate>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/write-to-learn/</guid>
-      <description>How to use writing to improve at any skill</description>
+      <description>Every week, I tell myself: &amp;ldquo;Today, I will make my life easier and write about something I know well.&amp;rdquo;
+It never works.
+Because, to me, writing is a process of figuring out what I actually think about the topic. So I don&amp;rsquo;t know what I&amp;rsquo;m going to say until I start writing.
+My 5-step article writing process
+I both love and hate this unpredictability. It makes writing an adventure. It&amp;rsquo;s full of exploration and learning, which is fun until it&amp;rsquo;s 10 minutes to midnight on the day of the deadline.</description>
     </item>
     
     <item>
       <title>Work with your garage door open</title>
       <link>https://ondrejmarkus.com/open-garage/</link>
-      <pubDate>Tue, 15 Feb 2022 22:46:41 +0000</pubDate>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/open-garage/</guid>
-      <description>How to overcome the fear of being judged and share your work.</description>
+      <description>When I started writing in 2020, I shared next to nothing for a year because I was afraid my work was not good enough.
+Then I changed my mind about creativity and opened the door to my digital garage. This shift allowed me to:
+Start sharing imperfect work Improve faster as a creator Find fans and customers who enjoy your work This article is about how to make the shift that will help you overcome the fear of being judged and reap the benefits of sharing your work.</description>
     </item>
     
     <item>
       <title>Daily Design: Template for winning your day</title>
       <link>https://ondrejmarkus.com/dd/</link>
-      <pubDate>Thu, 10 Feb 2022 22:04:29 +0000</pubDate>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/dd/</guid>
       <description>The Daily Design is a mindful way to plan your day in five minutes.
@@ -240,52 +285,65 @@ Its purpose is to help you make significant progress on your most important work
     <item>
       <title>Train your brain to be optimistic</title>
       <link>https://ondrejmarkus.com/trained-optimism/</link>
-      <pubDate>Tue, 08 Feb 2022 20:43:36 +0000</pubDate>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/trained-optimism/</guid>
-      <description>How to stop having negative reactions to everything that happens to you.</description>
+      <description>I was a pessimist when I was younger. I spent a lot of time unhappy because my brain reacted to bad things by flooding me with negative thoughts.
+One day, I decided I wanted to become an optimist. It sounds silly, but I did it. I trained my brain to respond positively to almost anything that happens.
+I will tell you how.
+A pessimistic brain is not a happy place Learning optimism started as a necessity after an ugly breakup when I was 19.</description>
     </item>
     
     <item>
       <title>Become an expert on yourself</title>
       <link>https://ondrejmarkus.com/expert/</link>
-      <pubDate>Thu, 03 Feb 2022 19:39:00 +0000</pubDate>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/expert/</guid>
-      <description>How to practice self-awareness and get your life under control.</description>
+      <description>You spend all your time with yourself. 24/7 you listen to your thoughts, feel your emotions, and dream your dreams.
+So we tend to think understanding ourselves is obvious: &amp;ldquo;How could I not know myself? I am me, right?&amp;rdquo;
+Well, have you ever thought some of these?
+&amp;ldquo;Why the hell did I do that? It makes no sense.&amp;rdquo; &amp;ldquo;What he did made me so angry. I don&amp;rsquo;t understand why.&amp;rdquo; &amp;ldquo;I have no idea what I want.</description>
     </item>
     
     <item>
       <title>The power of being lost</title>
       <link>https://ondrejmarkus.com/lost/</link>
-      <pubDate>Mon, 31 Jan 2022 22:16:00 +0000</pubDate>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/lost/</guid>
-      <description>How to keep getting lost and find yourself anyway.</description>
+      <description>Today, I will share with you my favorite ideas from writer Kevin Kelly.
+I keep returning to them regularly whenever I feel like I should know what I&amp;rsquo;m doing but really don&amp;rsquo;t.
+They remind me how being lost can actually be good for you. (1)
+Finding yourself is enough “You are successful because you have found yourself. That&amp;rsquo;s independent of how much money you make, it&amp;rsquo;s independent of how many followers you have.</description>
     </item>
     
     <item>
       <title>Design your lives</title>
       <link>https://ondrejmarkus.com/design-your-lives/</link>
-      <pubDate>Thu, 27 Jan 2022 15:14:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/design-your-lives/</guid>
-      <description>Create three different versions of the next five years of your life.</description>
+      <description>Designing your life is about realizing there is not just one ideal life for you, but many different meaningful lives you could enjoy.
+Also, you don&amp;rsquo;t have to choose one path and stick with it for 30 years. It&amp;rsquo;s unlikely that&amp;rsquo;s going to work anyway because you don&amp;rsquo;t know what things are like until you try them.
+That&amp;rsquo;s why we approach the problem of finding meaningful work we enjoy as designers:</description>
     </item>
     
     <item>
       <title>Find meaning</title>
       <link>https://ondrejmarkus.com/find-meaning/</link>
-      <pubDate>Thu, 20 Jan 2022 15:26:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/find-meaning/</guid>
-      <description>How to create meaning and purpose in your life and work?</description>
+      <description>(This is the third part of my Life Design Series. Start with the first part if you&amp;rsquo;re new here.)
+Last time, we practiced paying more attention to the things we enjoy. Today, we will cover the second part of designing our life around meaningful work we enjoy doing: Meaning.
+People throw around the word meaning and purpose a lot when talking about work, so let’s do a super-quick visual definition.</description>
     </item>
     
     <item>
       <title>Follow joy</title>
       <link>https://ondrejmarkus.com/follow-joy/</link>
-      <pubDate>Sat, 15 Jan 2022 15:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/follow-joy/</guid>
       <description>(This is a second article from my Life Design Series. You can find the first article here: Start where you are.)
@@ -297,16 +355,20 @@ Do work you enjoy I&amp;rsquo;m just gonna say it: I suck at doing things I don&
     <item>
       <title>Start where you are</title>
       <link>https://ondrejmarkus.com/start-where-you-are/</link>
-      <pubDate>Thu, 13 Jan 2022 21:46:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/start-where-you-are/</guid>
-      <description>A friend once told me: I don&amp;#39;t know what I want to do in life. I really need a near-death experience to find out.</description>
+      <description>A friend once told me: &amp;ldquo;I don&amp;rsquo;t know what I want to do in life. I really need a near-death experience to find out.&amp;rdquo;
+I mean, I guess that could work.
+You also might have heard about people almost dying and having a eureka moment about what they want to do with their life.
+This idea of instant insight is seductive because it feels effortless.
+&amp;ldquo;I didn&amp;rsquo;t know, and then I knew!</description>
     </item>
     
     <item>
       <title>Do the most important work first</title>
       <link>https://ondrejmarkus.com/miw/</link>
-      <pubDate>Mon, 10 Jan 2022 20:45:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/miw/</guid>
       <description>Every morning after I make coffee and write my Morning Pages, I work until noon on the most important project of the day.
@@ -316,36 +378,46 @@ I got distracted by easier or louder tasks.</description>
     </item>
     
     <item>
-      <title>Get unstuck</title>
+      <title>How to get unstuck</title>
       <link>https://ondrejmarkus.com/get-unstuck/</link>
-      <pubDate>Mon, 10 Jan 2022 15:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/get-unstuck/</guid>
-      <description>Overcome your inner critic and generate new ideas to get yourself unstuck.</description>
+      <description>This happens to me all the time:
+I get stuck on a problem. Whatever I’m trying doesn’t work. And I don’t know what to do next. Actually, I’m stuck right now. So I’m writing this for myself as much as anyone.
+Getting stuck is not your personal failure. It happens to everyone all the time. We just don’t talk about it very often.
+But we should. It’s a normal part of living and working, so we don’t need to be embarrassed.</description>
     </item>
     
     <item>
       <title>Write public reflections</title>
       <link>https://ondrejmarkus.com/write-public-reflections/</link>
-      <pubDate>Thu, 06 Jan 2022 20:12:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/write-public-reflections/</guid>
-      <description>It&amp;#39;s the best way to start writing and improve at anything you do.</description>
+      <description>I have been writing for 2 years now.
+The first year I didn&amp;rsquo;t publish reflections (or almost anything else, really). I was busy getting hopelessly stuck on articles I decided not to share after tens of hours of work. Fun times.
+The second year I started doing monthly and then weekly public reflections, and it changed everything for me.
+This article is my case for why public reflections are the best way to start writing.</description>
     </item>
     
     <item>
       <title>2021: The Courage to Try</title>
       <link>https://ondrejmarkus.com/2021/</link>
-      <pubDate>Mon, 03 Jan 2022 15:57:39 +0000</pubDate>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/2021/</guid>
-      <description>A very personal reflection on my work in 2021.</description>
+      <description>I went over everything I worked on in 2021. It&amp;rsquo;s a weird out-of-body-like experience to look 10 or more months back.
+Time is weird.
+But reflection is time well spent. It helps me pin down the most important life lessons so I can get a little better each year.
+Calibrating my work 2021 felt like a calibration year for my work.
+2020 was the year I started writing and mostly failed over and over again, suffering with enthusiasm.</description>
     </item>
     
     <item>
       <title>Get from idea to paying customers in 4 weeks</title>
       <link>https://ondrejmarkus.com/idea-to-customers/</link>
-      <pubDate>Mon, 27 Dec 2021 22:59:08 +0000</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/idea-to-customers/</guid>
       <description>This article is a case study of how I launched a course from idea to paying customers in four weeks.
@@ -358,7 +430,7 @@ I didn&amp;rsquo;t even know what exactly the course would be, only that it woul
     <item>
       <title>4 ways to do a year reflection</title>
       <link>https://ondrejmarkus.com/4-year-reflection/</link>
-      <pubDate>Thu, 23 Dec 2021 15:36:00 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/4-year-reflection/</guid>
       <description>The year&amp;rsquo;s end is an opportunity to zoom out from the daily chaos and see the bigger picture of where your life is going.
@@ -368,16 +440,17 @@ What worked well for you this year? What surprised you? What do you want more or
     <item>
       <title>Be bad to get good</title>
       <link>https://ondrejmarkus.com/bad-to-good/</link>
-      <pubDate>Mon, 20 Dec 2021 15:40:32 +0000</pubDate>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/bad-to-good/</guid>
-      <description>Whatever you are trying to learn, if you are not willing to be bad at it first, you will never get good.</description>
+      <description>Whatever you are trying to learn. Whatever you are trying to become. If you are not willing to be bad at it first, you will never get good.
+As a writer, you need to write bad articles before they get good. As a programmer, you need to write bad code before it gets good. As an entrepreneur, you need to build bad products before they get good. Everybody starts terrible and only gets better with practice.</description>
     </item>
     
     <item>
       <title>#21: Output routine</title>
       <link>https://ondrejmarkus.com/21/</link>
-      <pubDate>Mon, 13 Dec 2021 15:26:00 +0000</pubDate>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/21/</guid>
       <description>Last week sucked.
@@ -388,7 +461,7 @@ Right off the gate, I burned myself out on writing about my monthly review proce
     <item>
       <title>#20: How I do my monthly review</title>
       <link>https://ondrejmarkus.com/20/</link>
-      <pubDate>Mon, 06 Dec 2021 17:54:13 +0000</pubDate>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/20/</guid>
       <description>Today, I’ll show you a monthly review of my productivity System.
@@ -400,7 +473,7 @@ I won’t explain every detail, but I will try to make things clear enough, so y
     <item>
       <title>#19: Big messy projects</title>
       <link>https://ondrejmarkus.com/19/</link>
-      <pubDate>Mon, 29 Nov 2021 15:46:00 +0000</pubDate>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/19/</guid>
       <description>I had a slow week.
@@ -412,7 +485,7 @@ Well, the article became a five-chapter guide. Still unfinished after a month of
     <item>
       <title>#18: Rage</title>
       <link>https://ondrejmarkus.com/18/</link>
-      <pubDate>Mon, 22 Nov 2021 21:14:00 +0000</pubDate>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/18/</guid>
       <description>Last week, I worked on an About page to make my blog less anonymous. And putting it together reminded me why I write.
@@ -423,7 +496,7 @@ The Flower Thrower Five years ago, I was on a weekend trip to Amsterdam. I went 
     <item>
       <title>#17: Killing my Youtube habit</title>
       <link>https://ondrejmarkus.com/17/</link>
-      <pubDate>Mon, 15 Nov 2021 15:25:38 +0000</pubDate>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/17/</guid>
       <description>Last week, I realized I might have a problem.
@@ -432,14 +505,13 @@ It always creeps up on me. I see it coming but do it anyway.
 Sure, why not&amp;hellip;
 It starts with an innocent thought: &amp;ldquo;Hey, it&amp;rsquo;s a long time since I watched some gaming videos.&amp;rdquo;
 So I do, and it&amp;rsquo;s fun.
-Then I think: &amp;ldquo;Hmm. It wouldn&amp;rsquo;t hurt to install the game and play a game or two.&amp;rdquo;
-So I do, and it&amp;rsquo;s even more fun.</description>
+Then I think: &amp;ldquo;Hmm. It wouldn&amp;rsquo;t hurt to install the game and play a game or two.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>#16: When introvert goes super social</title>
       <link>https://ondrejmarkus.com/16/</link>
-      <pubDate>Mon, 08 Nov 2021 15:32:00 +0000</pubDate>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/16/</guid>
       <description>I talked to 11 different people this week.
@@ -454,7 +526,7 @@ Human contact in double digits is a health hazard for an introvert.</description
     <item>
       <title>#15: How to write books as a designer</title>
       <link>https://ondrejmarkus.com/15/</link>
-      <pubDate>Mon, 01 Nov 2021 15:32:26 +0000</pubDate>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/15/</guid>
       <description>Hey there,
@@ -469,7 +541,7 @@ Instead, I&amp;rsquo;m talking to people since day one to make sure I&amp;rsquo;
     <item>
       <title>#14: Find work you enjoy, useful books, and the courage to create</title>
       <link>https://ondrejmarkus.com/14/</link>
-      <pubDate>Mon, 25 Oct 2021 15:01:23 +0000</pubDate>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/14/</guid>
       <description>Hey there,
@@ -485,7 +557,7 @@ How to make a living doing work you enjoy I want to help people find work they e
     <item>
       <title>#13: Habits, The Mom test, and being useful</title>
       <link>https://ondrejmarkus.com/13/</link>
-      <pubDate>Mon, 18 Oct 2021 17:39:00 +0000</pubDate>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/13/</guid>
       <description>Hey there,
@@ -498,16 +570,18 @@ The key to success in building habits is knowing exactly WHAT is supposed to hap
     <item>
       <title>How to be as useful as you can</title>
       <link>https://ondrejmarkus.com/max-useful/</link>
-      <pubDate>Sun, 17 Oct 2021 08:28:09 +0000</pubDate>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/max-useful/</guid>
-      <description>Make a positive difference without losing your mind.</description>
+      <description>3 years ago, I was in a dark place.
+I just left a business I was building for the last 2 years from nothing to millions in revenue. What we were doing didn&amp;rsquo;t feel enough to me. So I moved on to starting something new. I just didn&amp;rsquo;t know what&amp;rsquo;s it going to be yet.
+But I knew one thing. I wanted my next project to make a real positive difference in the world.</description>
     </item>
     
     <item>
       <title>#12: Bad weeks, systems, and the power of being lost</title>
       <link>https://ondrejmarkus.com/12/</link>
-      <pubDate>Mon, 11 Oct 2021 18:17:00 +0000</pubDate>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/12/</guid>
       <description>Hey there,
@@ -521,7 +595,7 @@ That&amp;rsquo;s why I pay extra attention when they happen. A bad week is a sig
     <item>
       <title>#11: Rational artists, money, and articles as prototypes</title>
       <link>https://ondrejmarkus.com/11/</link>
-      <pubDate>Tue, 05 Oct 2021 16:27:47 +0000</pubDate>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/11/</guid>
       <description>Hey there,
@@ -540,13 +614,16 @@ Okay. So what is the article I risk the time travel jail for?</description>
       <pubDate>Mon, 04 Oct 2021 10:13:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/rational-artist/</guid>
-      <description>Do what you enjoy while making enough money.</description>
+      <description>Imagine yourself doing the best work of your life.
+What does it look like?
+The Rational Artist represents what it looks like to me. His mindset and skills make his approach the most playful, fulfilling, effective, and meaningful way to work I can imagine.
+I dreamed him up while writing my &amp;lsquo;How to Find Freedom at Work&amp;rsquo; guide. He is the model of someone who solved the two problems of finding freedom at work.</description>
     </item>
     
     <item>
       <title>#10: Find freedom, work on the right thing, and enjoy life</title>
       <link>https://ondrejmarkus.com/10/</link>
-      <pubDate>Mon, 27 Sep 2021 17:53:53 +0000</pubDate>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/10/</guid>
       <description>Hey there,
@@ -561,7 +638,7 @@ I wrote a short essay on Twitter with the whole story.</description>
     <item>
       <title>#9: Build a profitable side project, ignoring Twitter, and daily notes</title>
       <link>https://ondrejmarkus.com/9/</link>
-      <pubDate>Mon, 20 Sep 2021 16:06:00 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/9/</guid>
       <description>Happy Publish Monday!
@@ -573,7 +650,7 @@ Build a profitable side project in 4 weeks This week, I thought again about what
     <item>
       <title>#8: Bleeding money, weekly emails, and becoming a solopreneur</title>
       <link>https://ondrejmarkus.com/8/</link>
-      <pubDate>Mon, 13 Sep 2021 14:16:00 +0000</pubDate>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/8/</guid>
       <description>Happy Publish Monday!
@@ -585,316 +662,362 @@ But they took too long to finish, 3 to 5 days of writing and drawing. Plus I had
     <item>
       <title>The Full-Stack Freelancer – A new approach to work</title>
       <link>https://ondrejmarkus.com/fsf/</link>
-      <pubDate>Mon, 06 Sep 2021 14:32:00 +0000</pubDate>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/fsf/</guid>
-      <description>Finding the optimal way of working for generalists.</description>
+      <description>Your work can be a source of financial freedom, everyday enjoyment, and opportunities to make the world a little better. Or it can be a burden you endure to make a living.
+The goal of this article is to show you a new approach to achieving the first scenario.
+But to get there, we need to rethink how we work.
+Don’t get lost chasing the perfect job You got a job you wanted.</description>
     </item>
     
     <item>
       <title>What the work happened #7</title>
       <link>https://ondrejmarkus.com/jul21/</link>
-      <pubDate>Tue, 10 Aug 2021 15:02:13 +0000</pubDate>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/jul21/</guid>
-      <description>Design your work, storytelling resources, and the Twitter game</description>
+      <description>Hey there,
+I failed again to write this reflection in a day. Oh well. Drawing stickmen is hard work.
+This time, I want to talk about how:
+I started building the best career course on the internet. (Why to aim low, right?) I worked on my **** storytelling skills, and I&amp;rsquo;ll share my favorite resources to help you be a better storyteller. I had mixed feelings about my Twitter experience, and I&amp;rsquo;m talking about what&amp;rsquo;s wrong and what I&amp;rsquo;ll do to improve it.</description>
     </item>
     
     <item>
       <title>The fear of being a failure</title>
       <link>https://ondrejmarkus.com/failure/</link>
-      <pubDate>Wed, 14 Jul 2021 09:37:02 +0000</pubDate>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/failure/</guid>
-      <description>A story about the fear of failing the people who believed in me.</description>
+      <description>Five years ago, I co-founded a startup in nutrition. We&amp;rsquo;ve grown fast in the first year despite not really knowing what we&amp;rsquo;re doing.
+Profits were soaring, we gave interviews to magazines, and people started congratulating us: &amp;ldquo;What a great success, guys.&amp;rdquo;
+And I believed it. &amp;ldquo;We are successful now.&amp;rdquo;
+But during all this, my non-existent skills in financial planning brought us on the verge of a disaster. I miscalculated our cash flow.</description>
     </item>
     
     <item>
       <title>What the work happened #6</title>
       <link>https://ondrejmarkus.com/jun21/</link>
-      <pubDate>Fri, 09 Jul 2021 07:24:15 +0000</pubDate>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/jun21/</guid>
-      <description>My made-up job, annoying money, and building a network</description>
+      <description>Hey there 👋
+I put a lot of time into writing these reflections because I want them to be useful for other makers, not just my monthly ramble.
+So today, I want to zoom in on what burns me – my money situation:
+How I think about having $0 profit from my online business? And what&amp;rsquo;s my plan to start building a sustainable passive income? Let&amp;rsquo;s begin.
+I have a made-up job I&amp;rsquo;m 27, and it&amp;rsquo;s a year since I started developing this odd lifestyle for myself.</description>
     </item>
     
     <item>
       <title>What the work happened #5</title>
       <link>https://ondrejmarkus.com/may21/</link>
-      <pubDate>Tue, 15 Jun 2021 18:20:00 +0000</pubDate>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/may21/</guid>
-      <description>Better systems, bloody writing, and The Van incident</description>
+      <description>Hey there 👋
+May was a month of transitions.
+I ended my part-time design job to work more on my own projects. That&amp;rsquo;s very exciting and very scary.
+Exciting because of the new opportunities, and scary because now I own 100 % of the risk of messing things up. But that&amp;rsquo;s the price we pay for freedom, I guess.
+Now, whenever there&amp;rsquo;s turbulence in my life, I go for the same fix.</description>
     </item>
     
     <item>
       <title>Make something you want to exist</title>
       <link>https://ondrejmarkus.com/make-something/</link>
-      <pubDate>Fri, 21 May 2021 08:47:08 +0000</pubDate>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/make-something/</guid>
-      <description>Harvest ideas to start learning by doing.</description>
+      <description>If you want to make something but don&amp;rsquo;t know what, a good place to start is you. You know yourself better than anything else. Use that knowledge.
+What do you need? What would make your work easier? What would make your life better? Go through your day in your head and think about the moments when there&amp;rsquo;s opportunity for improvement: Something that doesn&amp;rsquo;t work. Something that could be automated. Or just something you think would be really cool to exist.</description>
     </item>
     
     <item>
       <title>No meetings before noon</title>
       <link>https://ondrejmarkus.com/no-meetings/</link>
-      <pubDate>Thu, 20 May 2021 10:33:59 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/no-meetings/</guid>
-      <description>This simple rule is the foundation of my daily productivity.</description>
+      <description>I write and design things, so I need big chunks of time in my day to focus without interruptions. And that&amp;rsquo;s difficult to do without rules.
+I&amp;rsquo;m not a hustler who can work for 12 hours a day (if they actually exist). On a good day, I can pull off 5-6 hours of good deep work when I really feel the flow. On a bad day, I&amp;rsquo;m lucky to squeeze in 2-3 hours.</description>
     </item>
     
     <item>
-      <title>Learn to be irresponsible</title>
+      <title>Be less responsible</title>
       <link>https://ondrejmarkus.com/too-responsible/</link>
-      <pubDate>Wed, 19 May 2021 08:43:28 +0000</pubDate>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/too-responsible/</guid>
-      <description>This is Josh.</description>
+      <description>He is very responsible.
+His mom is always telling stories about him being the nicest kid when he was little.
+He believes her.
+However, Josh is unhappy.
+He would like to write more, but he never seems to find the time.
+There are always other things that need to be taken care of.
+And he doesn&amp;rsquo;t know what to do.
+What is happening here?
+At the beginning of every week, Josh makes a plan.</description>
     </item>
     
     <item>
-      <title>Self-determination triangle: A map for a good life</title>
+      <title>Self-determination triangle: Framework for a good life</title>
       <link>https://ondrejmarkus.com/sdt-triangle/</link>
-      <pubDate>Tue, 18 May 2021 13:28:28 +0000</pubDate>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/sdt-triangle/</guid>
-      <description>What do you need to have a good life?</description>
+      <description>I&amp;rsquo;m on a hunt for frameworks that explain how life works.
+What drives our actions and decisions? What motivates us to do what we do? What do we need and why? I study them to better understand myself, improve my life, and enable others to design better lives for themselves.
+And the best framework I found so far is the Self-determination theory (SDT). It&amp;rsquo;s a motivation theory heavily backed by scientific evidence and it seems to be valid in all cultures.</description>
     </item>
     
     <item>
-      <title>Building faster learning loops for writing in public</title>
+      <title>I will try writing 100 articles in 100 days</title>
       <link>https://ondrejmarkus.com/writing-loop/</link>
-      <pubDate>Mon, 17 May 2021 15:48:07 +0000</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/writing-loop/</guid>
-      <description>I&amp;#39;m going to live inside this feedback loop for the next 100 days to become a better writer.</description>
+      <description>It&amp;rsquo;s about a year since I started writing on this blog. I&amp;rsquo;m spending more and more time doing it and I&amp;rsquo;ve learned a lot in the process. In fact, writing is one of the best things that happened to my learning.
+But even though I&amp;rsquo;m improving, being a proper maximizer, I notice things could get significantly better if I made some changes. I need to find a way to finish things more often.</description>
     </item>
     
     <item>
       <title>What the work happened #4</title>
       <link>https://ondrejmarkus.com/apr21/</link>
-      <pubDate>Sun, 09 May 2021 19:21:00 +0000</pubDate>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/apr21/</guid>
-      <description>A very personal reflection on my work in April 2021.</description>
+      <description>Hey there 👋
+Uh. April felt busy. I don&amp;rsquo;t like busy.
+But as I move through my journal, it seems (again) that I remember last month being worse than it actually was. I&amp;rsquo;ve done more work than I thought I did, and I felt 7+ on most days.
+It looks like I&amp;rsquo;m never gonna shut up about the benefits of these monthly reflections. So here it comes: They&amp;rsquo;re good. Try it sometime.</description>
     </item>
     
     <item>
       <title>Test your idea in 280 characters</title>
       <link>https://ondrejmarkus.com/tweet-prototype/</link>
-      <pubDate>Sun, 02 May 2021 10:09:00 +0000</pubDate>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/tweet-prototype/</guid>
-      <description>The fastest way to avoid wasting your time making things nobody wants.</description>
+      <description>When I was building my first business 10 years ago, I thought I had a solid product idea. But I was afraid someone might steal it from me, so I worked in isolation for 6 months until I launched it. At that point, I was out of money, and I had to succeed at once to survive.
+However, people didn&amp;rsquo;t want my product. Something was wrong but I couldn&amp;rsquo;t tell what it is.</description>
     </item>
     
     <item>
       <title>Speed drafting: How to write an article in 25 minutes</title>
       <link>https://ondrejmarkus.com/speed-drafting/</link>
-      <pubDate>Sun, 25 Apr 2021 10:01:00 +0000</pubDate>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/speed-drafting/</guid>
-      <description>No backspace. Ignore grammar. Write faster.</description>
+      <description>This writing method can turn a hopeless perfectionist into an article-shooting machine.
+I stumbled upon it by accident one day when I struggled to start an article. I kept rewriting the first section for hours. I was stuck, unable to find the right words. Or as I call it: Thursday.
+This is the point where I would usually give up:
+&amp;ldquo;I don&amp;rsquo;t know enough about this topic.&amp;rdquo;
+&amp;ldquo;Who am I to lecture others about this anyway?</description>
     </item>
     
     <item>
-      <title>Morning Pages: 100 words for a clear mind</title>
+      <title>Morning Pages: My favorite journaling method</title>
       <link>https://ondrejmarkus.com/mp/</link>
-      <pubDate>Sun, 18 Apr 2021 09:54:00 +0000</pubDate>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/mp/</guid>
-      <description>Easily the most essential thing I do every day to stay sane and productive.</description>
+      <description>If I skip writing my Morning Pages for more than a day, my head gets cloudy.
+Every morning, I like to sit down and write to myself. This simple habit makes me happier and more relaxed. And it can be as easy as writing 100 words on a napkin.
+But how can such a small thing have any impact on the clarity of your mind?
+What are Morning Pages? Morning Pages are a concept from the book The Artist&amp;rsquo;s Way by Julia Cameron.</description>
     </item>
     
     <item>
       <title>Find a productivity system that works for you</title>
       <link>https://ondrejmarkus.com/system-that-works/</link>
-      <pubDate>Sun, 11 Apr 2021 19:47:25 +0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/system-that-works/</guid>
-      <description>Figuring this out unstuck me from chasing the perfect method and focus on what really matters – getting things done.</description>
+      <description>A viable productivity system
+Everyone has a system Even if you consider yourself chaotic and you don&amp;rsquo;t like having a formal system, you do things in patterns.
+For example, you might not have a specific time of day to get your writing done, and you write only when you feel like it. That&amp;rsquo;s a rule. And if it works for you, it&amp;rsquo;s a good one.
+So this article isn&amp;rsquo;t just for system geeks who reorganize their to-do lists for fun.</description>
     </item>
     
     <item>
       <title>What the work happened #3</title>
       <link>https://ondrejmarkus.com/mar21/</link>
-      <pubDate>Wed, 07 Apr 2021 18:30:00 +0000</pubDate>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/mar21/</guid>
-      <description>A very personal reflection on my work in March 2021.</description>
+      <description>Hey there 👋
+This is my third monthly reflection and I&amp;rsquo;m still not sure how to structure it. So it is a wild west. Again.
+But I noticed one curious thing which happens independent of what structure I use. And it&amp;rsquo;s this.
+Sad → Happy At the start of each month, when I sit down to write this, I feel like I didn&amp;rsquo;t achieve much last month. I feel like I have not done my best – like I could and should have done better.</description>
     </item>
     
     <item>
       <title>3 levels of becoming an innovator</title>
       <link>https://ondrejmarkus.com/3-levels/</link>
-      <pubDate>Fri, 02 Apr 2021 12:52:55 +0000</pubDate>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/3-levels/</guid>
-      <description>A summary of essential mindsets, strategies, and tools you need to know to create things people actually want.</description>
+      <description>Innovators create new things. They invent products, designs, and ideas no one has done before. They push progress.
+But most innovators aren&amp;rsquo;t a guy in a lab producing &amp;ldquo;innovations&amp;rdquo;.
+An innovator can be every one of us in our jobs and projects. Because being an innovator is not a job title, it&amp;rsquo;s a skill anyone can learn.
+Every day, we make choices to either keep doing things the old way that doesn&amp;rsquo;t make sense anymore, or we can invent a better way.</description>
     </item>
     
     <item>
       <title>How to become an innovation designer</title>
       <link>https://ondrejmarkus.com/innovation-design/</link>
-      <pubDate>Wed, 24 Mar 2021 19:01:00 +0000</pubDate>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/innovation-design/</guid>
-      <description>Innovation design is a process for solving the right problems in the right way.</description>
+      <description>Innovation design is the most interesting job in the world.
+But what is it, really?
+The truth is, it&amp;rsquo;s not really a job. Well, I mean, it can be. My &amp;ldquo;official&amp;rdquo; job description is an innovation designer.
+However, you don&amp;rsquo;t need to get hired as one to start using its methods and become more successful in anything you do.
+But let&amp;rsquo;s start with a definition. That&amp;rsquo;s my favorite part.</description>
     </item>
     
     <item>
       <title>What the work happened #2</title>
       <link>https://ondrejmarkus.com/feb21/</link>
-      <pubDate>Fri, 05 Mar 2021 19:20:00 +0000</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/feb21/</guid>
-      <description>A very personal reflection on my work in February 2021.</description>
+      <description>Hey there. 👋
+Work happened in February and I have a restless need to talk about it.
+This is the first time I include everything from my work-life. I talk about projects I previously left out to keep my online writing separate from my &amp;ldquo;day jobs&amp;rdquo;.
+But seeing how my projects influenced each other during this month, I realized, I can&amp;rsquo;t write this without mentioning all of them.
+What&amp;rsquo;s inside</description>
     </item>
     
     <item>
       <title>What the work happened #1</title>
       <link>https://ondrejmarkus.com/jan21/</link>
-      <pubDate>Mon, 08 Feb 2021 19:20:00 +0000</pubDate>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/jan21/</guid>
-      <description>A very personal reflection on my work in January 2021.</description>
+      <description>Hey there.
+This is going to be totally different than what I&amp;rsquo;ve done before. Over the last year, I was focusing on writing articles, and when they were finished, I just sent them out in an email. But what I&amp;rsquo;m doing has changed (kind of), and so will these emails.
+What I&amp;rsquo;m planning to do, is to send one email every month that summarizes what I&amp;rsquo;m up to:
+links to my new work plans of what&amp;rsquo;s coming next updates on sudden existential crises That sort of stuff.</description>
     </item>
     
     <item>
-      <title>2020: The ballad for bad work</title>
+      <title>2020: My ballad for bad work</title>
       <link>https://ondrejmarkus.com/2020/</link>
-      <pubDate>Mon, 04 Jan 2021 20:18:59 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/2020/</guid>
-      <description>A very personal unpolished look at 2020 – my first year of writing.</description>
+      <description>As every year, I went through my journals to understand the happenings of the last 365 days. This is the first time I share some of it online.
+But let&amp;rsquo;s do this differently.
+What I don&amp;rsquo;t like about shared reflections is the polish.
+Not this Polish&amp;hellip;
+The polish is the shining process. It&amp;rsquo;s leaving out the failures, hiding what didn&amp;rsquo;t work, and pretending it doesn&amp;rsquo;t exist.
+Not here.
+This reflection is about looking at the messy process of making stuff.</description>
     </item>
     
     <item>
       <title>Imagine change is possible</title>
       <link>https://ondrejmarkus.com/imagine/</link>
-      <pubDate>Fri, 18 Dec 2020 15:30:00 +0000</pubDate>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/imagine/</guid>
-      <description>Make the necessary mind-shift to start creating the life you really want.</description>
+      <description>I was a decent but anxious football player when I was 10. I mostly stayed away from the ball. The ball brought attention and the possibility to make mistakes. I didn&amp;rsquo;t like that.
+I was terrified of making mistakes. Every situation felt like a test I could not fail. Every second in the game, I worried. I dreaded the ball would come my way, and I would have to prove the talent I&amp;rsquo;m supposed to have.</description>
     </item>
     
     <item>
       <title>Go to school but learn yourself</title>
       <link>https://ondrejmarkus.com/school/</link>
-      <pubDate>Tue, 01 Dec 2020 18:30:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/school/</guid>
-      <description>Schools fail at the one thing they should do really well – cultivating our ability to learn.</description>
+      <description>Schools fail at the one thing they should do well – cultivating our ability to learn. Nearly all curiosity and enthusiasm for learning we have as 4-year-olds is gone by the time we finish high-school. (1)
+Schools don&amp;rsquo;t understand how learning works Learning is more like kindling a fire than filling a glass.
+Learning is like kinding a fire, not pouring water into a glass.
+Students need inspiration 🔥 more than knowledge 💧.</description>
     </item>
     
     <item>
       <title>Build something that doesn&#39;t work</title>
       <link>https://ondrejmarkus.com/build/</link>
-      <pubDate>Tue, 24 Nov 2020 19:20:34 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/build/</guid>
-      <description>A counter-intuitive story about how I failed my way into success on accident.</description>
+      <description>When I was 19, I used all my savings on a strange idea. I started a fashion label of hand-made mittens. Yes, mittens. I know, and I&amp;rsquo;m not kidding.
+Every time I look back, I wonder: &amp;ldquo;Why the hell I did this right after finishing 4 years of computer technology?&amp;rdquo;
+My sophisticated mitten-storage solution. Patent pending.
+(No, I wasn&amp;rsquo;t the one making them, if you were wondering.)
+Why would an IT student with zero interest in fashion create a fashion label?</description>
     </item>
     
     <item>
-      <title>The 85% rule: Be the best by trying less</title>
+      <title>The 85 % rule: Be the best by trying less</title>
       <link>https://ondrejmarkus.com/85rule/</link>
-      <pubDate>Fri, 13 Nov 2020 13:52:28 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/85rule/</guid>
-      <description>Trying less is sometimes the only way to get better.</description>
+      <description>The best sprinter of the last century, Carl Lewis, won most of his 100-meter races in a curious way. He was usually in the last place the first 50 meters but swept past his opponents in the second half of the race. (1)
+This unusual thing impressed one coach so much he studied dozens of videotapes to understand what is going on. After weeks of research, he found a fascinating difference between Lewis and the other runners.</description>
     </item>
     
     <item>
-      <title>Quantity is the shortest way to excellent results</title>
+      <title>Try this counter-intuitive approach to creative work</title>
       <link>https://ondrejmarkus.com/quantity/</link>
-      <pubDate>Mon, 19 Oct 2020 17:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/quantity/</guid>
-      <description>There is a counter-intuitive approach to creative work that changed how I do everything.</description>
+      <description>There is a counter-intuitive approach to creative work that changed how I do everything. It breaks old unproductive patterns in our behavior and replaces them with what we knew as kids but forgot.
+All of us want to be great at what we do, but we are terrified of what others would say if we screw up. So even when we accumulate enough courage to pursue what we want, the fear of failure kicks in and traps us in a dark place.</description>
     </item>
     
     <item>
-      <title>When is the right time to quit</title>
+      <title>How to find the right time to quit</title>
       <link>https://ondrejmarkus.com/quit/</link>
-      <pubDate>Mon, 05 Oct 2020 17:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/quit/</guid>
-      <description>Learn to calibrate the decision based on your quitting tendency from the past.</description>
+      <description>Quitting on time will save your life. Or at least your sanity and friendships that would otherwise slowly decay into mutual bitterness as you hesitate to act.
+It&amp;rsquo;s hard. The dilemma of whether you should quit your job or a relationship is a hefty one to carry around. Feelings are gonna get hurt. The fear of regret is tangible. We don’t want to leave too soon, or waste time in a dead-end.</description>
     </item>
     
     <item>
-      <title>Make your mentors</title>
-      <link>https://ondrejmarkus.com/make-mentors/</link>
-      <pubDate>Mon, 21 Sep 2020 17:00:00 +0000</pubDate>
-      
-      <guid>https://ondrejmarkus.com/make-mentors/</guid>
-      <description>It doesn&amp;#39;t matter whether they are too busy, or too dead to talk to you.</description>
-    </item>
-    
-    <item>
-      <title>I disagree with everything I say</title>
-      <link>https://ondrejmarkus.com/disagree/</link>
-      <pubDate>Mon, 14 Sep 2020 17:00:00 +0000</pubDate>
-      
-      <guid>https://ondrejmarkus.com/disagree/</guid>
-      <description>I always find a way to disagree with myself and get stuck.</description>
-    </item>
-    
-    <item>
-      <title>7 rules for journaling</title>
+      <title>My 7 rules for journaling</title>
       <link>https://ondrejmarkus.com/journaling-rules/</link>
-      <pubDate>Mon, 31 Aug 2020 18:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/journaling-rules/</guid>
-      <description>If I could give everyone a gift, it would be to befriend themselves by writing a journal.</description>
+      <description>Journaling is the most useful thing anyone can do. It&amp;rsquo;s five minutes a day that will change your life. Writing down thoughts to reflect on them is to your mind what tooth brushing is to your mouth. It makes things clear.
+It develops a superpower–higher self-awareness–the most important skill there is, which helps you better understand how you feel and what you want. These two are the starting point for any goal or action you do.</description>
     </item>
     
     <item>
-      <title>Meaningful Work Guide</title>
-      <link>https://ondrejmarkus.com/work-guide/</link>
-      <pubDate>Thu, 30 Apr 2020 09:35:00 +0000</pubDate>
+      <title>Make your own mentors</title>
+      <link>https://ondrejmarkus.com/make-mentors/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ondrejmarkus.com/work-guide/</guid>
-      <description>A step-by-step guide that will help you find work that fits you needs and personality.</description>
+      <guid>https://ondrejmarkus.com/make-mentors/</guid>
+      <description>I recently realized how to get advice from anyone I want. It doesn&amp;rsquo;t matter whether they are too busy to answer or can&amp;rsquo;t because they are, I don&amp;rsquo;t know, dead for a few hundred years.
+If they&amp;rsquo;ve shared enough thoughts with the world, not even death can stop you from making them your mentor. (Well, yours can, but you probably won&amp;rsquo;t need mentors when dead, so we are covered there.</description>
     </item>
     
     <item>
-      <title>How to find meaningful work – day 4</title>
-      <link>https://ondrejmarkus.com/meaningful-work-day4/</link>
-      <pubDate>Sat, 04 Apr 2020 17:00:00 +0000</pubDate>
+      <title>I disagree with everything I write</title>
+      <link>https://ondrejmarkus.com/disagree/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ondrejmarkus.com/meaningful-work-day4/</guid>
-      <description>Design a bulletproof experiment that will test your favorite work-life scenario without any risks.</description>
-    </item>
-    
-    <item>
-      <title>How to find meaningful work – day 3</title>
-      <link>https://ondrejmarkus.com/meaningful-work-day3/</link>
-      <pubDate>Fri, 03 Apr 2020 17:00:00 +0000</pubDate>
-      
-      <guid>https://ondrejmarkus.com/meaningful-work-day3/</guid>
-      <description>Gather what you&amp;#39;ve learned about yourself to design several possible work-lives.</description>
-    </item>
-    
-    <item>
-      <title>How to find meaningful work – day 2</title>
-      <link>https://ondrejmarkus.com/meaningful-work-day2/</link>
-      <pubDate>Thu, 02 Apr 2020 17:00:00 +0000</pubDate>
-      
-      <guid>https://ondrejmarkus.com/meaningful-work-day2/</guid>
-      <description>Explore what you enjoy, your strenghts and weaknesses to zoom in on the work that&amp;#39;s meaningful to you.</description>
+      <guid>https://ondrejmarkus.com/disagree/</guid>
+      <description>In writing, I question my ideas to test their substance. It forces me to explore different perspectives. And I always find a way to disagree with myself and get stuck in the middle of two or more opposing views.
+I run a bulldozer through what seemed like a simple idea. Suddenly, it&amp;rsquo;s eleven ideas muddied together in a big bowl of mess. Then the real work begins. I shovel through them to dig up the truth.</description>
     </item>
     
     <item>
       <title>How to find meaningful work</title>
       <link>https://ondrejmarkus.com/meaningful-work/</link>
-      <pubDate>Wed, 01 Apr 2020 17:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/meaningful-work/</guid>
-      <description>Ten exercises designed to help you find a work that fits your needs and personality.</description>
+      <description>This guide will help you find a project, a job, or a career that fits your needs. But it&amp;rsquo;s not just about landing a better job. It&amp;rsquo;s about finding what is meaningful to you and then making a living around it.
+There are 10 exercises divided into 4 days that will take you from understanding what you want to a new work-life design you can put into action immediately.</description>
     </item>
     
   </channel>

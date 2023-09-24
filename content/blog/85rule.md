@@ -1,25 +1,16 @@
 ---
 author: Ondrej Markus
-date: 2020-11-13T13:52:28Z
+date: 2020-11-13
 draft: false
-
-title: "The 85% rule: Be the best by trying less"
+title: "The 85 % rule: Be the best by trying less"
 slug: 85rule
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: Trying less is sometimes the only way to get better.
-summary: Trying less is sometimes the only way to get better.
-
-cover:
-  image: /images/2020/11/85-runners.png
-  alt: "The 85% rule: Be the best by trying less"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
 
-The best sprinter of the last century, Carl Lewis, won most of his 100-meter races in a curious way. He was usually in the last place the first 50 meters but swept past his opponents in the second half of the race.
+![The 85 % rule: Be the best by trying less](/images/2020/11/85-runners.png)
+
+The best sprinter of the last century, Carl Lewis, won most of his 100-meter races in a curious way. He was usually in the last place the first 50 meters but swept past his opponents in the second half of the race. (1)
 
 This unusual thing impressed one coach so much he studied dozens of videotapes to understand what is going on. After weeks of research, he found a fascinating difference between Lewis and the other runners.
 
@@ -27,7 +18,7 @@ It was his opponents who changed in the second half of the race. As they approac
 
 In the meantime, Lewis stayed relaxed from start to finish, maintained his speed, and beat them because of it.
 
-The 85% rule was born as a catchy-sounding reminder that pushing yourself too much can hurt your performance.
+The 85 % rule was born as a catchy-sounding reminder that pushing yourself too much can hurt your performance.
 
 ## Work smarter, not harder
 
@@ -39,7 +30,7 @@ The smart thing to do is to know your limits and play around them. The stupid th
 
 {{< figure src="/images/2020/11/optimal-performance.png" caption="Optimum vs. Extreme" >}}
 
-That's what the 85% rule is standing for. It doesn't say you can half-ass your way through life and expect remarkable results. That's unlikely. You still have to strive for the best possible results with everything you have. The difference is that you **rely on self-control instead of brute force**.
+That's what the 85 % rule is standing for. It doesn't say you can half-ass your way through life and expect remarkable results. That's unlikely. You still have to strive for the best possible results with everything you have. The difference is that you **rely on self-control instead of brute force**.
 
 Wherever you look in everyday life, you can see evidence that trying too hard doesn't work. We intuitively know this, yet for some reason, we keep forgetting it.
 
@@ -89,11 +80,5 @@ One antidote I use is to follow the fun and take things a little less seriously.
 
 Everyone has to experiment with what works for them, but I suspect most high-achievers need to relax a bit rather than push harder.
 
-## Summary
-
-* The 85% rule: Trying less is sometimes the only way to get better.
-* Doing the best you can is different than pushing yourself to the extreme.
-* Rely on self-control instead of brute force.
-* Let go of the focus on how you're doing. You are in optimal performance, or you think about it, never both.
-* Learn to relax as a defense against self-talk.
-* [Practice quantity](/quantity/), take things less seriously and have fun.
+**Footnotes**
+- (1): Hugh Jackman mentioned this story on the [episode #444 of Tim Ferriss Show](https://tim.blog/2020/06/26/hugh-jackman/).

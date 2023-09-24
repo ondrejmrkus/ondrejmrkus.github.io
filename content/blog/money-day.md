@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-10T15:35:00Z
+date: 2022-03-10
 draft: false
-
 title: What if you made money 1 day a week?
 slug: money-day
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
-description: 
-summary: 
-
-cover:
-  image: /images/2022/03/making-money-one-day.jpg
-  alt: What if you made money 1 day a week?
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [entrepreneurship]
+description:
 ---
+
+![What if you made money 1 day a week?](/images/2022/03/making-money-one-day.jpg)
 
 Let's continue stretching our mental models about money.
 

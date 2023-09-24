@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-17T22:59:00Z
+date: 2022-03-17
 draft: false
-
 title: Why you should go broke
 slug: go-broke
-categories: [Learning]
-tags: [Learning]
+tags: [self-management]
 description: At least once...
-summary: At least once...
-
-cover:
-  image: /images/2022/03/why-you.should-go-broke.jpg
-  alt: Why you should go broke
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Why you should go broke](/images/2022/03/why-you.should-go-broke.jpg)
 
 About four years ago, I went broke for like a week, and it was the best thing that could happen to me. It taught me a valuable lesson about money.
 

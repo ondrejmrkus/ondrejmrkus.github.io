@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-04-25T10:01:00Z
+date: 2021-04-25
 draft: false
-
 title: "Speed drafting: How to write an article in 25 minutes"
 slug: speed-drafting
-categories: [Writing]
-tags: [Writing]
+tags: [writing]
 description: No backspace. Ignore grammar. Write faster.
-summary: No backspace. Ignore grammar. Write faster.
-
-cover:
-  image: /images/2021/05/speed-drafting-1.png
-  alt: "Speed drafting: How to write an article in 25 minutes"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Speed drafting: How to write an article in 25 minutes](/images/2021/05/speed-drafting.png)
 
 This writing method can turn a hopeless perfectionist into an article-shooting machine.
 
@@ -39,7 +30,7 @@ So I did. And what happened blew my socks off.
 
 We are afraid that what we write is going to suck. It's painful to look at bad writing, especially if it's you who made it.
 
-{{< figure src="/images/2021/05/u-suck-1.png" caption="" >}}
+{{< figure src="/images/2021/05/u-suck.png" caption="" >}}
 
 So we try to avoid writing badly. We want to get it perfect the first time.
 
@@ -73,7 +64,7 @@ That's the same time I'd normally kill hypnotizing the first few paragraphs.
 
 I felt free.
 
-{{< figure src="/images/2021/05/feel-free-1.png" >}}
+{{< figure src="/images/2021/05/feel-free.png" >}}
 
 ## Apply these principles to your writing
 

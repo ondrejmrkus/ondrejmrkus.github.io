@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-10-17T08:28:09Z
+date: 2021-10-17
 draft: false
-
-title: "How to be as useful as you can"
-slug: "max-useful"
-categories: ["Learning"]
-tags: ["Learning"]
-description: "Make a positive difference without losing your mind."
-summary: "Make a positive difference without losing your mind."
-
-cover:
-  image: "images/2021/10/useful-cover.png"
-  alt: "Make a positive difference without losing your mind"
-  caption: ""
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
-  responsiveImages: false
-
+title: How to be as useful as you can
+slug: max-useful
+tags: [learning]
+description: Make a positive impact without losing your mind.
 ---
+
+![How to be as useful as you can](/images/2021/10/useful-cover.png)
 
 3 years ago, I was in a dark place.
 
@@ -163,4 +154,3 @@ Also, there is nothing wrong with wanting to do good. It's amazing more people s
 The most generous thing is to be a selfish learner first.
 
 Get good before you do good.
-

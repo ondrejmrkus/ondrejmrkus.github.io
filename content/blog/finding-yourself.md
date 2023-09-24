@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-02-24T20:28:00Z
+date: 2022-02-24
 draft: false
-
 title: Finding yourself as you go
 slug: finding-yourself
-categories: [Learning]
-tags: [Learning]
-description: 
-summary: 
-
-cover:
-  image: /images/2022/02/finding-yourself-cover.jpg
-  alt: Finding yourself as you go
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [learning]
+description:
 ---
+
+![Finding yourself as you go](/images/2022/02/finding-yourself-cover.jpg)
 
 I want to share with you my struggle today.
 

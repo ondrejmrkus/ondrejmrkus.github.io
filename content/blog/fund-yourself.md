@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-15T15:00:00Z
+date: 2022-03-12
 draft: false
-
 title: Fund yourself
 slug: fund-yourself
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
-description: How to use money on what matters the most?
-summary: How to use money on what matters the most?
-
-cover:
-  image: /images/2022/03/fund-yourself.jpg
-  alt: Fund yourself
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [entrepreneurship]
+description: How to use money on what matters the most
 ---
+
+![Fund yourself](/images/2022/03/fund-yourself.jpg)
 
 Money is a versatile resource. We can trade it for almost anything at any time. It creates options, flexibility, and safety. And that's why we like it.
 

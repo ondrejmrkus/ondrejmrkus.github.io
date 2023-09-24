@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-05-02T10:09:00Z
+date: 2021-05-02
 draft: false
-
 title: Test your idea in 280 characters
 slug: tweet-prototype
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [product-design]
 description: The fastest way to avoid wasting your time making things nobody wants.
-summary: The fastest way to avoid wasting your time making things nobody wants.
-
-cover:
-  image: /images/2021/05/idea-280-1.png
-  alt: Test your idea in 280 characters
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Test your idea in 280 characters](/images/2021/05/idea-280.png)
 
 When I was building my first business 10 years ago, I thought I had a solid product idea. But I was afraid someone might steal it from me, so I worked in isolation for 6 months until I launched it. At that point, I was out of money, and I had to succeed at once to survive.
 
@@ -31,7 +22,7 @@ My business failed because I kept it mostly a secret. I didn't test my ideas wit
 
 What I should have done instead is **talk to people early and often about my idea**. I would get helpful feedback on how much my product should cost, how it should look, and decide whether it's an idea worth pursuing in the first place.
 
-{{< figure src="/images/2021/05/i-made-this-1.png" caption="Talk to people early enough" >}}
+{{< figure src="/images/2021/05/i-made-this.png" caption="Talk to people early enough" >}}
 
 The good news is that you don't need refined skills and complex software to do this. **All you need to start testing your ideas is _words_.**
 
@@ -52,7 +43,7 @@ That's why Tweet prototypes are intentionally **short** and **specific**. They d
 
 Let's look at an example from a writing course I'm working on:
 
-{{< figure src="/images/2021/05/tweet-prototype-example-1.png" caption="Tweet prototype example" >}}
+{{< figure src="/images/2021/05/tweet-prototype-example.png" caption="Tweet prototype example" >}}
 
 Like most prototypes, this isn't perfect. But what matters is that it includes the important parts of What, Why, and How:
 
@@ -75,7 +66,7 @@ Most likely, they wouldn't understand something I thought was obvious (but reall
 
 This would help me **make the prototype easier to understand**. Then I'd repeat this process and add more people as I continued developing the idea.
 
-{{< figure src="/images/2021/05/ask-questionss-2.png" caption="Ask good questions (not like this)" >}}
+{{< figure src="/images/2021/05/ask-questionss.png" caption="Ask good questions (not like this)" >}}
 
 Just by doing this, you can very quickly **move from an idea people don't understand to something they actually want**. And the best thing is that all this can happen in one afternoon because working with words is fast.
 
@@ -83,7 +74,7 @@ Just by doing this, you can very quickly **move from an idea people don't unders
 
 Do you have an idea to test?
 
-1. Open this[online text editor](https://onlinetextedit.com/)
+1. Open this [online text editor](https://onlinetextedit.com/)
 2. Set a timer for 5 minutes
-3. Write 280 characters of**What**is your idea,**Why**is it useful, and**How**it works
+3. Write 280 characters of **What** is your idea, **Why** is it useful, and **How** it works
 4. Send it to one friend who might like it.

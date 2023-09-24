@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-12-23T15:36:00Z
+date: 2021-12-23
 draft: false
-
 title: 4 ways to do a year reflection
 slug: 4-year-reflection
-categories: [Learning]
-tags: [Learning]
-description: 
-summary: 
-
-cover:
-  image: /images/2021/12/1-4.png
-  alt: 4 ways to do a year reflection
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [learning]
+description:  
 ---
+
+![4 ways to do a year reflection](/images/2021/12/1-4.png)
 
 The year's end is an opportunity to zoom out from the daily chaos and see the bigger picture of where your life is going.
 
@@ -153,4 +144,3 @@ I just need to find some way to bribe her into filling the 20-page PDF.
 Sharing your insights with someone is another way to learn about yourself. Because hearing yourself say out loud what matters to you is different than writing it. So give that a try.
 
 Find a buddy and suggest that both of you do the reflection and then talk about it. Eat some cookies and have fun.
-

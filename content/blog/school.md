@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2020-12-01T18:30:00Z
+date: 2020-12-01
 draft: false
-
 title: Go to school but learn yourself
 slug: school
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: Schools fail at the one thing they should do really well – cultivating our ability to learn.
-summary: Schools fail at the one thing they should do really well – cultivating our ability to learn.
-
-cover:
-  image: /images/2020/12/go-to-school-4.png
-  alt: Go to school but learn yourself
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Go to school but learn yourself](/images/2020/12/go-to-school.png)
 
 Schools fail at the one thing they should do well – cultivating our _ability to_  _learn_. Nearly all curiosity and enthusiasm for learning we have as 4-year-olds is gone by the time we finish high-school. (1)
 
@@ -83,6 +74,6 @@ But whatever you do, **follow your curiosity** to keep alive your ability to lea
 
 P.S. The same is true for college.
 
----
+Footnotes:
 
-_1 – How schools kill creativity: [NASA once had scientists design a test](https://www.youtube.com/watch?v=ZfKMq-rYtnc&feature=youtu.be&t=5m29s) to measure the creative potential of their engineers. It was a big success, so the scientists then used it for a study of how creativity develops as kids grow up. They tested 1600 children between the ages of 4 and 5, and 98% of them ranked as creative geniuses. Five years later, just 30% of these children scored the same. At 15, it was 12%, and by the time they finished school, only 2% of now young adults had their original creative drive._
+- (1): How schools kill creativity: [NASA once had scientists design a test](https://www.youtube.com/watch?v=ZfKMq-rYtnc&feature=youtu.be&t=5m29s) to measure the creative potential of their engineers. It was a big success, so the scientists then used it for a study of how creativity develops as kids grow up. They tested 1600 children between the ages of 4 and 5, and 98% of them ranked as creative geniuses. Five years later, just 30% of these children scored the same. At 15, it was 12%, and by the time they finished school, only 2% of now young adults had their original creative drive.

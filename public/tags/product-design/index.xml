@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>product-design on Ondrej Markus</title>
+    <link>https://ondrejmarkus.com/tags/product-design/</link>
+    <description>Recent content in product-design on Ondrej Markus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/product-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test your idea in 280 characters</title>
+      <link>https://ondrejmarkus.com/tweet-prototype/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ondrejmarkus.com/tweet-prototype/</guid>
+      <description>When I was building my first business 10 years ago, I thought I had a solid product idea. But I was afraid someone might steal it from me, so I worked in isolation for 6 months until I launched it. At that point, I was out of money, and I had to succeed at once to survive.
+However, people didn&amp;rsquo;t want my product. Something was wrong but I couldn&amp;rsquo;t tell what it is.</description>
+    </item>
+    
+  </channel>
+</rss>

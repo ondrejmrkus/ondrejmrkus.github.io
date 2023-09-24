@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-04-02T12:52:55Z
+date: 2021-04-02
 draft: false
-
 title: 3 levels of becoming an innovator
 slug: 3-levels
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [entrepreneurship]
 description: A summary of essential mindsets, strategies, and tools you need to know to create things people actually want.
-summary: A summary of essential mindsets, strategies, and tools you need to know to create things people actually want.
-
-cover:
-  image: /images/2021/04/3-levels-innovators.jpg
-  alt: 3 levels of becoming an innovator
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![3 levels of becoming an innovator](/images/2021/04/3-levels-innovators.jpg)
 
 Innovators create new things. They invent products, designs, and ideas no one has done before. They push progress.
 
@@ -186,7 +177,7 @@ We all struggle to let go of things we've invested our time into. But old things
 
 **The answers are hidden in exploring the problem, not tinkering with your solution**. Stay flexible and focus on the problem above all else.
 
-{{< figure src="/images/2021/04/ex-solutions-1.jpg" caption="It's not personal." >}}
+{{< figure src="/images/2021/04/ex-solutions.jpg" caption="It's not personal." >}}
 
 ### Ask the right questions
 
@@ -254,7 +245,6 @@ However, there is a big gap between knowing these levels, practicing them, and m
 
 I know I haven't mastered any of them yet. But I'm trying my best to become better every day at **making the right things in the right way**.
 
-And if that sounds like something you'd like to do, these 3 levels are the best start.
+And if that sounds like something you'd like to do, these 3 levels are the direction to go.
 
-[Email me](mailto:o@ondrejmarkus.com) your thoughts, feedback, or questions about how to apply this to your project. I'm glad to help any fellow changemaker.
-
+[Email me](mailto:o@ondrejmarkus.com) your thoughts, feedback, or questions about how to apply this to your project. I'm glad to help any fellow innovator.

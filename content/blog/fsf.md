@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-09-06T14:32:00Z
+date: 2021-09-06
 draft: false
-
 title: "The Full-Stack Freelancer – A new approach to work"
 slug: "fsf"
-categories: ["Entrepreneurship"]
-tags: ["Entrepreneurship"]
+tags: ["entrepreneurship"]
 description: "Finding the optimal way of working for generalists."
-summary: "Finding the optimal way of working for generalists."
-
-cover:
-  image: "/images/2021/09/1.png"
-  alt: "The Full-Stack Freelancer – A new approach to work"
-  caption: ""
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
-  responsiveImages: false
-
 ---
+
+![The Full-Stack Freelancer – A new approach to work](/images/2021/09/1.png)
 
 Your work can be a source of financial freedom, everyday enjoyment, and opportunities to make the world a little better. Or it can be a burden you endure to make a living.
 

@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-06-07T17:44:00Z
+date: 2022-06-07
 draft: false
-
 title: Why don't I do what I say I want
 slug: why-dont
-categories: [Reflections]
-tags: [Reflections]
-description: 
-summary: 
-
-cover:
-  image: /images/2022/06/why-dont.jpg
-  alt: Why don't I do what I say I want
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [reflections]
+description:
 ---
+
+![Why don't I do what I say I want](/images/2022/06/why-dont.jpg)
 
 A month ago, I switched from a writing-only lifestyle to a part-time design job. I joined an innovation agency where I worked a year ago to lead a project with a big corporate client.
 

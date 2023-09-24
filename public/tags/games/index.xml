@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games on Ondrej Markus</title>
+    <title>games on Ondrej Markus</title>
     <link>https://ondrejmarkus.com/tags/games/</link>
-    <description>Recent content in Games on Ondrej Markus</description>
+    <description>Recent content in games on Ondrej Markus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Aug 2022 16:43:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design diary #1: Stuck on candy</title>
-      <link>https://ondrejmarkus.com/dd1/</link>
-      <pubDate>Thu, 04 Aug 2022 16:43:00 +0000</pubDate>
+      <title>Building games to train problem-solvers</title>
+      <link>https://ondrejmarkus.com/building-games/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ondrejmarkus.com/dd1/</guid>
-      <description>This is a public journal where I share my game design process.</description>
+      <guid>https://ondrejmarkus.com/building-games/</guid>
+      <description>I recently discovered Synthesis and how they use games to teach kids complex problem-solving, decision making, and communication in teams.
+I&amp;rsquo;m blown away. Inspired.
+You know the feeling when you&amp;rsquo;ve been looking for a project to do for some time, and then you find something and you feel like: &amp;ldquo;YES! That&amp;rsquo;s exactly it.&amp;rdquo;
+When everything clicks together.
+You knew the ingredients of what you wanted to do, but you didn&amp;rsquo;t know how to mix them together.</description>
     </item>
     
     <item>
       <title>Let&#39;s talk games</title>
       <link>https://ondrejmarkus.com/lets-talk-games/</link>
-      <pubDate>Tue, 02 Aug 2022 11:38:00 +0000</pubDate>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/lets-talk-games/</guid>
-      <description>I want to write about games and what makes them remarkable.</description>
+      <description>Games tickle my brain the right way. I enjoy examining them, making them, and playing them.
+This year, I realized my mind spends a lot of time thinking about the world in terms of games, so I might as well follow my enthusiasm and dive in.
+Why not spend my life doing what I enjoy the most?
+What I&amp;rsquo;m going to write about These are some of the questions I&amp;rsquo;m exploring:</description>
     </item>
     
   </channel>

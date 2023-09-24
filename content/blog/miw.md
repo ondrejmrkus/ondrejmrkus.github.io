@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-10T20:45:00Z
+date: 2022-01-10
 draft: false
-
 title: Do the most important work first
 slug: miw
-categories: [Self-management]
-tags: [Self-management]
+tags: [self-management]
 description: 
-summary: 
-
-cover:
-  image: /images/images/2022/01/1-3.png
-  alt: Do the most important work first
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Do the most important work first](/images/2022/01/1-3.png)
 
 Every morning after I make coffee and write my [Morning Pages](/mp/), I work until noon on the most important project of the day.
 

@@ -1,81 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ondrej Markus</title>
     <link>https://ondrejmarkus.com/tags/</link>
     <description>Recent content in Tags on Ondrej Markus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2023 15:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reflections</title>
+      <title>reflections</title>
       <link>https://ondrejmarkus.com/tags/reflections/</link>
-      <pubDate>Thu, 20 Jul 2023 15:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/tags/reflections/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning</title>
-      <link>https://ondrejmarkus.com/tags/learning/</link>
-      <pubDate>Fri, 18 Nov 2022 10:10:34 +0000</pubDate>
-      
-      <guid>https://ondrejmarkus.com/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Games</title>
+      <title>games</title>
       <link>https://ondrejmarkus.com/tags/games/</link>
-      <pubDate>Thu, 04 Aug 2022 16:43:00 +0000</pubDate>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Self-management</title>
+      <title>self-management</title>
       <link>https://ondrejmarkus.com/tags/self-management/</link>
-      <pubDate>Thu, 31 Mar 2022 20:32:00 +0000</pubDate>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/tags/self-management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Entrepreneurship</title>
+      <title>learning</title>
+      <link>https://ondrejmarkus.com/tags/learning/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ondrejmarkus.com/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrepreneurship</title>
       <link>https://ondrejmarkus.com/tags/entrepreneurship/</link>
-      <pubDate>Thu, 24 Mar 2022 21:27:00 +0000</pubDate>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/tags/entrepreneurship/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Writing</title>
+      <title>writing</title>
       <link>https://ondrejmarkus.com/tags/writing/</link>
-      <pubDate>Thu, 17 Feb 2022 15:55:59 +0000</pubDate>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Life design</title>
+      <title>life-design</title>
       <link>https://ondrejmarkus.com/tags/life-design/</link>
-      <pubDate>Thu, 27 Jan 2022 15:14:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/tags/life-design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Work guide</title>
-      <link>https://ondrejmarkus.com/tags/work-guide/</link>
-      <pubDate>Sat, 04 Apr 2020 17:00:00 +0000</pubDate>
+      <title>product-design</title>
+      <link>https://ondrejmarkus.com/tags/product-design/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ondrejmarkus.com/tags/work-guide/</guid>
+      <guid>https://ondrejmarkus.com/tags/product-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://ondrejmarkus.com/tags/guide/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ondrejmarkus.com/tags/guide/</guid>
       <description></description>
     </item>
     

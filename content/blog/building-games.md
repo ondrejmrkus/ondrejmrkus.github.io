@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-11-18T10:10:34Z
+date: 2022-11-18
 draft: false
-
 title: Building games to train problem-solvers
 slug: building-games
-categories: [Learning]
-tags: [Learning]
-description:
-summary: How to use games to teach kids problem-solving, decision-making, and cooperation in teams.
-
-cover:
-  image: /images/2022/11/building-games-cover.jpg
-  alt: Building games to train problem-solvers
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [games]
+description: How to use games to teach kids problem-solving, decision-making, and cooperation in teams.
 ---
+
+![Building games to train problem-solvers](/images/2022/11/building-games-cover.jpg)
 
 I recently discovered [Synthesis](https://www.synthesis.com/) and how they use games to teach kids complex problem-solving, decision making, and communication in teams.
 

@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-07-14T09:37:02Z
+date: 2021-07-14
 draft: false
-
 title: The fear of being a failure
 slug: failure
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: A story about the fear of failing the people who believed in me.
-summary: A story about the fear of failing the people who believed in me.
-
-cover:
-  image: /images/2021/07/failure.png
-  alt: The fear of being a failure
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![The fear of being a failure](/images/2021/07/failure.png)
 
 Five years ago, I co-founded a startup in nutrition. We've grown fast in the first year despite not really knowing what we're doing.
 

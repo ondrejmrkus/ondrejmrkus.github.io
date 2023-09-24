@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-10T15:00:00Z
+date: 2022-01-10
 draft: false
-
-title: Get unstuck
+title: How to get unstuck
 slug: get-unstuck
-categories: [Life design]
-tags: [Life design]
+tags: [life-design]
 description: Overcome your inner critic and generate new ideas to get yourself unstuck.
-summary: Overcome your inner critic and generate new ideas to get yourself unstuck.
-
-cover:
-  image: /images/2022/01/1-9.png
-  alt: Get unstuck
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Get unstuck](/images/2022/01/1-9.png)
 
 This happens to me all the time:
 

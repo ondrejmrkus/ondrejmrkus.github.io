@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-02-17T15:55:59Z
+date: 2022-02-17
 draft: false
-
 title: Write to learn better
 slug: write-to-learn
-categories: [Writing]
-tags: [Writing]
+tags: [writing]
 description: How to use writing to improve at any skill
-summary: How to use writing to improve at any skill
-
-cover:
-  image: /images/2022/02/writing-to-learn-better.png
-  alt: Write to learn better
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Write to learn better](/images/2022/02/writing-to-learn-better.png)
 
 Every week, I tell myself: _"Today, I will make my life easier and write about something I know well."_
 

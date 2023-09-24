@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-05-18T13:28:28Z
+date: 2021-05-18
 draft: false
-
-title: "Self-determination triangle: A map for a good life"
+title: "Self-determination triangle: Framework for a good life"
 slug: sdt-triangle
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: What do you need to have a good life?
-summary: What do you need to have a good life?
-
-cover:
-  image: /images/2021/05/trinangle-cover-1.png
-  alt: Self-determination triangle
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Self-determination triangle](/images/2021/05/trinangle-cover.png)
 
 I'm on a hunt for frameworks that explain how life works.
 
@@ -101,7 +92,7 @@ So as a rookie writer, I feel very challenged and learning fast. It's more about
 
 Anyway, this checkbox feels checked off at the moment, even though I'm not very useful as a writer to others right now because I'm invisible to the world. This sucks a bit. But that's something else I will soon start to work on (I'll have to) to feel helpful. This is 9/10 because of the intensity of learning I experience.
 
--
+---
 
 This was just a brief example that didn't mention most of what is going on in my life, obviously. But you can, hopefully, see what I mean by _looking at your life through the SDT lens_.
 

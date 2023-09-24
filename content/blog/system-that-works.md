@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-04-11T19:47:25Z
+date: 2021-04-11
 draft: false
-
 title: Find a productivity system that works for you
 slug: system-that-works
-categories: [Self-management]
-tags: [Self-management]
-description: Figuring this out unstuck me from chasing the perfect method and focus on what really matters – getting things done.
-summary: Figuring this out unstuck me from chasing the perfect method and focus on what really matters – getting things done.
-
-cover:
-  image: /images/2021/08/metasprint-levels.png
-  alt: Find a productivity system that works for you
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [self-management]
+description: Figuring this out unstuck me from chasing the perfect tool and focus on what really matters – getting things done.
 ---
+
+{{< figure src="/images/2021/04/Blog-images.png" caption="A viable productivity system" >}}
 
 ## Everyone has a system
 
@@ -97,5 +88,3 @@ This is probably the most significant change you can do for your productivity an
 Success in almost every area of life needs consistent effort over time.
 
 **Finishing the right things** is reliable proof of being on the right track, and **enjoying the process** is the most viable strategy for persisting long enough to get the results you want.
-
-{{< figure src="/images/2021/04/Blog-images.png" caption="A viable productivity system" >}}

@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-29T21:44:00Z
+date: 2022-03-29
 draft: false
-
-title: Go nuts to find your balance
+title: Use overcompensation to find your balance
 slug: overcompensation
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: 
-summary: 
-
-cover:
-  image: /images/2022/03/go-nuts.jpg
-  alt: Go nuts to find your balance
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Overcompensation](/images/2022/03/go-nuts.jpg)
 
 About a month ago, I wrote about how keeping a [feelgood journal](/feelgood/) can help you train your brain to be more optimistic.
 

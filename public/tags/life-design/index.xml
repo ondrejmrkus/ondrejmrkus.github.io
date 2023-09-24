@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life design on Ondrej Markus</title>
+    <title>life-design on Ondrej Markus</title>
     <link>https://ondrejmarkus.com/tags/life-design/</link>
-    <description>Recent content in Life design on Ondrej Markus</description>
+    <description>Recent content in life-design on Ondrej Markus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jan 2022 15:14:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/life-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/life-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design your lives</title>
       <link>https://ondrejmarkus.com/design-your-lives/</link>
-      <pubDate>Thu, 27 Jan 2022 15:14:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/design-your-lives/</guid>
-      <description>Create three different versions of the next five years of your life.</description>
+      <description>Designing your life is about realizing there is not just one ideal life for you, but many different meaningful lives you could enjoy.
+Also, you don&amp;rsquo;t have to choose one path and stick with it for 30 years. It&amp;rsquo;s unlikely that&amp;rsquo;s going to work anyway because you don&amp;rsquo;t know what things are like until you try them.
+That&amp;rsquo;s why we approach the problem of finding meaningful work we enjoy as designers:</description>
     </item>
     
     <item>
       <title>Find meaning</title>
       <link>https://ondrejmarkus.com/find-meaning/</link>
-      <pubDate>Thu, 20 Jan 2022 15:26:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/find-meaning/</guid>
-      <description>How to create meaning and purpose in your life and work?</description>
+      <description>(This is the third part of my Life Design Series. Start with the first part if you&amp;rsquo;re new here.)
+Last time, we practiced paying more attention to the things we enjoy. Today, we will cover the second part of designing our life around meaningful work we enjoy doing: Meaning.
+People throw around the word meaning and purpose a lot when talking about work, so let’s do a super-quick visual definition.</description>
     </item>
     
     <item>
       <title>Follow joy</title>
       <link>https://ondrejmarkus.com/follow-joy/</link>
-      <pubDate>Sat, 15 Jan 2022 15:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/follow-joy/</guid>
       <description>(This is a second article from my Life Design Series. You can find the first article here: Start where you are.)
@@ -40,19 +44,26 @@ Do work you enjoy I&amp;rsquo;m just gonna say it: I suck at doing things I don&
     <item>
       <title>Start where you are</title>
       <link>https://ondrejmarkus.com/start-where-you-are/</link>
-      <pubDate>Thu, 13 Jan 2022 21:46:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/start-where-you-are/</guid>
-      <description>A friend once told me: I don&amp;#39;t know what I want to do in life. I really need a near-death experience to find out.</description>
+      <description>A friend once told me: &amp;ldquo;I don&amp;rsquo;t know what I want to do in life. I really need a near-death experience to find out.&amp;rdquo;
+I mean, I guess that could work.
+You also might have heard about people almost dying and having a eureka moment about what they want to do with their life.
+This idea of instant insight is seductive because it feels effortless.
+&amp;ldquo;I didn&amp;rsquo;t know, and then I knew!</description>
     </item>
     
     <item>
-      <title>Get unstuck</title>
+      <title>How to get unstuck</title>
       <link>https://ondrejmarkus.com/get-unstuck/</link>
-      <pubDate>Mon, 10 Jan 2022 15:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/get-unstuck/</guid>
-      <description>Overcome your inner critic and generate new ideas to get yourself unstuck.</description>
+      <description>This happens to me all the time:
+I get stuck on a problem. Whatever I’m trying doesn’t work. And I don’t know what to do next. Actually, I’m stuck right now. So I’m writing this for myself as much as anyone.
+Getting stuck is not your personal failure. It happens to everyone all the time. We just don’t talk about it very often.
+But we should. It’s a normal part of living and working, so we don’t need to be embarrassed.</description>
     </item>
     
   </channel>

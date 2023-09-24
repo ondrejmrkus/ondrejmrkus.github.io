@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-04-18T09:54:00Z
+date: 2021-04-18
 draft: false
-
-title: "Morning Pages: 100 words for a clear mind"
+title: "Morning Pages: My favorite journaling method"
 slug: mp
-categories: [Self-management]
-tags: [Self-management]
-description: Easily the most essential thing I do every day to stay sane and productive.
-summary: Easily the most essential thing I do every day to stay sane and productive.
-
-cover:
-  image: /images/2021/05/clearmind-1.png
-  alt: Morning Pages
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [learning]
+description: This is easily the most essential thing I do every day to stay sane and productive.
 ---
+
+![Morning Pages](/images/2021/05/clearmind.png)
 
 If I skip writing my Morning Pages for more than a day, my head gets cloudy.
 
@@ -27,7 +18,7 @@ But how can such a small thing have any impact on the clarity of your mind?
 
 ## What are Morning Pages?
 
-Morning Pages are a concept from the book **The Artist's Way** by Julia Cameron.
+Morning Pages are a concept from the book The Artist's Way by Julia Cameron.
 
 There she describes it as an exercise to nurture your creativity by writing several pages of text every morning. And it has just one rule: Keep writing until you wrote a chosen number of pages. (I think she recommends three.)
 
@@ -45,7 +36,7 @@ Now, it's important to say that I don't use Morning Pages to feed my creativity.
 
 For me, the original exercise evolved into something easier that better fits my needs. These days, I rarely write more than a few paragraphs. I keep it short and simple. I open the page, take a sip of hot coffee, and ask myself:
 
-**What is going on?**
+**"What is going on?"**
 
 And something always pops up:
 
@@ -87,8 +78,6 @@ It will enable you to write honestly. It's easier to handle naked thoughts when 
 
 ## Summary
 
-If your mind could use a little more clarity, try writing Morning Pages.
-
-Even though it seems like a tiny thing, writing at least 100 words to yourself every morning makes a big difference.
-
-Open a blank page, take a sip from your beverage of choice, and ask yourself: **What is going on?**
+- If your mind could use a little more clarity, try writing Morning Pages.
+- Even though it seems like a tiny thing, writing at least 100 words to yourself every morning makes a big difference.
+- Open a blank page, take a sip from your beverage of choice, and ask yourself: **What is going on?**

@@ -1,22 +1,11 @@
 ---
 author: Ondrej Markus
-date: 2020-10-05T17:00:00Z
+date: 2020-10-05
 draft: false
-
-title: When is the right time to quit
+title: How to find the right time to quit
 slug: quit
-categories: [Learning]
-tags: [Learning]
-description: Learn to calibrate the decision based on your quitting tendency from the past.
-summary: Learn to calibrate the decision based on your quitting tendency from the past.
-
-cover:
-  image: /images/2020/10/quitting-spectrum-3.png
-  alt: When is the right time to quit
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [learning]
+description: Sharpen your decision-making based on your quitting tendency in the past.
 ---
 
 Quitting on time will save your life. Or at least your sanity and friendships that would otherwise slowly decay into mutual bitterness as you hesitate to act.
@@ -31,7 +20,7 @@ Quitting tendency is a pattern in your behavior. You probably remember moments y
 
 Learning from your past behavior is the best way to improve the timing of the next exit. Imagine quitting tendency on a spectrum.
 
-{{< figure src="/images/2020/10/quitting-spectrum-4.png" caption="Quitting Spectrum" >}}
+{{< figure src="/images/2020/10/quitting-spectrum.png" caption="Quitting Spectrum" >}}
 
 On the left, there's an **early quitter** who runs away on the first sight of trouble. He loves novelty but it harms his chances to finish long-term projects and form deeper relationships. He needs to commit himself more and endure the complicated realities of everyday problems. It's tempting to replace one environment with another–so fresh, so uncomplicated, so peaceful. But what he doesn't realize is that he's taking his problems with him. He will be in the same position soon enough. He can't outrun complexities of life.
 
@@ -39,7 +28,7 @@ On the opposite side is an **overstayer** who hates change. He'll never leave ev
 
 Those guys are nuts. Although, they could learn from each and combine into what we strive for–the unattainable ideal–a **reasonable quitter**.
 
-{{< figure src="/images/2020/10/reasonable-quitter-2.png" caption="Reasonable Quitter" >}}
+{{< figure src="/images/2020/10/reasonable-quitter.png" caption="Reasonable Quitter" >}}
 
 The reasonable quitter understands her tendencies and compensates for them with experience. She accepts responsibility to end what doesn't work, and acts quickly yet kindly once she knows it's the right time to move on.
 
@@ -53,7 +42,7 @@ To think, search for patterns in your behavior: **When did I quit too soon/or to
 
 Think about similar occasions to the one you struggle with now. Where does your previous behavior put you on the quitting spectrum?
 
-{{< figure src="/images/2020/10/quitting-tendency-3.png" caption="Quitting tendency" >}}
+{{< figure src="/images/2020/10/quitting-tendency.png" caption="Quitting tendency" >}}
 
 Most of us are neither one of the extremes or the middle. Also, our goal isn't to be 100% accurate when placing ourselves on the spectrum. It is to realize onto which side are we leaning towards and compensate for it when deciding whether to leave or stay.
 

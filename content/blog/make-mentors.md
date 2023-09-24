@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2020-09-21T17:00:00Z
+date: 2020-09-21
 draft: false
-
-title: Make your mentors
+title: Make your own mentors
 slug: make-mentors
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: It doesn't matter whether they are too busy, or too dead to talk to you.
-summary: It doesn't matter whether they are too busy, or too dead to talk to you.
-
-cover:
-  image: /images/2020/10/mentors-3.png
-  alt: Make your mentors
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Make your mentors](/images/2020/10/mentors.png)
 
 I recently realized how to get advice from anyone I want. It doesn't matter whether they are too busy to answer or can't because they are, I don't know, dead for a few hundred years.
 

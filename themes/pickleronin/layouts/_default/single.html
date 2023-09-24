@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Description }}
+
+<time class="article-date"> {{ .Date.Format "January 2, 2006" }} </time>
+
+<hr>
+
+{{ .Content }}
+
+{{ partial "footer.html" . }}

@@ -1,14 +1,11 @@
 ---
 author: Ondrej Markus
-date: 2021-07-09T07:24:15Z
+date: 2021-07-09
 draft: false
-
 title: "What the work happened #6"
 slug: jun21
-categories: [Reflections]
-tags: [Reflections]
+tags: [reflections]
 description: My made-up job, annoying money, and building a network
-summary: My made-up job, annoying money, and building a network
 
 cover:
   image: /images/2021/07/wtwh-6-cover.png
@@ -18,6 +15,8 @@ cover:
   responsiveImages: false
 
 ---
+
+![What the work happened #6](/images/2021/07/wtwh-6-cover.png)
 
 Hey there 👋
 

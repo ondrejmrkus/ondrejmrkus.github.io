@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-05-09T19:21:00Z
+date: 2021-05-09
 draft: false
-
 title: "What the work happened #4"
 slug: apr21
-categories: [Reflections]
-tags: [Reflections]
+tags: [reflections]
 description: A very personal reflection on my work in April 2021.
-summary: A very personal reflection on my work in April 2021.
-
-cover:
-  image: /images/2021/05/wtwh4-cover.png
-  alt: "What the work happened #4"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![What the work happened #4](/images/2021/05/wtwh4-cover.png)
 
 Hey there 👋
 
@@ -42,7 +33,7 @@ The final number of deep work ● in April is **253**, which is not bad given th
 
 This is how it looks like in a monthly view of my Notion journal:‌
 
-{{< figure src="/images/2021/05/notion-monthly-journal-1.png" caption="Monthly view of my Notion journal" >}}
+{{< figure src="/images/2021/05/notion-monthly-journal.png" caption="Monthly view of my Notion journal" >}}
 
 Next, let's move to the happenings of April.
 
@@ -67,7 +58,7 @@ But that doesn't mean that my brain isn't bothering me with the fear of missing 
 5. So I talk to myself to stop being anxious about it, but it doesn't work 100%. Some primal survival instinct keeps bugging me at the back of my head: DON'T BE STUPID, GET MORE MONEY
 6. Then I start getting anxious about being anxious. That's the worst kind of anxious. The self-destruct sequence has been initiated. I wait for the implosion.
 7. Then [I listen to Alan Watts](https://www.notion.so/How-to-start-with-Alan-Watts-80a878fb4007431f9db12ed7b5d5b23c), and everything is fine.
-8. Ugh. That was close, luckily now I know how to deal with this sh ... oh nooo ... back to 1.
+8. Ugh. That was close, luckily now I know how to deal with this sh ... oh nooo ... back to 1
 
 ## Less job, more writing, please
 
@@ -131,9 +122,9 @@ Here they are at least in Notion:
 
 ## New articles
 
-* [Morning Pages: 100 words for a clear mind](https://www.notion.so/Morning-Pages-100-words-for-a-clear-mind-f3894166cc1845129a33212e68f1ed92)
-* [Speed Drafting: How to write an article in 25 minutes](https://www.notion.so/Speed-Drafting-How-to-write-an-article-in-25-minutes-ea50c5961ce446139df804ce0eef5db9)
-* [Test your idea in 280 characters](https://www.notion.so/Test-your-idea-in-280-characters-a3159e97ca4c4326af2400a751ad12f0)
+* [Morning Pages: 100 words for a clear mind](/mp/)
+* [Speed Drafting: How to write an article in 25 minutes](/speed-drafting/)
+* [Test your idea in 280 characters](/tweet-prototype/)
 * [How to find a productivity system that works for you](/system-that-works/)
 
 Lastly, a couple of crunchy bits I enjoyed this month:

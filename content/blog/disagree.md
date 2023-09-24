@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2020-09-14T17:00:00Z
+date: 2020-09-14
 draft: false
-
-title: I disagree with everything I say
+title: I disagree with everything I write
 slug: disagree
-categories: [Learning]
-tags: [Learning]
+tags: [writing]
 description: I always find a way to disagree with myself and get stuck.
-summary: I always find a way to disagree with myself and get stuck.
-
-cover:
-  image: /images/2020/10/noidea.png
-  alt: I disagree with everything I say
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![I disagree with everything I say](/images/2020/10/noidea.png)
 
 In writing, I question my ideas to test their substance. It forces me to explore different perspectives. And I always find a way to disagree with myself and get stuck in the middle of two or more opposing views.
 
@@ -30,3 +21,7 @@ So I looked for an antidote to being stuck in trenches with myself, and I found 
 Strong opinions are useful whether people agree with them or not. They help us to break assumptions and reveal new points of view. We learn about who we are from contrasts–seeing what we are or aren't, like or dislike. We understand the world in opposites.
 
 This insight enables my overly critical self to speak freely. I found peace in writing from one point of view today and a different one tomorrow. I aim for one truth among many. No opinion represents absolute truth, but some are useful. I settle for finding the useful.
+
+> **Update from 23/09/2023**
+>
+> It's 3 years since I wrote this article. And I'm super glad I found the courage to start writing. I can easily find angles to disagree with lot's of things I wrote years back, but the process of writing itself is too useful not to write anything.

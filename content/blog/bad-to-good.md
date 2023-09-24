@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-12-20T15:40:32Z
+date: 2021-12-20
 draft: false
-
 title: Be bad to get good
 slug: bad-to-good
-categories: [Learning]
-tags: [Learning]
-description: 
-summary: Whatever you are trying to learn, if you are not willing to be bad at it first, you will never get good.
-
-cover:
-  image: /images/2021/12/1-2.png
-  alt: Be bad to get good
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [learning]
+description: Whatever you are trying to learn, if you are not willing to be bad at it first, you will never get good.
 ---
+
+![Be bad to get good](/images/2021/12/1-2.png)
 
 Whatever you are trying to learn. Whatever you are trying to become. **If you are not willing to be bad at it first, you will never get good.**
 
@@ -106,4 +97,3 @@ Does it matter? Not at all. We are testing the waters: _Are we enjoying this?_  
 Because we know that if we enjoy the process, the rest will take care of itself.
 
 **When you find joy in doing the work, being bad won't stop you from getting good.**
-

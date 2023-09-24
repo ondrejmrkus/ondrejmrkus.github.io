@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-03-24T19:01:00Z
+date: 2021-03-24
 draft: false
-
 title: How to become an innovation designer
 slug: innovation-design
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [entrepreneurship]
 description: Innovation design is a process for solving the right problems in the right way.
-summary: Innovation design is a process for solving the right problems in the right way.
-
-cover:
-  image: /images/2021/03/innovation-design-cover.jpg
-  alt: How to become an innovation designer
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![How to become an innovation designer](/images/2021/03/innovation-design-cover.jpg)
 
 Innovation design is the most interesting job in the world.
 

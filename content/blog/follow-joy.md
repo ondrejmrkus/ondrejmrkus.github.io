@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-15T15:00:00Z
+date: 2022-01-15
 draft: false
-
 title: Follow joy
 slug: follow-joy
-categories: [Life design]
-tags: [Life design]
+tags: [life-design]
 description: 
-summary: 
-
-cover:
-  image: /images/images/2022/01/1-6.png
-  alt: Follow joy
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Follow joy](/images/2022/01/1-6.png)
 
 _(This is a second article from my [Life Design Series](/life-design-series/). You can find the first article here: [Start where you are](/start-where-you-are/).)_
 

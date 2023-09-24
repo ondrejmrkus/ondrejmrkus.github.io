@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-12-27T22:59:08Z
+date: 2021-12-27
 draft: false
-
 title: Get from idea to paying customers in 4 weeks
 slug: idea-to-customers
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
-description: 
-summary: 
-
-cover:
-  image: /images/2021/12/dsaf.png
-  alt: Get from idea to paying customers in 4 weeks
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [entrepreneurship]
+description:  
 ---
+
+![Get from idea to paying customers in 4 weeks](/images/2021/12/dsaf.png)
 
 This article is a case study of how I launched a course from idea to paying customers in four weeks.
 

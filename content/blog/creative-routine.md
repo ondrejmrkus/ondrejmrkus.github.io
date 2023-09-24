@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-02-22T21:27:00Z
+date: 2022-02-22
 draft: false
-
 title: "Creative routine: How to do your best work as a creator"
 slug: creative-routine
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
-description: 
-summary: 
-
-cover:
-  image: /images/2022/02/1-7.png
-  alt: "Creative routine: How to do your best work as a creator"
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [entrepreneurship]
+description:  
 ---
+
+![Creative routine: How to do your best work as a creator](/images/2022/02/1-7.png)
 
 I'm fascinated by how different people with different personalities get their creative work done.
 

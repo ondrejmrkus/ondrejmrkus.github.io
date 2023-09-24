@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2020-11-24T19:20:34Z
+date: 2020-11-24
 draft: false
-
 title: Build something that doesn't work
 slug: build
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
-description: A counter-intuitive story about how I failed my way into success on accident.
-summary: A counter-intuitive story about how I failed my way into success on accident.
-
-cover:
-  image: /images/2020/11/build-something.png
-  alt: Build something that doesn't work
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [entrepreneurship]
+description: A story about how I failed my way into success with my first business project.
 ---
+
+![Build something that doesn't work](/images/2020/11/build-something.png)
 
 When I was 19, I used all my savings on a strange idea. I started a fashion label of hand-made mittens. Yes, mittens. I know, and I'm not kidding.
 
@@ -35,7 +26,9 @@ That's a good question. But I'm glad I didn't ask it back then. Otherwise, I mig
 
 I knew I would build _something_ before I decided what it's going to be. I was sick of sitting in classes and launching a small business seemed like a fun thing to do.
 
-I didn't know how business actually works, so my criteria for ideas were simple:A) People will buy itB) I can make it with what I know
+I didn't know how business actually works, so my criteria for ideas were simple:
+- A: People will buy it
+- B: I can make it with what I know
 
 Also, around the same time, I came across an e-shop with hand-knitted hats. It looked like they are doing well, so I thought: "Hey, I can do this too."
 

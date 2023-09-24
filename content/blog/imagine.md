@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2020-12-18T15:30:00Z
+date: 2020-12-18
 draft: false
-
 title: Imagine change is possible
 slug: imagine
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [learning]
 description: Make the necessary mind-shift to start creating the life you really want.
-summary: Make the necessary mind-shift to start creating the life you really want.
-
-cover:
-  image: /images/2020/12/imagine-change-is-possible.png
-  alt: Imagine change is possible
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Imagine change is possible](/images/2020/12/imagine-change-is-possible.png)
 
 I was a decent but anxious football player when I was 10. I mostly stayed away from the ball. The ball brought attention and the possibility to make mistakes. I didn't like that.
 

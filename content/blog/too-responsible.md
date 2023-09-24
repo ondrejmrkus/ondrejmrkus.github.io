@@ -1,14 +1,11 @@
 ---
 author: Ondrej Markus
-date: 2021-05-19T08:43:28Z
+date: 2021-05-19
 draft: false
-
-title: Learn to be irresponsible
+title: Be less responsible
 slug: too-responsible
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: This is Josh.
-summary: This is Josh.
 
 cover:
   image: /images/2021/05/1.png
@@ -18,6 +15,8 @@ cover:
   responsiveImages: false
 
 ---
+
+![Learn to be irresponsible](/images/2021/05/1.png)
 
 He is very responsible.
 

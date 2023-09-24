@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-05-21T08:47:08Z
+date: 2021-05-21
 draft: false
-
 title: Make something you want to exist
 slug: make-something
-categories: [Learning]
-tags: [Learning]
-description: Harvest ideas to start learning by doing.
-summary: Harvest ideas to start learning by doing.
-
-cover:
-  image: /images/2021/05/1-2.png
-  alt: Make something you want to exist
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [learning]
+description: How to find ideas and start learning by doing
 ---
+
+![Make something you want to exist](/images/2021/05/1-2.png)
 
 If you want to make something but don't know what, a good place to start is _you_. You know yourself better than anything else. Use that knowledge.
 

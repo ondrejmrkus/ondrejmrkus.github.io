@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-27T15:14:00Z
+date: 2022-01-27
 draft: false
-
 title: Design your lives
 slug: design-your-lives
-categories: [Life design]
-tags: [Life design]
+tags: [life-design]
 description: Create three different versions of the next five years of your life.
-summary: Create three different versions of the next five years of your life.
-
-cover:
-  image: /images/2022/01/1-11.png
-  alt: Design your lives
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Design your lives](/images/2022/01/1-11.png)
 
 Designing your life is about realizing **there is not just one ideal life for you,** but many different meaningful lives you could enjoy.
 

@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-05-20T10:33:59Z
+date: 2021-05-20
 draft: false
-
 title: No meetings before noon
 slug: no-meetings
-categories: [Self-management]
-tags: [Self-management]
+tags: [self-management]
 description: This simple rule is the foundation of my daily productivity.
-summary: This simple rule is the foundation of my daily productivity.
-
-cover:
-  image: /images/2021/05/1-1.png
-  alt: No meetings before noon
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![No meetings before noon](/images/2021/05/1-1.png)
 
 I write and design things, so I need big chunks of time in my day to focus without interruptions. And that's difficult to do without rules.
 

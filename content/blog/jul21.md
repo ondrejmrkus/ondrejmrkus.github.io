@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-08-10T15:02:13Z
+date: 2021-08-10
 draft: false
-
 title: "What the work happened #7"
 slug: jul21
-categories: [Reflections]
-tags: [Reflections]
+tags: [reflections]
 description: Design your work, storytelling resources, and the Twitter game
-summary: Design your work, storytelling resources, and the Twitter game
-
-cover:
-  image: /images/2021/08/wtwh7-cover.png
-  alt: "What the work happened #7"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![What the work happened #7](/images/2021/08/wtwh7-cover.png)
 
 Hey there,
 
@@ -193,7 +184,7 @@ Any ideas? ([Email me](mailto:o@ondrejmarkus.com).)
 
 Now, let's look at the numbers.
 
-{{< figure src="__GHOST_URL__/content/images/2021/08/Screenshot-2021-08-10-at-11.11.55.png" caption="I use Typefully.app" >}}
+{{< figure src="/images/2021/08/Screenshot-2021-08-10-at-11.11.55.png" caption="I use Typefully.app" >}}
 
 Since I started playing the Twitter game about 2 months ago, I went from practically 0 followers to 99 (today).
 

@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-02-15T22:46:41Z
+date: 2022-02-15
 draft: false
-
 title: Work with your garage door open
 slug: open-garage
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [entrepreneurship]
 description: How to overcome the fear of being judged and share your work.
-summary: How to overcome the fear of being judged and share your work.
-
-cover:
-  image: /images/2022/02/1-6.png
-  alt: Work with your garage door open
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Work with your garage door open](/images/2022/02/1-6.png)
 
 When I started writing in 2020, I shared next to nothing for a year because I was afraid my work was not good enough.
 

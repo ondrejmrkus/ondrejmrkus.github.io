@@ -2,22 +2,13 @@
 author: Ondrej Markus
 date: 2021-10-04T10:13:00Z
 draft: false
-
 title: Rational Artist - The ideal way to work
 slug: rational-artist
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [entrepreneurship]
 description: Do what you enjoy while making enough money.
-summary: Do what you enjoy while making enough money.
-
-cover:
-  image: /images/2021/10/rational-artist-cover.png
-  alt: Rational Artist - The ideal way to work
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Rational Artist - The ideal way to work](/images/2021/10/rational-artist-cover.png)
 
 Imagine yourself doing the best work of your life.
 

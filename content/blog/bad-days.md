@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-03T22:45:00Z
+date: 2022-03-03
 draft: false
-
 title: How to turn bad days around
 slug: bad-days
-categories: [Reflections]
-tags: [Reflections]
-description: 
-summary: 
-
-cover:
-  image: /images/2022/03/turn-bad-days-around.jpg
-  alt: How to turn bad days around
-  caption: 
-  relative: false
-  responsiveImages: false
-
+tags: [reflections]
+description:  
 ---
+
+![How to turn bad days around](/images/2022/03/turn-bad-days-around.jpg)
 
 I had a couple of bad days in a row. That didn't happen to me for a while. So I was surprised.
 

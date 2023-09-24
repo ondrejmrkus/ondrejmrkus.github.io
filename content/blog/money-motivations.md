@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-03-15T22:43:00Z
+date: 2022-03-15
 draft: false
-
 title: What's your money motivation?
 slug: money-motivations
-categories: [Entrepreneurship]
-tags: [Entrepreneurship]
+tags: [entrepreneurship]
 description: 
-summary: 
-
-cover:
-  image: /images/2022/03/money-motivations.jpg
-  alt: What's your money motivation?
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![What's your money motivation?](/images/2022/03/money-motivations.jpg)
 
 Since I'm writing this series of articles about money, I spend a lot of time thinking about my motivations behind money. And I've realized I should share with you my personal preferences because context is important.
 

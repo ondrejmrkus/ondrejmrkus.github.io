@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2022-01-20T15:26:00Z
+date: 2022-01-20
 draft: false
-
 title: Find meaning
 slug: find-meaning
-categories: [Life design]
-tags: [Life design]
+tags: [life-design]
 description: How to create meaning and purpose in your life and work?
-summary: How to create meaning and purpose in your life and work?
-
-cover:
-  image: /images/2022/01/mng.png
-  alt: Find meaning
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![Find meaning](/images/2022/01/mng.png)
 
 _(This is the third part of my [Life Design Series](/life-design-series/). Start with [the first part](/start-where-you-are/) if you're new here.)_
 

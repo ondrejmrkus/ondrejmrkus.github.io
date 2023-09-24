@@ -1,27 +1,18 @@
 ---
 author: Ondrej Markus
-date: 2020-08-31T18:00:00Z
+date: 2020-09-23
 draft: false
-
-title: 7 rules for journaling
+title: My 7 rules for journaling
 slug: journaling-rules
-categories: [Learning]
-tags: [Learning]
+tags: [learning]
 description: If I could give everyone a gift, it would be to befriend themselves by writing a journal.
-summary: If I could give everyone a gift, it would be to befriend themselves by writing a journal.
-
-cover:
-  image: /images/2021/11/journalgiving.png
-  alt: 7 rules for journaling
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![7 rules for journaling](/images/2021/11/journalgiving.png)
 
 Journaling is the most useful thing anyone can do. It's five minutes a day that will change your life. Writing down thoughts to reflect on them is to your mind what tooth brushing is to your mouth. It makes things clear.
 
-It develops a superpower–higher self-awareness–the most important skill there is, which helps you better understand **how you feel** and **what you want**. These two are the starting point for any goal or action you do.
+It develops a superpower–higher self-awareness–the most important skill there is, which helps you better understand how you feel and what you want. These two are the starting point for any goal or action you do.
 
 Here are the rules I discovered by trial and error. They help me get the most out of journaling and enjoy the process. My hope is they can lift the obstacles that would otherwise prevent you from journaling.
 

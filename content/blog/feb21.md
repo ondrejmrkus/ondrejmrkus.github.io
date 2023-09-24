@@ -1,23 +1,14 @@
 ---
 author: Ondrej Markus
-date: 2021-03-05T19:20:00Z
+date: 2021-03-05
 draft: false
-
 title: "What the work happened #2"
 slug: feb21
-categories: [Reflections]
-tags: [Reflections]
+tags: [reflections]
 description: A very personal reflection on my work in February 2021.
-summary: A very personal reflection on my work in February 2021.
-
-cover:
-  image: /images/2021/03/wtwh2-cover.jpg
-  alt: "What the work happened #2"
-  caption: 
-  relative: false
-  responsiveImages: false
-
 ---
+
+![What the work happened #2](/images/2021/03/wtwh2-cover.jpg)
 
 Hey there. 👋
 
@@ -214,8 +205,6 @@ I've sketched out a prototype website to think out loud in public.
 I tried to express the idea in just a few words and no time. It's highly experimental and unfinished, but I put it online to get ideas and feedback. (Almost even before I know what it's going to be.)
 
 [Have a peek at the website](https://metasprint.webflow.io/), and let me know: **What do you think?**
-
-_‌‌(The prototype is in Czech because the beta run would almost certainly be all Czech-speaking people. I'll put the English version link here once it exists.)_
 
 ---
 

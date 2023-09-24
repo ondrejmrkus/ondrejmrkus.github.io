@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Self-management on Ondrej Markus</title>
+    <title>self-management on Ondrej Markus</title>
     <link>https://ondrejmarkus.com/tags/self-management/</link>
-    <description>Recent content in Self-management on Ondrej Markus</description>
+    <description>Recent content in self-management on Ondrej Markus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2022 20:32:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/self-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/self-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prime your mind for better decisions</title>
       <link>https://ondrejmarkus.com/prime/</link>
-      <pubDate>Thu, 31 Mar 2022 20:32:00 +0000</pubDate>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/prime/</guid>
-      <description>How to be your best self when making life-changing decisions.</description>
+      <description>When you are about to make a big decision, it deserves your highest state of mind.
+High energy, not exhausted Calm, not anxious Focused, not distracted I have been priming my state of mind for the last two weeks because I&amp;rsquo;m considering a big change in my life.
+So, today, I will show you how I prime my state of mind before making life-changing decisions.
+Switching modes: Strategic vs. Tactical Before I show you how I prepare for high-level planning, I need to explain the difference between the two perspectives I switch between in life: Strategic and Tactical.</description>
+    </item>
+    
+    <item>
+      <title>Why you should go broke</title>
+      <link>https://ondrejmarkus.com/go-broke/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ondrejmarkus.com/go-broke/</guid>
+      <description>About four years ago, I went broke for like a week, and it was the best thing that could happen to me. It taught me a valuable lesson about money.
+I will tell you that story today.
+It&amp;rsquo;s 2018, and I&amp;rsquo;ve just left a business I co-founded with three friends. We were relatively successful financially, but after two years of working hard on it, I felt empty of meaning and needed to make a change.</description>
     </item>
     
     <item>
       <title>Daily Design: Template for winning your day</title>
       <link>https://ondrejmarkus.com/dd/</link>
-      <pubDate>Thu, 10 Feb 2022 22:04:29 +0000</pubDate>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/dd/</guid>
       <description>The Daily Design is a mindful way to plan your day in five minutes.
@@ -31,7 +45,7 @@ Its purpose is to help you make significant progress on your most important work
     <item>
       <title>Do the most important work first</title>
       <link>https://ondrejmarkus.com/miw/</link>
-      <pubDate>Mon, 10 Jan 2022 20:45:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/miw/</guid>
       <description>Every morning after I make coffee and write my Morning Pages, I work until noon on the most important project of the day.
@@ -43,28 +57,23 @@ I got distracted by easier or louder tasks.</description>
     <item>
       <title>No meetings before noon</title>
       <link>https://ondrejmarkus.com/no-meetings/</link>
-      <pubDate>Thu, 20 May 2021 10:33:59 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/no-meetings/</guid>
-      <description>This simple rule is the foundation of my daily productivity.</description>
-    </item>
-    
-    <item>
-      <title>Morning Pages: 100 words for a clear mind</title>
-      <link>https://ondrejmarkus.com/mp/</link>
-      <pubDate>Sun, 18 Apr 2021 09:54:00 +0000</pubDate>
-      
-      <guid>https://ondrejmarkus.com/mp/</guid>
-      <description>Easily the most essential thing I do every day to stay sane and productive.</description>
+      <description>I write and design things, so I need big chunks of time in my day to focus without interruptions. And that&amp;rsquo;s difficult to do without rules.
+I&amp;rsquo;m not a hustler who can work for 12 hours a day (if they actually exist). On a good day, I can pull off 5-6 hours of good deep work when I really feel the flow. On a bad day, I&amp;rsquo;m lucky to squeeze in 2-3 hours.</description>
     </item>
     
     <item>
       <title>Find a productivity system that works for you</title>
       <link>https://ondrejmarkus.com/system-that-works/</link>
-      <pubDate>Sun, 11 Apr 2021 19:47:25 +0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ondrejmarkus.com/system-that-works/</guid>
-      <description>Figuring this out unstuck me from chasing the perfect method and focus on what really matters – getting things done.</description>
+      <description>A viable productivity system
+Everyone has a system Even if you consider yourself chaotic and you don&amp;rsquo;t like having a formal system, you do things in patterns.
+For example, you might not have a specific time of day to get your writing done, and you write only when you feel like it. That&amp;rsquo;s a rule. And if it works for you, it&amp;rsquo;s a good one.
+So this article isn&amp;rsquo;t just for system geeks who reorganize their to-do lists for fun.</description>
     </item>
     
   </channel>
