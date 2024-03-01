@@ -6,7 +6,7 @@ theme: pickleronin
 menu:
   main:
   - identifier: blog
-    name: Articles
+    name: Writing
     url: /blog
     weight: 10
 
