@@ -1,13 +1,18 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title }}</h1>
+    <div class="container-single">
 
-{{ .Description }}
+        {{ partial "nav.html" . }}
 
-<time class="article-date"> {{ .Date.Format "January 2, 2006" }} </time>
+        <div class="single">
+            <h1>{{ .Title }}</h1>
 
-<hr>
+            <div class="description">{{ .Description }}</div>
 
-{{ .Content }}
+            <time class="article-date"> {{ .Date.Format "January 2, 2006" }} </time>
 
-{{ partial "footer.html" . }}
+            {{ .Content }}
+
+            {{ partial "newsletter.html" . }}
+        </div>
+    </div>

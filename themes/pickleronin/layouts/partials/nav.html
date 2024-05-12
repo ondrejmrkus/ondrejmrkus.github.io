@@ -1,15 +1,13 @@
-<header class="site-header">
-  <nav class="site-nav">
-    <a class="logo" href="{{ .Site.BaseURL }}">
-      {{ .Site.Title }}        
-    </a>
-    <!-- <button id="dark-mode-toggle">D</button> -->
-    <ul class="main-menu">
-      {{ range.Site.Menus.main }}
-      <li>
-        <a href="{{ .URL }}">{{ .Name }}</a>
-      </li>
-      {{ end }}
-    </ul>
-  </nav>
-</header>
+
+        <div class="column" id="column1">
+			<div class="headline-container">
+				<a href="{{ .Site.BaseURL }}"><h1 class="name">{{ .Site.Title }}</h1></a>
+				<p>Entrepreneur in ed-tech, building the future of education as a founder and CEO at <a href="https://www.playful.cz/">Playful</a>.</p>
+				<p>I write about the future of education, designing learning games, and running a startup.</p>
+				<p>I'm a <a href="/fsf/">generalist</a>, <a href="/16/">introvert</a>, <a href="/#/">gamer</a>, and optimizing to be <a href="/max-useful/">useful</a>. </p>
+				<img src="/images/stickman.png" alt="stickman sitting at a desk">
+			</div>
+		
+			{{ partial "newsletter.html" . }}
+
+		</div>

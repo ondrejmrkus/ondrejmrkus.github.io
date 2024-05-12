@@ -1,156 +1,390 @@
-
+/* General styles */
 :root {
-  --bg-color-light: #ffffff;
-  --bg-color-dark: #191A23;
-  --text-color-light: #333333;
-  --text-color-dark: #D2D3E0;
-  --text-color-link: #5661ff;
+  --background: #ffffff;
+  --darker-background: #f1f1f1;
+  --headlines: #3b14c7;
+  --main-text: #171717;
+  --secondary-text: #858585;
+  --hover: #f6f3ff;
+  --border: #f6f3ff;
 }
 
-/* LAYOUT */
-
 body {
-  color: var(--text-color-dark);
-  background-color: var(--bg-color-dark);
-  transition: background-color 0.3s, color 0.3s;
-  font-size: 15px;
+  overflow-y: hidden;
+  margin: 0;
+  padding: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  line-height: 1.6em;
-  max-width: 45rem;
-  padding: 5px;
-  margin: 0 auto;
+  color: var(--main-text);
+  background-color: var(--background);
+  line-height: 1.9rem;
+  font-size: 1rem;
   font-weight: 300;
 }
 
-h1, h2 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  line-height: 1.2em;
+.container-index {
+  display: flex;
+  flex-wrap: nowrap; /* Prevents wrapping of the columns */
+  width: 100%;
+  height: 100vh; /* Make the container as tall as the viewport */
+  overflow-x: scroll; /* Enable horizontal scrolling for the entire container */
+  overflow-y: hidden;
 }
 
-h3 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  line-height: 1em;
+.container-single {
+  display: flex;
+  flex-wrap: nowrap; /* Prevents wrapping of the columns */
+  width: 100%;
+  height: 100vh; /* Make the container as tall as the viewport */
+  overflow-y: scroll;
 }
 
-hr {
-  border-color: #2C2D3C;
+.column {
+  width: 450px; /* Fixed column width */
+  flex: none;
+  height: 100vh; /* Make columns as tall as the viewport */
+  overflow-y: scroll; /* Allow vertical scrolling inside each column */
+  padding: 0; /* Remove extra space */
+  box-sizing: border-box;
+  border-right: 1px solid var(--border);
 }
 
-img {
-  max-width: 45rem;
+.single {
+  max-width: 42rem;
+  padding-left: 40px;
+}   
+
+.headline-container {
+  display: block;
+  padding: 40px; /* Increase padding for emphasis */
+  box-sizing: border-box; /* Account for padding within the width */
+  border-bottom: 1px solid var(--border);
 }
 
-/* .dark-mode {
-  background-color: var(--bg-color-dark);
-  color: var(--text-color-dark);
-} */
+.headline-icon {
+  width: 100%; /* Adjust width */
+  height: 100%; /* Adjust height */
+}
 
-.content {
-  margin-bottom: 2rem;
+h1, h2, h3, h4 {
+  color: var(--headlines);
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3rem; /* Make the top headline slightly larger */
+  line-height: 4rem;
 }
 
 a {
   text-decoration: none;
-  color: var(--text-color-link);
+  color: var(--headlines);
 }
 
-a:hover {
-  text-decoration: underline;
+.name {
+  font-size: 1.6rem;
+  margin: 0;
 }
 
-blockquote {  
+img {
+  max-width: 100%;
+}
+
+.description {
+  font-size: 1.1rem; /* Smaller font size for the description */
+  color: var(--secondary-text); /* Lighter color for emphasis */
+  margin-top: 0px;
+  margin-bottom: 0; /* No additional bottom spacing needed */
+}
+
+.bio {
+  padding: 40px;
+  margin: 15px 0;
+  box-sizing: border-box;
+}
+
+.bio p {
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 2rem;
+  margin: 0;
+}
+
+.rectangle, .small-rectangle {
+  display: block; /* Treat the entire block as a link */
+  text-decoration: none; /* Remove underline on link text */
+  color: inherit; /* Inherit text color from parent */
+  background-color: var(--background);
+  width: 100%; /* Expand the rectangle across the whole column */
+  padding: 40px;
+  margin: 0; /* Remove margins to cover the full width */
+  box-sizing: border-box;
+  border-bottom: 1px solid var(--border);
+}
+
+.small-rectangle {
+  padding-left: 40px;
+  padding-top: 5px;
+  padding-right: 40px;
+  padding-bottom: 15px;
+}
+
+.rectangle h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.6rem;
+}
+
+.rectangle p {
+  font-size: 1rem;
+  line-height: 1.8rem;
+  font-weight: 200;
+  color: var(--secondary-text);
+}
+
+.small-rectangle h4 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.small-rectangle p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1rem;
+  color: var(--secondary-text);
+  font-weight: 200;
+}
+
+.post-snippet {
+  margin-bottom: 0.5rem;
+}
+
+.post-snippet time {
+  font-size: 0.7rem;
+  color: var(--secondary-text);
+}
+
+/* Hover Effects */
+.rectangle:hover, .small-rectangle:hover {
+  background-color: var(--hover);
+}
+
+.subscription-form {
+  padding: 40px;
+  margin: 15px 0;
+  box-sizing: border-box;
+}
+
+.subscription-form .cta {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: var(--text);
+  line-height: 1.5rem;
+}
+
+.subscription-form input[type="email"] {
+  width: calc(100% - 140px); /* Adjust input field width considering the button's size */
   padding: 10px;
-  margin: 10px 0;
-  border-left: 2px solid #191a25;
-  background-color: #2C2D3C;
-  font-style: italic;
+  border: none;
+  outline: none;
+  background-color: var(--darker-background);
+  color: var(--text);
+  font-size: 1rem;
+  box-sizing: border-box;
 }
+
+.subscription-form .button {
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background-color: var(--headlines);
+  color: var(--text);
+  font-size: 1rem;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.subscription-form .button:hover {
+  background-color: var(--secondary-text); /* Slightly lighter shade on hover */
+}
+
+::placeholder {
+  color: var(--secondary-text);
+  opacity: 1; /* Firefox */
+}
+
+::-ms-input-placeholder { /* Edge 12 -18 */
+  color: var(--secondary-text);
+}
+
+/* ARTICLES*/
 
 .article-date {
-  color: #3e4055;
-  font-size: 14px;
+  color: var(--secondary-text);
+  font-size: 1rem;
   display: block;
 }
 
-
-/* NAVIGATION */
-
-.site-nav {
-  display: flex;
-  background-color: #191A23;
-  border-radius: 5px;
+.single img {
+  max-width: 42rem;
 }
 
-.site-nav a {
-  display: block;
-  padding-top: 1.2rem;
-  padding-right: 1.2rem;
-  padding-bottom: 1.2rem;
-  padding-left: 0rem;
+.single h1 {
+  font-size: 2.4rem;
+  line-height: 3rem;
+  margin-top: 2rem;
 }
 
-.site-nav .logo {
-  font-weight: bold;
+.single h2 {
+  font-size: 1.8rem;
+}
+
+.single h2 {
+  font-size: 1.6rem;
+}
+
+/* blockquote styling */
+blockquote {
+  font-family: 'Georgia', 'Times New Roman', serif; /* Choose a serif font */
+  font-size: 1.25em; /* Make the text slightly larger */
+  color: #555; /* Dark gray text color */
+  border-left: 4px solid var(--headlines); /* Left border to distinguish it visually */
+  background-color: #f9f9f9; /* Light background for contrast */
+  margin: 20px 0; /* Margins to provide spacing */
+  padding: 10px 20px; /* Padding for better readability */
+  quotes: "“" "”" "‘" "’"; /* Custom quote symbols */
+}
+
+/* 
+
+blockquote:before {
+  content: open-quote;
+  font-size: 2em;
+  color: var(--headlines);
+  position: relative;
+  top: 10px;
+  left: -5px;
+}
+
+blockquote:after {
+  content: close-quote;
+  font-size: 2em;
+  color: var(--headlines);
+  position: relative;
+  top: 10px;
+  right: -5px;
+}
+
+*/
+
+
+blockquote p {
+  display: inline;
+}
+
+.single .subscription-form {
   padding-left: 0;
-  text-decoration: none;
-  color: var(--text-color-dark);
+  max-width: 30rem;
 }
 
-.main-menu {
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.main-menu a {
-  font-size: 15px;
-  color: var(--text-color-dark);
+.single a {
+  color: var(--headlines);
   text-decoration: none;
 }
 
-.main-menu a:hover {
+.single a:hover {
   text-decoration: underline;
 }
 
+/* Styling the figcaption */
 figure {
-  margin: 0 auto;
+  margin: 20px 0; /* Adds space above and below the figure */
+  text-align: center; /* Center-aligns both image and caption */
 }
 
-figcaption p {
-  text-align: center;
-  color: #65698c;
-  font-size: 14px;
-  margin-top: 0px;
-}
-
-time{
-  color: #3e4055;
-  font-size: 10px;
+figcaption {
+  font-size: 0.9em; /* Slightly smaller text size than the default */
+  color: #555; /* Dark gray color for the caption */
+  margin-top: 10px; /* Adds space between the image and the caption */
+  font-style: italic; /* Italicizes the caption */
 }
 
 
-@media screen and (max-width: 48rem) {
-  .site-nav,
-  .main-menu {
-    /* flex-direction: column;*/
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+  body {
+      overflow-y: scroll;
   }
 
-  .site-nav a {
-    /* padding: 0.5rem;*/ 
-    padding-left: 0;    
+  .container-index {
+      flex-wrap: wrap; /* Allow the columns to wrap into a single column layout */
+      flex-direction: column; /* Align columns vertically */
+      height: auto; /* Adjust the height to fit content */
+      overflow-y: visible; /* Make sure all content is visible */
+  }
+
+  .container-single #column1 {
+      display: none;
+  }
+
+  .single {
+      max-width: 100%;
+      padding: 20px;
+  }
+
+  .single .subscription-form {
+    padding-left: 0;
+    max-width: 100%;
   }
 
   img {
     max-width: 100%;
   }
 
-}
+  .column {
+      width: 100%; /* Make columns take the full width of the container */
+      height: auto; /* Adjust height to fit content */
+  }
 
-/* LISTS */
+  /* Adjust padding for a more compact look on mobile */
+  .headline-container,
+  .bio,
+  .subscription-form,
+  .rectangle,
+  .small-rectangle {
+      padding: 20px;
+  }
 
-.post-snippet {
-  margin-bottom: 1rem;
+  h1 {
+      font-size: 2rem;
+      line-height: 3rem;
+  }
+
+  .name {
+      font-size: 1.4rem;
+  }
+
+  .description {
+      font-size: 1rem;
+  }
+
+  figcaption {
+    font-size: 0.8em; /* Smaller text size on small screens */
+  }
+
+  .rectangle p {
+    margin-bottom: 0;
+  }
+
+  .small-rectangle {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .small-rectangle p {
+    display: none;
+  }
+
 }

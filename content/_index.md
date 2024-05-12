@@ -2,12 +2,10 @@
 title: "Home"
 ---
 
-![Ondrej Markus](/images/stickman.png)
-
-Building the future of education with games and technology. Co-founder & CEO at [Playful](/playful/).\
+Ed-tech entrepreneur. Building the future of education. Founder & CEO at [Playful](/playful/). \
 [Generalist](/fsf/), [self-starter](/build/), [introvert](/16/), optimizing to be [useful](/max-useful/).
 
-### Best Articles
+### Projects
 
 [How to be as useful as you can](/max-useful/)\
 [Fund yourself](/fund-yourself/)\
@@ -15,8 +13,7 @@ Building the future of education with games and technology. Co-founder & CEO at 
 [Prime your mind for better decisions](/prime/)\
 [Become an expert on yourself](/expert/)
 
-### Connect
+### Reach out
 
 [Twitter](https://twitter.com/ondrej_markus)\
-[Youtube](https://www.youtube.com/@ondrej_markus)\
 [Email](mailto:o@ondrejmarkus.com)
