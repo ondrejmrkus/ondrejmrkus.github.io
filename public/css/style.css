@@ -343,6 +343,10 @@ figcaption {
     max-width: 100%;
   }
 
+  .single img {
+    max-width: 100%;
+  }
+
   .column {
       width: 100%; /* Make columns take the full width of the container */
       height: auto; /* Adjust height to fit content */
