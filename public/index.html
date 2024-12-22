@@ -15,7 +15,10 @@
 	
 
 	<link rel="alternate" type="application/rss+xml" href="https://ondrejmarkus.com/index.xml" title="Ondrej Markus" />
-	</head>
+	
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+</head>
 
 <body>
 
@@ -496,3 +499,15 @@
         
     </div>
 </div>
+
+<script>
+     if (window.netlifyIdentity) {
+       window.netlifyIdentity.on("init", (user) => {
+         if (!user) {
+           window.netlifyIdentity.on("login", () => {
+             document.location.href = "/admin/";
+           });
+         }
+       });
+     }
+   </script>

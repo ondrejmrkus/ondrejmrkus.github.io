@@ -7,3 +7,4 @@ menu:
 
 permalinks:
   blog: /:slug/
+  notes: /notes/:slug/
