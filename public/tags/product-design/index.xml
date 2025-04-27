@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>product-design on Ondrej Mrkus</title>
-    <link>https://ondrejmarkus.com/tags/product-design/</link>
+    <link>https://ondra.blog/tags/product-design/</link>
     <description>Recent content in product-design on Ondrej Mrkus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/tags/product-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ondra.blog/tags/product-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test your idea in 280 characters</title>
-      <link>https://ondrejmarkus.com/tweet-prototype/</link>
+      <link>https://ondra.blog/tweet-prototype/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ondrejmarkus.com/tweet-prototype/</guid>
+      <guid>https://ondra.blog/tweet-prototype/</guid>
       <description>When I was building my first business 10 years ago, I thought I had a solid product idea. But I was afraid someone might steal it from me, so I worked in isolation for 6 months until I launched it. At that point, I was out of money, and I had to succeed at once to survive.
 However, people didn&amp;rsquo;t want my product. Something was wrong but I couldn&amp;rsquo;t tell what it is.</description>
     </item>
