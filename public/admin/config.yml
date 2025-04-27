@@ -11,6 +11,9 @@ collections:
     label: "Articles" # Used in the UI
     folder: "content/blog" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
+    filter:
+      field: language
+      value: en
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
     create: true # Allow users to create new documents in this collection
@@ -22,15 +25,12 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" }} # https://github.com/decaporg/decap-cms/issues/4646 
       - { label: "Body", name: "body", widget: "markdown", hint: "Make sure to name added image as thumbnail" }
 
-  - name: "page" # Used in routes, e.g., /admin/collections/page
+  - name: "pages" # Used in routes, e.g., /admin/collections/pages
     label: "Pages" # Used in the UI
-    folder: "content" # The path to the folder where the documents are stored
-    path: "{{slug}}/index"
-    media_folder: "" # Save images in the post's own folder instead of the static folder
-    public_folder: ""
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
-      - { label: "Featured Image", name: "image", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown", hint: "Make sure to name added image as thumbnail" }
+    files:
+      - file: "content/about.md"
+        label: "About"
+        name: "about"    
+        fields: # The fields for each document, usually in front matter
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown", hint: "Make sure to name added image as thumbnail" }

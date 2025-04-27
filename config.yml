@@ -1,10 +1,29 @@
 baseURL: https://ondrejmarkus.com/
 languageCode: en-us
-title: Ondrej Markus
+title: Ondrej Mrkus
 theme: pickleronin
 
 menu:
 
 permalinks:
-  blog: /:slug/
-  notes: /notes/:slug/
+  projects: /:slug/
+  articles: /:slug/
+  reflections: /:slug/
+
+params:
+  sections:
+    - id: "column1"
+      title: "Projects"
+      icon: "/images/projects.jpeg"
+      description: "Education + Games + Tech"
+      folder: "projects"
+    - id: "column2"
+      title: "Articles"
+      icon: "/images/rage.jpeg"
+      description: "Notes on what I'm learning"
+      folder: "articles"
+    - id: "column3"
+      title: "Reflections"
+      icon: "/images/reflections.jpeg"
+      description: "My very personal reflections on life"
+      folder: "reflections"

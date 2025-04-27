@@ -2,7 +2,7 @@
 author: Ondrej Markus
 date: 2021-04-25
 draft: false
-title: "Speed drafting: How to write an article in 25 minutes"
+title: "How to write an article in 25 minutes"
 slug: speed-drafting
 tags: [writing]
 description: No backspace. Ignore grammar. Write faster.

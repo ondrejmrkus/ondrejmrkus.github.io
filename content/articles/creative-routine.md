@@ -2,7 +2,7 @@
 author: Ondrej Markus
 date: 2022-02-22
 draft: false
-title: "Creative routine: How to do your best work as a creator"
+title: "Creative routines for productive creators"
 slug: creative-routine
 tags: [entrepreneurship]
 description:  

@@ -4,25 +4,40 @@
 
     {{ partial "nav.html" . }} 
 
-        <!--<div class="column" id="column2">
-            <div class="headline-container">
+     {{ range .Site.Params.sections }}
+     <div class="column" id="{{ .id }}">
+        <div class="headline-container">
+            <h1>{{ .title }}</h1>
+            <img src="{{ .icon }}" alt="{{ .title }} icon" class="headline-icon">
+            <p class="description">{{ .description }}</p>
+        </div>
 
-                <h1>Ed-Tech</h1>
-                <p class="description">How to build a better future of education where playing and learning are the same process?</p>
-                <img src="/images/rage.jpeg" alt="ed-tech icon" class="headline-icon">
-            </div>
-
-            <a href="/building-games/" class="small-rectangle">
-                <h4>Building games to train problem-solvers</h4>
-                <p>How to use games to teach kids 21st century skills</p>
+        {{ $section := .folder }}
+        {{ $pages := where $.Site.RegularPages "Section" $section }}
+        
+        <!-- Display featured articles first -->
+        {{ range where $pages "Params.featured" true }}
+            <a href="{{ .RelPermalink }}" class="rectangle">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Description }}</p>
             </a>
+        {{ end }}
+        
+        <!-- Display non-featured articles -->
+        {{ range where $pages "Params.featured" "!=" true }}
+            <a href="{{ .RelPermalink }}" class="small-rectangle">
+                <h4>{{ .Title }}</h4>
+                <!-- <p>{{ .Description }}</p> -->
+            </a>
+        {{ end }}
 
-        </div>-->
+     </div>
+     {{ end }}
 
-        <div class="column" id="column4">
+        <!--<div class="column" id="column4">
             
             <div class="headline-container">
-                <h1>Startups</h1>
+                <h1>Creating</h1>
                 <img src="/images/startups.jpeg" alt="startups icon" class="headline-icon">
                 <p class="description">My notes on building useful things people want</p>
             </div>
@@ -452,17 +467,5 @@
 
         </div>
         
-    </div>
+    </div>-->
 </div>
-
-<script>
-     if (window.netlifyIdentity) {
-       window.netlifyIdentity.on("init", (user) => {
-         if (!user) {
-           window.netlifyIdentity.on("login", () => {
-             document.location.href = "/admin/";
-           });
-         }
-       });
-     }
-   </script>

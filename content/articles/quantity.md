@@ -2,7 +2,7 @@
 author: Ondrej Markus
 date: 2020-10-19
 draft: false
-title: Try this counter-intuitive approach to creative work
+title: Counter-intuitive approach to creative work
 slug: quantity
 tags: [learning]
 description:

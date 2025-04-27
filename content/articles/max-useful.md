@@ -5,7 +5,8 @@ draft: false
 title: How to be as useful as you can
 slug: max-useful
 tags: [learning]
-description: Make a positive impact without losing your mind.
+description: Make a positive impact without losing your mind
+featured: false
 ---
 
 ![How to be as useful as you can](/images/2021/10/useful-cover.png)

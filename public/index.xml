@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Ondrej Markus</title>
+    <title>Home on Ondrej Mrkus</title>
     <link>https://ondrejmarkus.com/</link>
-    <description>Recent content in Home on Ondrej Markus</description>
+    <description>Recent content in Home on Ondrej Mrkus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ondrejmarkus.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SuperCreators.school</title>
+      <link>https://ondrejmarkus.com/supercreators/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ondrejmarkus.com/supercreators/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2023: Playful beginnings</title>
       <link>https://ondrejmarkus.com/2023/</link>
@@ -233,7 +242,7 @@ Because of that, I often get demotivated to share my work anywhere because my br
     </item>
     
     <item>
-      <title>Creative routine: How to do your best work as a creator</title>
+      <title>Creative routines for productive creators</title>
       <link>https://ondrejmarkus.com/creative-routine/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -658,7 +667,7 @@ But they took too long to finish, 3 to 5 days of writing and drawing. Plus I had
     </item>
     
     <item>
-      <title>The Full-Stack Freelancer – A new approach to work</title>
+      <title>Full-Stack Freelancer: New approach to work</title>
       <link>https://ondrejmarkus.com/fsf/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -757,7 +766,7 @@ At the beginning of every week, Josh makes a plan.</description>
     </item>
     
     <item>
-      <title>Self-determination triangle: Framework for a good life</title>
+      <title>Self-determination triangle: Good life framework</title>
       <link>https://ondrejmarkus.com/sdt-triangle/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
@@ -800,7 +809,7 @@ However, people didn&amp;rsquo;t want my product. Something was wrong but I coul
     </item>
     
     <item>
-      <title>Speed drafting: How to write an article in 25 minutes</title>
+      <title>How to write an article in 25 minutes</title>
       <link>https://ondrejmarkus.com/speed-drafting/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -959,7 +968,7 @@ This unusual thing impressed one coach so much he studied dozens of videotapes t
     </item>
     
     <item>
-      <title>Try this counter-intuitive approach to creative work</title>
+      <title>Counter-intuitive approach to creative work</title>
       <link>https://ondrejmarkus.com/quantity/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -1016,6 +1025,15 @@ I run a bulldozer through what seemed like a simple idea. Suddenly, it&amp;rsquo
       <guid>https://ondrejmarkus.com/meaningful-work/</guid>
       <description>This guide will help you find a project, a job, or a career that fits your needs. But it&amp;rsquo;s not just about landing a better job. It&amp;rsquo;s about finding what is meaningful to you and then making a living around it.
 There are 10 exercises divided into 4 days that will take you from understanding what you want to a new work-life design you can put into action immediately.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ondrejmarkus.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ondrejmarkus.com/about/</guid>
+      <description></description>
     </item>
     
   </channel>

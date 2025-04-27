@@ -2,7 +2,7 @@
 author: Ondrej Markus
 date: 2021-09-06
 draft: false
-title: "The Full-Stack Freelancer – A new approach to work"
+title: "Full-Stack Freelancer: New approach to work"
 slug: "fsf"
 tags: ["entrepreneurship"]
 description: "Finding the optimal way of working for generalists."

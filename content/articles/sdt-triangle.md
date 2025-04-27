@@ -2,7 +2,7 @@
 author: Ondrej Markus
 date: 2021-05-18
 draft: false
-title: "Self-determination triangle: Framework for a good life"
+title: "Self-determination triangle: Good life framework"
 slug: sdt-triangle
 tags: [learning]
 description: What do you need to have a good life?

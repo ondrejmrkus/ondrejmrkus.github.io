@@ -5,7 +5,8 @@ draft: false
 title: 4 ways to do a year reflection
 slug: 4-year-reflection
 tags: [learning]
-description:  
+description: Choose the one that works best for you
+featured: false  
 ---
 
 ![4 ways to do a year reflection](/images/2021/12/1-4.png)
