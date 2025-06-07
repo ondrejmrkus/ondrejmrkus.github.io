@@ -13,11 +13,11 @@ body {
   overflow-y: hidden;
   margin: 0;
   padding: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: Avenir, 'Avenir Next', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: var(--main-text);
   background-color: var(--background);
   line-height: 1.9rem;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 300;
 }
 
@@ -39,13 +39,14 @@ body {
 }
 
 .column {
-  width: 450px; /* Fixed column width */
+  width: 500px; /* Fixed column width */
   flex: none;
   height: 100vh; /* Make columns as tall as the viewport */
   overflow-y: scroll; /* Allow vertical scrolling inside each column */
   padding: 0; /* Remove extra space */
   box-sizing: border-box;
   border-right: 1px solid var(--border);
+  /*margin: 0 auto;*/
 }
 
 .single {
@@ -140,7 +141,7 @@ img {
 }
 
 .rectangle p {
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.4rem;
   font-weight: 300;
   color: var(--secondary-text);
@@ -148,7 +149,7 @@ img {
 
 .small-rectangle h4 {
   margin: 0;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 400;
 }
 
@@ -196,6 +197,7 @@ img {
   color: var(--text);
   font-size: 1rem;
   box-sizing: border-box;
+  font-family: Avenir, system-ui, Arial;
 }
 
 .subscription-form .button {
@@ -208,6 +210,7 @@ img {
   font-size: 1rem;
   cursor: pointer;
   color: #ffffff;
+  font-family: Avenir, system-ui, Arial;
 }
 
 .subscription-form .button:hover {
@@ -237,9 +240,9 @@ img {
 }
 
 .single h1 {
-  font-size: 2.4rem;
-  line-height: 3rem;
-  margin-top: 2rem;
+  font-size: 3rem;
+  line-height: 3.8rem;
+  margin-top: 3rem;
 }
 
 .single h2 {
@@ -252,7 +255,7 @@ img {
 
 /* blockquote styling */
 blockquote {
-  font-family: system-ui, 'Georgia', 'Times New Roman', serif; /* Choose a serif font */
+  font-family: Avenir, system-ui, 'Georgia', 'Times New Roman', serif; /* Choose a serif font */
   font-size: 1.25em; /* Make the text slightly larger */
   color: #555; /* Dark gray text color */
   border-left: 4px solid var(--headlines); /* Left border to distinguish it visually */

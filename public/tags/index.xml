@@ -4,89 +4,72 @@
     <title>Tags on Ondrej Mrkus</title>
     <link>https://ondra.blog/tags/</link>
     <description>Recent content in Tags on Ondrej Mrkus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ondra.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ondra.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>reflections</title>
+      <title>Reflections</title>
       <link>https://ondra.blog/tags/reflections/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/reflections/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>games</title>
+      <title>Games</title>
       <link>https://ondra.blog/tags/games/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/games/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>self-management</title>
+      <title>Self-Management</title>
       <link>https://ondra.blog/tags/self-management/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/self-management/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>learning</title>
+      <title>Learning</title>
       <link>https://ondra.blog/tags/learning/</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/learning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>entrepreneurship</title>
+      <title>Entrepreneurship</title>
       <link>https://ondra.blog/tags/entrepreneurship/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/entrepreneurship/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>writing</title>
+      <title>Writing</title>
       <link>https://ondra.blog/tags/writing/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/writing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>life-design</title>
+      <title>Life-Design</title>
       <link>https://ondra.blog/tags/life-design/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/life-design/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>product-design</title>
+      <title>Product-Design</title>
       <link>https://ondra.blog/tags/product-design/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/product-design/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guide</title>
+      <title>Guide</title>
       <link>https://ondra.blog/tags/guide/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://ondra.blog/tags/guide/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
