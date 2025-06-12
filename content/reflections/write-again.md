@@ -3,12 +3,12 @@ author: Ondrej Mrkus
 date: 2025-06-12
 draft: false
 title: Go back to writing
-slug: write
+slug: write-again
 tags: [reflections]
 description: The reason why I should never stop writing again
 ---
 
-![Go back to writing](/images/2025/06/__________)
+![Go back to writing](/images/2025/06/spiral-out.jpg)
 
 It’s been 529 days since I published anything here.
 
@@ -24,7 +24,7 @@ At first, I stopped writing publicly because I didn’t have time to edit. Then 
 
 Looking back, that’s a huge red flag.
 
-![RED FLAG!](/images/2025/06/__________)
+![RED FLAG!](/images/2025/06/red-flag.jpg)
 
 I was avoiding something. And I made mistakes because of it.
 
@@ -45,8 +45,6 @@ As you stop writing:
 - You will lose your way.
 
 And you will not notice your descent because it is gradual.
-
-![Gradual descent](/images/2025/06/__________)
 
 Whenever I stop writing again, I will question it: **Am I trying to hide something from myself?**
 
