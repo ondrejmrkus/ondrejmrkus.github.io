@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Ondrej Mrkus</title>
+    <title>Articles on Ondra</title>
     <link>https://ondra.blog/articles/</link>
-    <description>Recent content in Articles on Ondrej Mrkus</description>
+    <description>Recent content in Articles on Ondra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ondra.blog/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go back to writing</title>
+      <link>https://ondra.blog/write/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ondra.blog/write/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ondra.blog/images/2025/06/__________&#34; alt=&#34;Go back to writing&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s been 529 days since I published anything here.&lt;/p&gt;&#xA;&lt;p&gt;I didn’t write much since then.&lt;/p&gt;&#xA;&lt;p&gt;Why?&lt;/p&gt;&#xA;&lt;p&gt;I told myself it’s because I didn’t have enough time. But I think that was a lie.&lt;/p&gt;&#xA;&lt;p&gt;I suspect I stopped writing because, at some point, I became afraid to reflect deeply on my life.&lt;/p&gt;&#xA;&lt;p&gt;At first, I stopped writing publicly because I didn’t have time to edit. Then I stopped writing privately because I didn’t have time to think.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building games to train problem-solvers</title>
       <link>https://ondra.blog/building-games/</link>
@@ -385,13 +392,6 @@
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://ondra.blog/disagree/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ondra.blog/images/2020/10/noidea.png&#34; alt=&#34;I disagree with everything I say&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In writing, I question my ideas to test their substance. It forces me to explore different perspectives. And I always find a way to disagree with myself and get stuck in the middle of two or more opposing views.&lt;/p&gt;&#xA;&lt;p&gt;I run a bulldozer through what seemed like a simple idea. Suddenly, it&amp;rsquo;s eleven ideas muddied together in a big bowl of mess. Then the real work begins. I shovel through them to dig up the truth. To me, the process of writing is 90% debating myself and 10% typing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to find meaningful work</title>
-      <link>https://ondra.blog/meaningful-work/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ondra.blog/meaningful-work/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ondra.blog/images/2020/10/meaningful-work-guide.png&#34; alt=&#34;How to find meaningful work&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This guide will help you find a &lt;strong&gt;project&lt;/strong&gt;, a &lt;strong&gt;job&lt;/strong&gt;, or a &lt;strong&gt;career&lt;/strong&gt; that fits your needs. But it&amp;rsquo;s not just about landing a better job. It&amp;rsquo;s about finding what is meaningful to &lt;em&gt;you&lt;/em&gt; and then making a living around it.&lt;/p&gt;&#xA;&lt;p&gt;There are &lt;strong&gt;10 exercises&lt;/strong&gt; divided into &lt;strong&gt;4 days&lt;/strong&gt; that will take you from understanding what you want to a new work-life design you can put into action immediately.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

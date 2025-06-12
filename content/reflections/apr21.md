@@ -106,7 +106,7 @@ The concept of the new website is going to be something like this:
 
 {{< figure src="/images/2021/05/Screenshot-2021-05-09-at-11.36.33.png" >}}
 
-I'm not 100% sure what some things in this prototype mean. I expect it's going to evolve in time after I get more feedback. (Please, [email me what you think](mailto:o@ondrejmarkus.com).) But I know I prefer being informal-ish in what I write, so that's one fixed part of its DNA.
+I'm not 100% sure what some things in this prototype mean. I expect it's going to evolve in time after I get more feedback. (Please, [email me what you think](mailto:o.mrkus@gmail.com).) But I know I prefer being informal-ish in what I write, so that's one fixed part of its DNA.
 
 Generally, I want to write about **how to make a better life for yourself without taking it too seriously**. I love games, good design, and I could talk about personal productivity systems forever. So those are also parts of the Venn diagram I'm going to start from.
 
@@ -149,6 +149,6 @@ Here you can find my audio collection I listen to: [How to start with Alan Watts
 
 That's all – consistently inconsistent – as always.
 
-[Email me](mailto:o@ondrejmarkus.com) about what you're up to, and have a good one.
+[Email me](mailto:o.mrkus@gmail.com) about what you're up to, and have a good one.
 
 Bye 👋

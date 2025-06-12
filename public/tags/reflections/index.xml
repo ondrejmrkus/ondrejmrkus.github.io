@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reflections on Ondrej Mrkus</title>
+    <title>Reflections on Ondra</title>
     <link>https://ondra.blog/tags/reflections/</link>
-    <description>Recent content in Reflections on Ondrej Mrkus</description>
+    <description>Recent content in Reflections on Ondra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ondra.blog/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go back to writing</title>
+      <link>https://ondra.blog/write/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ondra.blog/write/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ondra.blog/images/2025/06/__________&#34; alt=&#34;Go back to writing&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s been 529 days since I published anything here.&lt;/p&gt;&#xA;&lt;p&gt;I didn’t write much since then.&lt;/p&gt;&#xA;&lt;p&gt;Why?&lt;/p&gt;&#xA;&lt;p&gt;I told myself it’s because I didn’t have enough time. But I think that was a lie.&lt;/p&gt;&#xA;&lt;p&gt;I suspect I stopped writing because, at some point, I became afraid to reflect deeply on my life.&lt;/p&gt;&#xA;&lt;p&gt;At first, I stopped writing publicly because I didn’t have time to edit. Then I stopped writing privately because I didn’t have time to think.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2023: Playful beginnings</title>
       <link>https://ondra.blog/2023/</link>

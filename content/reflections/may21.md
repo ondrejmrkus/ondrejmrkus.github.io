@@ -197,7 +197,7 @@ This is meant as a snapshot of my design process that could be helpful when you 
 
 What do you think?
 
-If you have a question, an opinion, an idea, please shoot at: [my email](mailto:o@ondrejmarkus.com)
+If you have a question, an opinion, an idea, please shoot at: [my email](mailto:o.mrkus@gmail.com)
 
 Please, really do. Knowing what's helpful, or unclear, or completely missing is precious feedback for me.
 

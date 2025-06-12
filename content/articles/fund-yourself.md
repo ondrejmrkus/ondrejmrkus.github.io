@@ -100,4 +100,4 @@ Stay tuned for more on Tuesdays and Thursdays.
 
 Share with a friend.
 
-And I'm very much open to your questions and thoughts about this: [Let's talk](mailto:o@ondrejmarkus.com).
+And I'm very much open to your questions and thoughts about this: [Let's talk](mailto:o.mrkus@gmail.com).

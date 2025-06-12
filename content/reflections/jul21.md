@@ -180,7 +180,7 @@ So what did I am I doing to improve my Twitter experience?
 * People tell me to use lists, but that feels like a lot of extra hustle. **I don't want to create lists**. My feed needs to work without lists.
 * **I set the feed to show the newest posts** instead of "the best" posts of whatever it's called. There were too many offtopic recommendations I didn't like.
 
-Any ideas? ([Email me](mailto:o@ondrejmarkus.com).)
+Any ideas? ([Email me](mailto:o.mrkus@gmail.com).)
 
 Now, let's look at the numbers.
 

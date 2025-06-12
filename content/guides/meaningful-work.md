@@ -1,11 +1,12 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-04-01
 draft: false
 title: How to find meaningful work
 slug: meaningful-work
 tags: [guide]
-description: Ten exercises designed to help you find a work that fits your needs and personality.
+description: 10 exercises designed to help you find work that fits your needs and personality
+featured: true
 ---
 
 ![How to find meaningful work](/images/2020/10/meaningful-work-guide.png)
@@ -15,6 +16,8 @@ This guide will help you find a **project**, a **job**, or a **career** that fit
 There are **10 exercises** divided into **4 days** that will take you from understanding what you want to a new work-life design you can put into action immediately.
 
 ## Content
+
+### [0: Start here](/meaningful-work/#start-here)
 
 ### [1: Understand what you actually want](/meaningful-work/#understand-what-you-actually-want)
 
@@ -538,7 +541,7 @@ Your priority now is to prove to yourself you can begin your walk over the Maybe
 
 > **Big thanks** to Linette and Dan for reading long drafts of this.
 >
-> If you have any thoughts about the guide, want to share your insights, or tell me which picture you liked the most, [write me an email](mailto:o@ondrejmarkus.com).
+> If you have any thoughts about the guide, want to share your insights, or tell me which picture you liked the most, [write me an email](mailto:o.mrkus@gmail.com).
 
 ---
 
@@ -564,7 +567,6 @@ Where to go next:
 Tim Urban's blog post is what inspired me to dig deeper into this topic and write about it. The Day 1 chapter is heavily based on his article. If you are looking for a place to continue, I can't recommend this enough. Also, his illustrations are hilarious.
 
 * [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html) (Start here.)
-* [The Cook and the Chef: Musk’s Secret Sauce](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) (Also a good one if you like reading about Elon Musk.)
 
 ### Seth's blog
 

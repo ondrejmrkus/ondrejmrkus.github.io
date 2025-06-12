@@ -156,7 +156,7 @@ Not immediately, but soon.
 * **Course** or mastermind group – I have experience running a cohort-based course with 50+ builders at the university. Turning that know-how into a paid thing shouldn't be that hard.
 * **Notion templates** – I use Notion every day for my knowledge/project management. And I noticed a trend in selling templates on Gumroad. I have a couple of ideas for personal productivity and life design workbooks.
 * **Coaching** 1:1 – Very secondary option. I wouldn't want to coach more than 1-2 people at a time. It takes a lot of energy from me. And I don't want to brand myself as a coach. So I'd consider it only if someone came to me first. (Also, it's technically not a product.)
-* Am I missing something? [Tell me](mailto:o@ondrejmarkus.com).
+* Am I missing something? [Tell me](mailto:o.mrkus@gmail.com).
 
 ### Work in progress
 
@@ -249,7 +249,7 @@ That's it for June.
 A few things before you go:
 
 * If you've enjoyed this, share this link with a fellow builder who's on a similar journey: [ondrejmarkus.com/jun21](/jun21)
-* Also, [email me](mailto:o@ondrejmarkus.com) to say hello and tell me what you liked or didn't like. I have no idea what is good anymore.
+* Also, [email me](mailto:o.mrkus@gmail.com) to say hello and tell me what you liked or didn't like. I have no idea what is good anymore.
 
 P. S.: I've written this while listening to [this song](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA?si=0120f81d78f64f77) on repeat for hours. Don't read too much into it. I don't.
 

@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ondra.blog/articles/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondra.blog/write/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ondra.blog/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondra.blog/tags/reflections/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondra.blog/tags/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/projects/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
@@ -17,20 +29,11 @@
     <loc>https://ondra.blog/reflections/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ondra.blog/tags/reflections/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ondra.blog/tags/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ondra.blog/2023-q1-q2/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/2022/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ondra.blog/articles/</loc>
-    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/building-games/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
@@ -294,6 +297,9 @@
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/tags/guide/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondra.blog/guides/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/meaningful-work/</loc>

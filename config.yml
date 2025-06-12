@@ -1,28 +1,34 @@
 baseURL: https://ondra.blog
 languageCode: en-us
-title: Ondrej Mrkus
+title: Ondra
 theme: pickleronin
 
 menu:
 
 permalinks:
-  projects: /:slug/
   articles: /:slug/
   reflections: /:slug/
+  projects: /:slug/
+  guides: /:slug/
 
 params:
   sections:
     - id: "column1"
+      title: "Guides"
+      icon: "/images/projects.jpeg"
+      description: "Practical tools for living a better life"
+      folder: "guides"
+    - id: "column2"
       title: "Articles"
       icon: "/images/rage.jpeg"
       description: "Notes on what I'm learning"
       folder: "articles"
-    - id: "column2"
+    - id: "column3"
       title: "Reflections"
       icon: "/images/reflections.jpeg"
       description: "My very personal reflections on life"
       folder: "reflections"
-    #- id: "column3"
+    #- id: "column4"
       #title: "Projects"
       #icon: "/images/projects.jpeg"
       #description: "Education + Games + Tech"

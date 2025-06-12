@@ -39,7 +39,7 @@ body {
 }
 
 .column {
-  width: 500px; /* Fixed column width */
+  width: 460px; /* Fixed column width */
   flex: none;
   height: 100vh; /* Make columns as tall as the viewport */
   overflow-y: scroll; /* Allow vertical scrolling inside each column */
