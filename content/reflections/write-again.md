@@ -1,7 +1,7 @@
 ---
 author: Ondrej Mrkus
 date: 2025-06-12
-draft: false
+draft: true
 title: Go back to writing
 slug: write-again
 tags: [reflections]

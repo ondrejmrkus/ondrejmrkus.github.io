@@ -13,11 +13,6 @@ permalinks:
 
 params:
   sections:
-    - id: "column1"
-      title: "Guides"
-      icon: "/images/projects.jpeg"
-      description: "Practical tools for living a better life"
-      folder: "guides"
     - id: "column2"
       title: "Articles"
       icon: "/images/rage.jpeg"
@@ -28,7 +23,12 @@ params:
       icon: "/images/reflections.jpeg"
       description: "My very personal reflections on life"
       folder: "reflections"
-    #- id: "column4"
+    - id: "column4"
+      title: "Guides"
+      icon: "/images/projects.jpeg"
+      description: "Practical tools for living a better life"
+      folder: "guides"
+    #- id: "column5"
       #title: "Projects"
       #icon: "/images/projects.jpeg"
       #description: "Education + Games + Tech"

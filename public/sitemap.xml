@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ondra.blog/write-again/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ondra.blog/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondra.blog/now/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/reflections/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ondra.blog/tags/reflections/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ondra.blog/tags/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/projects/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
@@ -24,6 +18,12 @@
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/2023/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondra.blog/tags/reflections/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ondra.blog/tags/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ondra.blog/2023-q1-q2/</loc>
