@@ -124,7 +124,7 @@ I pushed this from an idea at the beginning of March to something that's actuall
 
 I made some quick web prototypes and tested them every few days with people who might be interested in joining, most of them were, so I launched it as an experimental run.
 
-(The latest prototype)
+([The latest prototype](https://metasprint.webflow.io/))
 
 ### 🚀 Innovation lab
 

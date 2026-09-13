@@ -96,7 +96,7 @@ At this point, I started getting responses like: _"I understand everything. I wa
 
 ### Week 4: Peer-to-peer selling
 
-I finished the website, being as specific as I could with WHAT the course is, WHY it is useful, WHO it is for, HOW it works, and WHEN it will happen. It was still just a text-only website, but it worked fine. _(The final prototype is still online here.)_
+I finished the website, being as specific as I could with WHAT the course is, WHY it is useful, WHO it is for, HOW it works, and WHEN it will happen. It was still just a text-only website, but it worked fine. _(The final prototype is still online [here](https://metasprint.webflow.io/).)_
 
 I messaged another eight people I knew well enough to suspect this course was relevant to them.
 

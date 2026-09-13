@@ -204,7 +204,7 @@ I've sketched out a prototype website to think out loud in public.
 
 I tried to express the idea in just a few words and no time. It's highly experimental and unfinished, but I put it online to get ideas and feedback. (Almost even before I know what it's going to be.)
 
-Have a peek at the website, and let me know: **What do you think?**
+[Have a peek at the website](https://metasprint.webflow.io/), and let me know: **What do you think?**
 
 ---
 
