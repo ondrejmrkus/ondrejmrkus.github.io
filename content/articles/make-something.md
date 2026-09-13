@@ -30,7 +30,7 @@ When I wanted to learn JavaScript a few months ago, I started with an online cou
 
 So I asked myself: What would be useful to me that I could create in JavaScript?
 
-And after thinking about it for a while, I decided to make a super simple app called [Talk about this](https://ondrejmarkus.github.io/talk-about-this/) – a web application that generates prompts for conversations better than small talk.
+And after thinking about it for a while, I decided to make a super simple app called [Talk about this](https://ondrejmrkus.github.io/talk-about-this/) – a web application that generates prompts for conversations better than small talk.
 
 {{< figure src="/images/2021/05/2-2.png" caption="A simple web app I made in 2 days to learn JavaScript" >}}
 

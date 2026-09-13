@@ -18,7 +18,7 @@ It includes _(what I believe)_ are the essentials of **how to make your days mor
 
 Its purpose is to help you make significant progress on your most important work while enjoying the process.
 
-![](https://www.ondrejmarkus.com/content/images/2022/02/dd-mc3-1.png)
+![](/images/2022/02/dd-mc3.png)
 
 #### Daily Design
 
@@ -71,11 +71,11 @@ For example, one of my current intentions is: _"I will make a living as an indep
 
 **2/ Focus your mind on a new practice** – Sometimes, there's an important habit or challenge you want to train. Repeating it as your intention for the day is a good way to keep it on top of your mind.
 
-For example, you could be [practicing optimism](https://www.ondrejmarkus.com/trained-optimism/): _"I will think about the upside of anything that happens today."_
+For example, you could be [practicing optimism](/trained-optimism/): _"I will think about the upside of anything that happens today."_
 
 By writing down your intention, you make a conscious decision to work towards what matters to you.
 
-It's okay to repeat the same intention for weeks or even months. Actually, that's how it's supposed to work. Rewriting your intention every day will keep it on top of your mind. But feel free to experiment and [find a system that works for you](https://www.ondrejmarkus.com/system-that-works/).
+It's okay to repeat the same intention for weeks or even months. Actually, that's how it's supposed to work. Rewriting your intention every day will keep it on top of your mind. But feel free to experiment and [find a system that works for you](/system-that-works/).
 
 Also, you can have more than one active intention and mix them up on different days, depending on your current focus. But don't spread yourself too thin. Trying to go in too many directions might prevent you from getting anywhere at all.
 

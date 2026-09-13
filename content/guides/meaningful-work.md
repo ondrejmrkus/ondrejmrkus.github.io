@@ -25,7 +25,7 @@ There are **10 exercises** divided into **4 days** that will take you from under
 
 ### [3: Build work-life prototypes](/meaningful-work/#build-work-life-prototypes)
 
-### [4: Design bulletproof experiments](/meaningful-work/#design-bulletproof-xperiments)
+### [4: Design bulletproof experiments](/meaningful-work/#design-bulletproof-experiments)
 
 ---
 
@@ -399,7 +399,7 @@ You'll visualize this scenario to prove to yourself, there is more than one work
 
 The further we get, the more specific and down-to-earth we are.
 
-Sleep on it and then continue to [Day 4](https://ondrejmarkus.com/meaningful-work-day4), where it's all about putting dreams into concrete plans and action.
+Sleep on it and then continue to [Day 4](#design-bulletproof-experiments), where it's all about putting dreams into concrete plans and action.
 
 # Design bulletproof experiments
 
@@ -541,7 +541,7 @@ Your priority now is to prove to yourself you can begin your walk over the Maybe
 
 > **Big thanks** to Linette and Dan for reading long drafts of this.
 >
-> If you have any thoughts about the guide, want to share your insights, or tell me which picture you liked the most, [write me an email](mailto:o.mrkus@gmail.com).
+> If you have any thoughts about the guide, want to share your insights, or tell me which picture you liked the most, write me an email.
 
 ---
 

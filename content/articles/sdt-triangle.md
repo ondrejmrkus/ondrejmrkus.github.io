@@ -78,7 +78,7 @@ This is probably the weakest of these needs for me at the moment, but I already 
 
 Even though my personal relationships are going great, what's lacking is a feeling of belonging in my work-life – primarily in my writing world. It's another symptom of being a solopreneur-writer-kind-of-dude who mostly works alone.
 
-I'm working on improving this right now by being more active on [Twitter](https://twitter.com/ondrej_markus) to connect with like-minded writers and other creators. It's really stretching my comfort zone because I'm otherwise social media abstinent. But I see some results already.
+I'm working on improving this right now by being more active on Twitter to connect with like-minded writers and other creators. It's really stretching my comfort zone because I'm otherwise social media abstinent. But I see some results already.
 
 We'll see how it works out in a couple of weeks. I'd give 6.5/10 here with 7 lurking behind a corner.
 

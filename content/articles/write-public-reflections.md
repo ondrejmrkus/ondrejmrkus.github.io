@@ -84,7 +84,7 @@ I want to take you through my reasoning of the worst and best things that could 
 
 1. **Some people will think your ideas are stupid**: What they're saying is, _"This isn't for me."_ And that's fine. Nothing is for everyone.
 2. **Some people will say mean things**: Same as 1). I know it hurts _(I've been there)_, but some people are having a bad day, and there is nothing you can do about it.
-3. **Nobody will pay attention**: This doesn't affect your learning at all. And, in the beginning, this might be a good thing because it will make you more relaxed to share openly. _(I was sharing my reflections with just 5 to 10 of my friends for months before I tried [Twitter](https://twitter.com/ondrej_markus).)_
+3. **Nobody will pay attention**: This doesn't affect your learning at all. And, in the beginning, this might be a good thing because it will make you more relaxed to share openly. _(I was sharing my reflections with just 5 to 10 of my friends for months before I tried Twitter.)_
 4. **You will share something you later regret**: You can always take things down. And even if you couldn't for some reason, personally, I'd rather regret sharing a little too much than not getting out there at all.
 
 **The best things that could happen:**
@@ -103,4 +103,4 @@ To actually start doing it, you need to decide you _want it_ more than you _fear
 
 If you do, go for it.
 
-_(I'd be honored to get your first reflection. Even if I'm a stranger to you, that could be a good thing. Sometimes it's easier to share with strangers than with the people who know you well. Here's [my email](mailto:o.mrkus@gmail.com).)_
+_(I'd be honored to get your first reflection. Even if I'm a stranger to you, that could be a good thing. Sometimes it's easier to share with strangers than with the people who know you well. Here's my email.)_

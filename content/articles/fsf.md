@@ -147,7 +147,7 @@ The result is a growing network of symbiotic projects linked with people interes
 Example: Build an online home
 - One simple thing you can do to start weaving your projects together is to build an online home – a website with links to all your projects. So whenever people want to find out more about you and your work, they discover all your other projects.
 - This website is my online home connecting all my projects.
-- [Twitter](https://twitter.com/ondrej_markus) is where I meet new people and expose them to my work by having this site in my bio.
+- Twitter is where I meet new people and expose them to my work by having this site in my bio.
 
 > **Weave your projects and people into one network.**
 

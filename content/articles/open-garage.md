@@ -83,7 +83,7 @@ Let's look at the reasons why you should share your work even if you think it co
 
 -   **Your current work might be perfect for somebody right now**: There is no such thing as perfect work. Perfect work is just work that is imperfect in a way some people enjoy. So don't keep your imperfect work for yourself. It might be perfect for somebody who's out there, and they will love you for sharing it.
 
-So if you are trying your best but remain slightly disappointed with your work, don’t stop. You are doing well, and it [will get better](https://www.ondrejmarkus.com/bad-to-good/).
+So if you are trying your best but remain slightly disappointed with your work, don’t stop. You are doing well, and it [will get better](/bad-to-good/).
 
 ## Show the person behind your work
 
@@ -95,7 +95,7 @@ After all, it's _you_ who made all this. _How did you do that? Why did you do th
 
 Context is important. Why and how somebody makes something can change its value enormously. So tell people why you do what you do. Create an [About page](https://www.ondrejmarkus.com/about/).
 
-Your story might feel boring to you because you know it so well. But it's new to others, and they might learn a lot from [your experiences](https://www.ondrejmarkus.com/write-public-reflections/).
+Your story might feel boring to you because you know it so well. But it's new to others, and they might learn a lot from [your experiences](/write-public-reflections/).
 
 Your subjective perception of reality is your most precious material. Nobody else has the same blend of experiences as you do. Be honest and find your voice by telling your story through your work.
 
@@ -111,9 +111,9 @@ ___
 
 That is how I work.
 
-This [website](https://www.ondrejmarkus.com/) is my garage with open doors. These [articles](https://www.ondrejmarkus.com/blog/) are my prototypes.
+This [website](/) is my garage with open doors. These [articles](https://www.ondrejmarkus.com/blog/) are my prototypes.
 
-You can do this or find your own way. [Whatever works for you](https://www.ondrejmarkus.com/system-that-works/) is the right way.
+You can do this or find your own way. [Whatever works for you](/system-that-works/) is the right way.
 
 But I see many creators struggle with this, plus I lived through the brutal beginnings myself, and this is my best advice for anyone who wants to create things and share them with other people to make a difference in the world.
 

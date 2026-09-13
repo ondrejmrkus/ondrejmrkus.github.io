@@ -256,7 +256,7 @@ So I'll push things a little into the extreme and make a rule: **I can't work on
 
 The purpose of that is to finally remember and internalize this truth which I keep rediscovering and forgetting every couple of months. It's freakin' ridiculous watching myself going in circles like that.
 
-By the way, that's one reason why I write these [reflections](/tags/reflection/) – to catch myself doing non-sense like this. And hopefully to help you avoid it altogether.
+By the way, that's one reason why I write these [reflections](/tags/reflections/) – to catch myself doing non-sense like this. And hopefully to help you avoid it altogether.
 
 ‌‌I think the main reason projects work for me is that they **sharpen my focus**. When I have a few active projects written down and present at the back of my mind, anything I encounter gets filtered for relevance to one of those projects. If it's irrelevant I can ignore it.
 

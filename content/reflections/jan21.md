@@ -67,7 +67,7 @@ But what **did work** for me is starting a project I think is fun and useful to 
 
 So I've made a **question-generating app** for conversations more interesting than small talk. Learning this way is much more fun, and therefore it's easier even if it's hard to do – if you know what I mean.
 
-You can try the app online for free. It's called [**Talk about this**](https://ondrejmarkus.github.io/talk-about-this/).
+You can try the app online for free. It's called [**Talk about this**](https://ondrejmrkus.github.io/talk-about-this/).
 
 ---
 

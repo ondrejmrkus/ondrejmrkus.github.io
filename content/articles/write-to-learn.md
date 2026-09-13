@@ -28,7 +28,7 @@ I hold myself accountable to a schedule because otherwise, I wouldn't finish any
 
 But you don't need to be a writer or have a schedule to benefit from writing. **You can use writing to improve at any skill you care about.**
 
-Everyone should have a [digital garage](https://www.ondrejmarkus.com/open-garage/) where they can bounce ideas around. And writing is the easiest tool to use for that.
+Everyone should have a [digital garage](/open-garage/) where they can bounce ideas around. And writing is the easiest tool to use for that.
 
 -   **Coding**: Don't just write code with comments. Write about why you chose the framework and architecture you're using. It will make you a better programmer.
 -   **Drawing**: Don't just draw pictures. Write about why you chose this color palette and how it works with the shapes. It will make you a better illustrator.
@@ -59,7 +59,7 @@ The writing process alone helps you improve because it **improves your ability t
 I will leave you today with five writing practices you can try right now. They work well for different purposes. Choose what fits your needs and go with that:
 
 -   **Create coherent notes** from what you learn, which you could send to a friend, and she would understand them. Try not to just copy&paste highlights from books and articles. Practice expressing new ideas in your own words.
--   **[Share public reflections](https://www.ondrejmarkus.com/write-public-reflections/)** to deconstruct your thinking, experiences, and decisions. Not to defend them, but to practice critical thinking and [self-awareness](https://www.ondrejmarkus.com/expert/).
+-   **[Share public reflections](/write-public-reflections/)** to deconstruct your thinking, experiences, and decisions. Not to defend them, but to practice critical thinking and [self-awareness](/expert/).
 -   **Keep a work journal** to record the progress on your projects and document your creative process. Public work journals are the actual no-BS portfolios because they show your work how it really happened.
--   **Tweet your thoughts** to [practice sharing ideas](https://www.ondrejmarkus.com/tweet-prototype/) in one or two sentences among people who care about what you have to say. Use other platform if Twitter is not your cup of tea.
--   **Write articles** to share your unique know-how and perspective with the world and speed up your learning in the process. _(Tip: Write articles like you were emailing a friend to explain something. And [write fast](https://www.ondrejmarkus.com/speed-drafting/).)_
+-   **Tweet your thoughts** to [practice sharing ideas](/tweet-prototype/) in one or two sentences among people who care about what you have to say. Use other platform if Twitter is not your cup of tea.
+-   **Write articles** to share your unique know-how and perspective with the world and speed up your learning in the process. _(Tip: Write articles like you were emailing a friend to explain something. And [write fast](/speed-drafting/).)_

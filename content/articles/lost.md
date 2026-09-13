@@ -73,7 +73,7 @@ If you become an expert on how _you_ learn best, you can learn anything. That’
 You can do these two things to start learning better right now:
 
 1.  **Seek unfamiliar situations**: Travel, learn a new language, play an instrument, join a new sport, buy a new board game, or start a side project. Going into unknown environments will force you to practice learning.
-2.  **Observe yourself**: Self-awareness multiplies your learning. Watch yourself closely as you learn and notice which methods do and don't work for you. [Write a journal](https://www.ondrejmarkus.com/mp/) or reflect on your learning process with someone else.
+2.  **Observe yourself**: Self-awareness multiplies your learning. Watch yourself closely as you learn and notice which methods do and don't work for you. [Write a journal](/mp/) or reflect on your learning process with someone else.
 
 ## Be inefficient
 

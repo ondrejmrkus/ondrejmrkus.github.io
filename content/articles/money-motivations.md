@@ -109,7 +109,7 @@ I share these so you know where I'm coming from when I talk about money. Because
 
 So you can see this and think: "Oh my. This guy is nuts. We have nothing in common. I'm out of there. [ALT+F4]"
 
-I'm eager to discuss. Please question, share, and disagree with me in [an email](mailto:o.mrkus@gmail.com).
+I'm eager to discuss. Please question, share, and disagree with me in an email.
 
 See you on Thursday.
 

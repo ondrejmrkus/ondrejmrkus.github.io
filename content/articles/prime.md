@@ -32,7 +32,7 @@ This is a high-level **planning** and **reflection** mode. It's about **the big 
 
 -   Where am I going in life?
 -   What are my values?
--   What's the [meaning](https://www.ondrejmarkus.com/find-meaning/) of my work?
+-   What's the [meaning](/find-meaning/) of my work?
 -   What impact am I trying to have?
 -   What do I want to do next in life?
 
@@ -50,7 +50,7 @@ This is a low-level **execution** mode. It’s about the **everyday tasks** of l
 -   What do I want to finish this week?
 -   What should my daily routine look like?
 
-The purpose of the tactical mode is to help me [finish important work](https://www.ondrejmarkus.com/miw/) while [enjoying the process](https://www.ondrejmarkus.com/system-that-works/) as much as possible.
+The purpose of the tactical mode is to help me [finish important work](/miw/) while [enjoying the process](/system-that-works/) as much as possible.
 
 I try to switch between these two modes at the right time to leverage their strengths while minimizing their weaknesses.
 
@@ -124,8 +124,8 @@ So my mood and motivation come down to my energy management.
 Next to being high on energy, I also need to feel calm and undistracted by my circumstances.
 
 -   **Work less**: I cut some of my deep work time to put more time into rest and other chill activities. I worked 30-50% less over the last two weeks.
--   **Cut media consumption**: Twitter and other things with feeds in them make me anxious and distracted. So I didn't use any social media. Also, [I stopped watching videos when eating](https://www.ondrejmarkus.com/17/) and before bed (which helped with sleeping more and better a lot).
--   **Reflect more**: I spend more time than I normally do on [journaling](https://www.ondrejmarkus.com/mp/) just to think about what are the important questions I might want to answer in my strategy phase.
+-   **Cut media consumption**: Twitter and other things with feeds in them make me anxious and distracted. So I didn't use any social media. Also, [I stopped watching videos when eating](/17/) and before bed (which helped with sleeping more and better a lot).
+-   **Reflect more**: I spend more time than I normally do on [journaling](/mp/) just to think about what are the important questions I might want to answer in my strategy phase.
 -   **Deep talks with friends**: Talking things out with people you trust and respect is helpful. So I had more than a few conversations about how others approach some of the questions I'm trying to answer for myself.
 -   **Read philosophy**: Solving big questions of life requires some big ideas. So I did some [heavier reading](https://www.goodreads.com/book/show/2761.The_Denial_of_Death) which I typically avoid while focusing on getting things done.
 

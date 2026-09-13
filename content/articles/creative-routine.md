@@ -63,7 +63,7 @@ However, most creators, especially writers, seem to thrive on systems and repeti
 
 I live in the repetition camp. I need structure.
 
-I write every morning except Saturdays. I work offline without interruptions of email or notifications. And I have a strict '[No meetings before noon](https://www.ondrejmarkus.com/no-meetings/)' policy because mornings are my natural energy peek of the day I want to spend on my [most important work](https://www.ondrejmarkus.com/miw/) – writing.
+I write every morning except Saturdays. I work offline without interruptions of email or notifications. And I have a strict '[No meetings before noon](/no-meetings/)' policy because mornings are my natural energy peek of the day I want to spend on my [most important work](/miw/) – writing.
 
 {{< figure src="/images/2022/02/4-4.png" caption="No meetings before noon." >}}
 
@@ -71,7 +71,7 @@ My routine is simple:
 
 1.  I wake up without an alarm. _(Ideally, I went to bed at a reasonable time.)_
 2.  I make [coffee](https://www.ondrejmarkus.com/coffee/). _(I grind the beans manually as my brain slowly boots up its_ higher functions.)
-3.  I journal in my [Morning Pages](https://www.ondrejmarkus.com/mp/) to clean the windshield of my mind.
+3.  I journal in my [Morning Pages](/mp/) to clean the windshield of my mind.
 4.  And then I write until about noon when I eat breakfast, which ends the routine.
 
 That's it.
@@ -140,4 +140,4 @@ Recognize that you are weirdly unique, and figuring out what works for you is a 
 
 So whatever ends up being your routine, if it works, it works. Nothing else matters. There is no single objectively correct routine for everyone's creative work.
 
-Look for inspiration in others, try new things, but keep only what helps you [finish important work while enjoying the process](https://www.ondrejmarkus.com/system-that-works/).
+Look for inspiration in others, try new things, but keep only what helps you [finish important work while enjoying the process](/system-that-works/).

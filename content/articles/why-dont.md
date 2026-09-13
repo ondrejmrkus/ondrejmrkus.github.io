@@ -202,7 +202,7 @@ I finally found what I CAN write about while I work full-time: It's writing abou
 
 Hurray!
 
-Let me know if this is boring or not. And if you've ever been in a similar situation, [I'm curious to know](mailto:o.mrkus@gmail.com) how you solved it.
+Let me know if this is boring or not. And if you've ever been in a similar situation, I'm curious to know how you solved it.
 
 Byye.
 

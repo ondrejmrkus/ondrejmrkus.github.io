@@ -128,7 +128,7 @@ We need to examine our lives more closely to find what's not working before we c
 
 This is the first exercise you can do to start designing your life the way you want it _(even if you aren't sure what you want yet – that's absolutely okay, allowed, and expected)._
 
-I do this exercise every month as part of my [monthly review](https://www.ondrejmarkus.com/20/). Its purpose is to look at your life from a higher perspective to notice problems that might be hiding from you in the rush of everyday happenings.
+I do this exercise every month as part of my [monthly review](/20/). Its purpose is to look at your life from a higher perspective to notice problems that might be hiding from you in the rush of everyday happenings.
 
 {{< figure src="/images/2022/01/5-2.png" caption="Break your life into areas" >}}
 

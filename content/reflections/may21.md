@@ -95,7 +95,7 @@ _(This wording doesn't really make sense, but I couldn't resist making it rhyme.
 
 I want to connect with more people worldwide. And since I'm normally a social media abstinent who doesn't like to spend time scrolling feeds, I wasn't sure how to approach this.
 
-But after some thinking, I decided to try [Twitter](https://twitter.com/ondrej_markus) as a place to find like-minded people I could share my journey with.
+But after some thinking, I decided to try Twitter as a place to find like-minded people I could share my journey with.
 
 That's why I'm going to focus on building relationships with other builders on Twitter. I need a place to get feedback on my work. And if it goes well, a place where my work finds its fans.
 
@@ -197,7 +197,7 @@ This is meant as a snapshot of my design process that could be helpful when you 
 
 What do you think?
 
-If you have a question, an opinion, an idea, please shoot at: [my email](mailto:o.mrkus@gmail.com)
+If you have a question, an opinion, an idea, please shoot at: my email
 
 Please, really do. Knowing what's helpful, or unclear, or completely missing is precious feedback for me.
 
@@ -252,7 +252,7 @@ Next, we move onto the painful stuff.
 
 On the 31st of May, I moved to a new apartment. It was a terrible experience with a hurtful finish.
 
-I shared it already as a [thread on Twitter](https://twitter.com/ondrej_markus/status/1401462531877654528?ref_src=twsrc%5Etfw), where I deconstruct my risk-management blunders, and how I plan to avoid them the next time.
+I shared it already as a thread on Twitter, where I deconstruct my risk-management blunders, and how I plan to avoid them the next time.
 
 ---
 

@@ -106,7 +106,7 @@ The concept of the new website is going to be something like this:
 
 {{< figure src="/images/2021/05/Screenshot-2021-05-09-at-11.36.33.png" >}}
 
-I'm not 100% sure what some things in this prototype mean. I expect it's going to evolve in time after I get more feedback. (Please, [email me what you think](mailto:o.mrkus@gmail.com).) But I know I prefer being informal-ish in what I write, so that's one fixed part of its DNA.
+I'm not 100% sure what some things in this prototype mean. I expect it's going to evolve in time after I get more feedback. (Please, email me what you think.) But I know I prefer being informal-ish in what I write, so that's one fixed part of its DNA.
 
 Generally, I want to write about **how to make a better life for yourself without taking it too seriously**. I love games, good design, and I could talk about personal productivity systems forever. So those are also parts of the Venn diagram I'm going to start from.
 
@@ -141,7 +141,7 @@ The last weekend of April I spent playing board games with friends after a long 
 
 ## Listening 🎧
 
-Every day I can, I hop on a bike for a 30-minute ride with Alan Watts in my ears. It keeps my sanity levels above livable during a busy month. (Excellent not just for deflecting [crypto FOMO](/april21/#my-dear-crypto-fomo/).) Highly recommended.
+Every day I can, I hop on a bike for a 30-minute ride with Alan Watts in my ears. It keeps my sanity levels above livable during a busy month. (Excellent not just for deflecting [crypto FOMO](/apr21/#my-dear-crypto-fomo).) Highly recommended.
 
 Here you can find my audio collection I listen to: [How to start with Alan Watts](https://www.notion.so/How-to-start-with-Alan-Watts-80a878fb4007431f9db12ed7b5d5b23c)
 
@@ -149,6 +149,6 @@ Here you can find my audio collection I listen to: [How to start with Alan Watts
 
 That's all – consistently inconsistent – as always.
 
-[Email me](mailto:o.mrkus@gmail.com) about what you're up to, and have a good one.
+Email me about what you're up to, and have a good one.
 
 Bye 👋

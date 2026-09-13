@@ -30,7 +30,7 @@ Let's get into it.
 
 Today, you will create three different versions of the next five years of your life.
 
-Doing this will give you various options so you avoid getting [stuck on your first idea](https://www.ondrejmarkus.com/get-unstuck/#first-ideas) and discover possible futures you might have never thought about before.
+Doing this will give you various options so you avoid getting [stuck on your first idea](/get-unstuck/#first-ideas) and discover possible futures you might have never thought about before.
 
 _(This version of the exercise is a slightly changed version of what Bill and Dave describe in the book [Designing Your Life](https://designingyour.life/the-book/).)_
 
@@ -51,10 +51,10 @@ _(This version of the exercise is a slightly changed version of what Bill and Da
 
 Use every bit of insight you have from previous sessions to inspire your scenarios:
 
--   Remember your important life areas (→ [Start where you are](https://www.ondrejmarkus.com/start-where-you-are/))
--   Build around activities that engage and energize you (→ [Follow joy](https://www.ondrejmarkus.com/follow-joy/))
--   Align what you do with your needs and values (→ [Find meaning](https://www.ondrejmarkus.com/find-meaning/))
--   Use ideas from your mindmaps (→ [Get unstuck](https://www.ondrejmarkus.com/get-unstuck/))
+-   Remember your important life areas (→ [Start where you are](/start-where-you-are/))
+-   Build around activities that engage and energize you (→ [Follow joy](/follow-joy/))
+-   Align what you do with your needs and values (→ [Find meaning](/find-meaning/))
+-   Use ideas from your mindmaps (→ [Get unstuck](/get-unstuck/))
 
 And now the most fun part: Every scenario will have a different theme:
 
@@ -104,4 +104,4 @@ _That's it for today._
 
 _Next week, I will take a short break from life design articles and write something else. Then I will come back with_ **_Career prototyping_**_._
 
-_(This is the fifth part of my [Life Design Series](https://www.ondrejmarkus.com/life-design-series/). You can start with [the first part](https://www.ondrejmarkus.com/start-where-you-are/).)_
+_(This is the fifth part of my [Life Design Series](https://www.ondrejmarkus.com/life-design-series/). You can start with [the first part](/start-where-you-are/).)_

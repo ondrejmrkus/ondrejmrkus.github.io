@@ -115,8 +115,6 @@ It's a big challenge. But just thinking about this project makes me chuckle with
 
 If you want to help me, [check out the landing page](http://metasprint.net/) I just published. It's an early draft that's going to change many times. So don't be afraid to rip it apart, and tell me what does and doesn't work for you. I want your opinion.
 
-And if you like my vision for the course, you can [subscribe here to get a special offer](https://tinyletter.com/ondrej_markus) when it's ready. I'll never forget early supporters. (I have a special list.)
-
 Moving on.
 
 ---
@@ -145,7 +143,7 @@ Get better at storytelling. It's worth your time, no matter what you do.
 
 ## An introvert struggling with Twitter
 
-I'm trying to build a network of peers and fans around [my work on Twitter](https://twitter.com/ondrej_markus). But I'm still at the very beginning – an introvert bootstrapping a network from scratch. Fun stuff.
+I'm trying to build a network of peers and fans around my work on Twitter. But I'm still at the very beginning – an introvert bootstrapping a network from scratch. Fun stuff.
 
 So what's the problem?
 
@@ -180,7 +178,7 @@ So what did I am I doing to improve my Twitter experience?
 * People tell me to use lists, but that feels like a lot of extra hustle. **I don't want to create lists**. My feed needs to work without lists.
 * **I set the feed to show the newest posts** instead of "the best" posts of whatever it's called. There were too many offtopic recommendations I didn't like.
 
-Any ideas? ([Email me](mailto:o.mrkus@gmail.com).)
+Any ideas? (Email me.)
 
 Now, let's look at the numbers.
 

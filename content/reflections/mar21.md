@@ -112,7 +112,7 @@ Bonus: Ask some wild **What if's**_._
 
 I did the whole thing in 2 or 3 hours of unfiltered writing. It was fun and helpful for deciding what I want to do next. You should try it.
 
-And if you come up with some good **What if's** – [let me know](mailto:o.mrkus@gmail.com). I'm curious.
+And if you come up with some good **What if's** – let me know. I'm curious.
 
 ## Work that happened
 
@@ -191,7 +191,7 @@ That's it.
 
 **P.S.**: As you can see, these monthly emails are unpredictable – not even I know what is going to be in them before I sit down to write them.
 
-So please [tell me](mailto:o.mrkus@gmail.com) what you liked and didn't like. I'd be very grateful to know.
+So please tell me what you liked and didn't like. I'd be very grateful to know.
 
 Or just reply to the email with something like: "Dope, bro." That's fine too, and it warms my chickles.
 

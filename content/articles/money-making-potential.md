@@ -101,7 +101,7 @@ It's about realizing you have valuable skills you can use to take more risks bec
 * Start a side project that could one day be a profitable business
 * Fund your creative life to see where it takes you if you go for it
 
-I mean, even if I decided to run my savings down to zero _(which I don't recommend doing [except maybe once](__GHOST_URL__/go-broke/))_, and finding a high-paying job would prove harder than I expected, I could always make enough money by doing random _"unskilled"_ jobs I found through some app. I could bounce back from anything and so could you.
+I mean, even if I decided to run my savings down to zero _(which I don't recommend doing [except maybe once](/go-broke/))_, and finding a high-paying job would prove harder than I expected, I could always make enough money by doing random _"unskilled"_ jobs I found through some app. I could bounce back from anything and so could you.
 
 So there is no real risk in playing the game boldly. Leverage your money-making potential to take leaps of faith while sleeping peacefully because you know that once you need to make more money, you can.
 
