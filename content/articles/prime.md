@@ -103,7 +103,7 @@ Now, we get to the priming part.
 
 I was in Tactical mode for the last three months. I mostly focused on publishing two articles every week without worrying too much about the bigger picture.
 
-It worked. I was on schedule with every article. _(Finished [26 articles](https://www.ondrejmarkus.com/archive/) including this one.)_
+It worked. I was on schedule with every article. _(Finished [26 articles](/writing/) including this one.)_
 
 Today is the last day of that three-month period. So I slowed down over the last two weeks to get ready for a big Strategic phase. And I did my best to get my mind into the best state possible.
 

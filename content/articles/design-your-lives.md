@@ -104,4 +104,4 @@ _That's it for today._
 
 _Next week, I will take a short break from life design articles and write something else. Then I will come back with_ **_Career prototyping_**_._
 
-_(This is the fifth part of my [Life Design Series](https://www.ondrejmarkus.com/life-design-series/). You can start with [the first part](/start-where-you-are/).)_
+_(This is the fifth part of my Life Design Series. You can start with [the first part](/start-where-you-are/).)_

@@ -70,7 +70,7 @@ I write every morning except Saturdays. I work offline without interruptions of 
 My routine is simple:
 
 1.  I wake up without an alarm. _(Ideally, I went to bed at a reasonable time.)_
-2.  I make [coffee](https://www.ondrejmarkus.com/coffee/). _(I grind the beans manually as my brain slowly boots up its_ higher functions.)
+2.  I make coffee. _(I grind the beans manually as my brain slowly boots up its_ higher functions.)
 3.  I journal in my [Morning Pages](/mp/) to clean the windshield of my mind.
 4.  And then I write until about noon when I eat breakfast, which ends the routine.
 

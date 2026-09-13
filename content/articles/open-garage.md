@@ -93,7 +93,7 @@ The person _(you)_ in the garage is arguably the most interesting object in clos
 
 After all, it's _you_ who made all this. _How did you do that? Why did you do that? What will you do next?_
 
-Context is important. Why and how somebody makes something can change its value enormously. So tell people why you do what you do. Create an [About page](https://www.ondrejmarkus.com/about/).
+Context is important. Why and how somebody makes something can change its value enormously. So tell people why you do what you do. Create an About page.
 
 Your story might feel boring to you because you know it so well. But it's new to others, and they might learn a lot from [your experiences](/write-public-reflections/).
 
@@ -111,7 +111,7 @@ ___
 
 That is how I work.
 
-This [website](/) is my garage with open doors. These [articles](https://www.ondrejmarkus.com/blog/) are my prototypes.
+This [website](/) is my garage with open doors. These [articles](/writing/) are my prototypes.
 
 You can do this or find your own way. [Whatever works for you](/system-that-works/) is the right way.
 

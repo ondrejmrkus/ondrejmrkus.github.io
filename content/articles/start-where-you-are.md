@@ -170,4 +170,4 @@ This is mine. I kept it short. You can write much more if you want.
 
 Do this exercise to create a snapshot of **where you are** right now.
 
-It's never perfect. But it's something you can work with. It gives you a good starting point for everything else we will do in this [Life Design series](https://www.ondrejmarkus.com/life-design-series/).
+It's never perfect. But it's something you can work with. It gives you a good starting point for everything else we will do in this Life Design series.

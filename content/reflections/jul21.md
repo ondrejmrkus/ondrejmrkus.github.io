@@ -54,7 +54,7 @@ I mean, it's probably not true because we need change and growth, but it feels i
 
 ### Be the architect of your work, not its victim
 
-That's why I'm creating [a new course](http://metasprint.net/) to take people through everything they need to **design a better work-life**.
+That's why I'm creating a new course to take people through everything they need to **design a better work-life**.
 
 {{< figure src="/images/2021/08/ms-dyw-banner.png" caption="MetaSprint.net (website in progress)" >}}
 
@@ -113,7 +113,7 @@ I'd like to structure the course to be always easy to continue. The next step wo
 
 It's a big challenge. But just thinking about this project makes me chuckle with excitement. I want to design the best career course on the internet.
 
-If you want to help me, [check out the landing page](http://metasprint.net/) I just published. It's an early draft that's going to change many times. So don't be afraid to rip it apart, and tell me what does and doesn't work for you. I want your opinion.
+If you want to help me, check out the landing page I just published. It's an early draft that's going to change many times. So don't be afraid to rip it apart, and tell me what does and doesn't work for you. I want your opinion.
 
 Moving on.
 
@@ -194,7 +194,7 @@ I get it. Some people prefer a passive Twitter experience – watching only, no 
 
 What I'm going to try next:
 
-* **Tweet more** (1-3 a day) to test the ideas for [the new course](http://metasprint.net/). (Threads seem to work much better for engagement than single tweets btw.)
+* **Tweet more** (1-3 a day) to test the ideas for the new course. (Threads seem to work much better for engagement than single tweets btw.)
 * **Keep replying to large accounts** when I have something interesting to say. Random people follow as a result, and maybe 1 out of 5 of them turn out to be a real connection.
 * **Engage more often with people 1:1** after we connected. Video is a great way to level up the relationship in a matter of minutes. But this also costs me a lot of energy, so I'm not able to do this more than once a week on average.
 
@@ -212,9 +212,9 @@ Now, if you think: "Damn, I enjoyed this."
 
 Firstly: I'm glad, thanks.
 
-Secondly: It would mean the world to me if you spread the word about the [new course](http://metasprint.net/) on your platform of choice.
+Secondly: It would mean the world to me if you spread the word about the new course on your platform of choice.
 
-Just copy the URL ([MetaSprint.net](http://metasprint.net/)) and tell people something like: "Check this shit out. It's coming for you." Or whatever you like to say. I don't know how people do this. :D
+Just copy the URL (MetaSprint.net) and tell people something like: "Check this shit out. It's coming for you." Or whatever you like to say. I don't know how people do this. :D
 
 Have a good one.
 

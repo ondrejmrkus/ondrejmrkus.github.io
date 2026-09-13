@@ -242,7 +242,7 @@ That's it for June.
 
 A few things before you go:
 
-* If you've enjoyed this, share this link with a fellow builder who's on a similar journey: [ondrejmarkus.com/jun21](/jun21)
+* If you've enjoyed this, share this link with a fellow builder who's on a similar journey: [ondrejmrkus.github.io/jun21](/jun21/)
 * Also, email me to say hello and tell me what you liked or didn't like. I have no idea what is good anymore.
 
 P. S.: I've written this while listening to [this song](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA?si=0120f81d78f64f77) on repeat for hours. Don't read too much into it. I don't.
