@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-03-17
 draft: false
 title: Why you should go broke

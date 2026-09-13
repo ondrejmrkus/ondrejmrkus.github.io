@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-04-18
 draft: false
 title: "Morning Pages: My favorite journaling method"

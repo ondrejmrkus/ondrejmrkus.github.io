@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-12-23
 draft: false
 title: 4 ways to do a year reflection

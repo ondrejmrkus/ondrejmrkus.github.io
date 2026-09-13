@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-03-22
 draft: false
 title: The best thing money can buy

@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-01-13
 draft: false
 title: Start where you are

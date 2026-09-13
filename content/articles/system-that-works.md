@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-04-11
 draft: false
 title: Find a productivity system that works for you

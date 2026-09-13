@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-06-07
 draft: false
 title: Why don't I do what I say I want

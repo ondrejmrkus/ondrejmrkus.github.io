@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-03-24
 draft: false
 title: How to become an innovation designer

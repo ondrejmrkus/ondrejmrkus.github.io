@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-08-10
 draft: false
 title: "What the work happened #7"

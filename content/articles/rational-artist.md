@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-10-04T10:13:00Z
 draft: false
 title: Rational Artist - The ideal way to work

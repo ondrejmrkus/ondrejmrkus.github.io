@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-02-10
 draft: false
 title: "Daily Design: Template for winning your day"

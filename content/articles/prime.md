@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-03-31
 draft: false
 title: Prime your mind for better decisions

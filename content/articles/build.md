@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-11-24
 draft: false
 title: Build something that doesn't work

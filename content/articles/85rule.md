@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-11-13
 draft: false
 title: "The 85 % rule: Be the best by trying less"

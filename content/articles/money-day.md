@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-03-10
 draft: false
 title: What if you made money 1 day a week?

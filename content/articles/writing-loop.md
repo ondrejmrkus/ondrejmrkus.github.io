@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-05-17
 draft: false
 title: "I will try writing 100 articles in 100 days"

@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-10-19
 draft: false
 title: Counter-intuitive approach to creative work

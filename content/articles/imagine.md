@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-12-18
 draft: false
 title: Imagine change is possible

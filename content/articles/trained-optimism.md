@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-02-08
 draft: false
 title: Train your brain to be optimistic

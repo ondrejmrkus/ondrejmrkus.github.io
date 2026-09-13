@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-12-27
 draft: false
 title: Get from idea to paying customers in 4 weeks

@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-04-02
 draft: false
 title: 3 levels of becoming an innovator

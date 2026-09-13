@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-11-18
 draft: false
 title: Building games to train problem-solvers

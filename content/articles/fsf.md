@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-09-06
 draft: false
 title: "Full-Stack Freelancer: New approach to work"

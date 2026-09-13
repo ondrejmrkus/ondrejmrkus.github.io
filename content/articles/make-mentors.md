@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-09-21
 draft: false
 title: Make your own mentors

@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-05-02
 draft: false
 title: Test your idea in 280 characters

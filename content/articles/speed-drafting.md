@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-04-25
 draft: false
 title: "How to write an article in 25 minutes"

@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-12-01
 draft: false
 title: Go to school but learn yourself

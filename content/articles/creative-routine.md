@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-02-22
 draft: false
 title: "Creative routines for productive creators"

@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2020-09-23
 draft: false
 title: My 7 rules for journaling

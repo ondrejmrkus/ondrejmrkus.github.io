@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2021-05-18
 draft: false
 title: "Self-determination triangle: Good life framework"

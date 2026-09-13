@@ -1,5 +1,5 @@
 ---
-author: Ondrej Markus
+author: Ondrej Mrkus
 date: 2022-03-29
 draft: false
 title: Use overcompensation to find your balance
