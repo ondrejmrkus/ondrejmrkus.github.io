@@ -24,4 +24,4 @@ This insight enables my overly critical self to speak freely. I found peace in w
 
 > **Update from 23/09/2023**
 >
-> It's 3 years since I wrote this article. And I'm super glad I found the courage to start writing. I can easily find angles to disagree with lot's of things I wrote years back, but the process of writing itself is too useful not to write anything.
+> It's 3 years since I wrote this article. And I'm super glad I found the courage to start writing. I can easily find angles to disagree with lot's of things I wrote years back, but the process of writing itself is too useful not to write at all.

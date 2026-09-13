@@ -9,5 +9,5 @@ I make things to bring more playfulness and joy into the education space. Produc
 
 - Building the simplest school management app
 - Learning to build products and games with AI agents
-- Raising a border collie puppy
+- Raising a border collie puppy 🐕
 - Exploring emotional work on myself
