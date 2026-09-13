@@ -180,8 +180,6 @@ So what did I am I doing to improve my Twitter experience?
 
 Now, let's look at the numbers.
 
-{{< figure src="/images/2021/08/Screenshot-2021-08-10-at-11.11.55.png" caption="I use Typefully.app" >}}
-
 Since I started playing the Twitter game about 2 months ago, I went from practically 0 followers to 99 (today).
 
 Around 30 of those are meaningful connections (meaningful = people I talked to 1:1 for more than a quick "hello").
