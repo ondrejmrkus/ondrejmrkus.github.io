@@ -223,7 +223,7 @@ Publishing something every day felt great. But only as long as I was somewhat ha
 
 Once I wrote something where I thought _'ugh, this isn't something I want to show people,'_ my values collided. Consistency smashed into quality.
 
-{{< figure src="/images/2021/06/consistency-vs-quality-1.jpg" caption="Consistency vs. Quality" >}}
+{{< figure src="/images/2021/06/consistency-vs-quality.jpg" caption="Consistency vs. Quality" >}}
 
 After going through the wreckage, I picked quality. However, this isn't a one or the other situation. I'm aware of that.
 

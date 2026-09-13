@@ -104,7 +104,7 @@ So I'm gonna pick something over the next week and change it late if necessary.
 
 The concept of the new website is going to be something like this:
 
-{{< figure src="/images/2021/05/Screenshot-2021-05-09-at-11.36.33.png" >}}
+{{< figure src="/images/2021/05/Lazy.Builders---Prototype-LP.png" >}}
 
 I'm not 100% sure what some things in this prototype mean. I expect it's going to evolve in time after I get more feedback. But I know I prefer being informal-ish in what I write, so that's one fixed part of its DNA.
 
