@@ -1,9 +1,7 @@
 baseURL: https://ondrejmrkus.github.io/
 languageCode: en-us
-title: Ondra
-theme: pickleronin
-
-menu:
+title: Ondra Mrkus
+theme: ondra
 
 permalinks:
   articles: /:slug/
@@ -11,25 +9,19 @@ permalinks:
   projects: /:slug/
   guides: /:slug/
 
+markup:
+  goldmark:
+    renderer:
+      # Some posts and the now page contain hand-written HTML links.
+      unsafe: true
+
 params:
-  sections:
-    - id: "column2"
-      title: "Articles"
-      icon: "/images/rage.jpeg"
-      description: "Notes on what I'm learning"
-      folder: "articles"
-    - id: "column3"
-      title: "Reflections"
-      icon: "/images/reflections.jpeg"
-      description: "My very personal reflections on life"
-      folder: "reflections"
-    - id: "column4"
-      title: "Guides"
-      icon: "/images/projects.jpeg"
-      description: "Practical tools for living a better life"
-      folder: "guides"
-    #- id: "column5"
-      #title: "Projects"
-      #icon: "/images/projects.jpeg"
-      #description: "Education + Games + Tech"
-      #folder: "projects"
+  description: Designing products and games
+  writingSections: [articles, reflections, guides]
+  sectionLabels:
+    articles: article
+    reflections: reflection
+    guides: guide
+  homeLinks:
+    - name: Writing
+      url: /writing/

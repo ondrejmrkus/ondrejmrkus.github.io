@@ -1,0 +1,24 @@
+{{ define "main" }}
+<header class="card-head">
+  <img class="face big" src="{{ "images/stickface.png" | relURL }}" alt="" width="52" height="52">
+  <div>
+    <h1>{{ site.Title }}</h1>
+    {{ with .Params.role }}<p class="role">{{ . }}</p>{{ end }}
+  </div>
+</header>
+
+<div class="prose">{{ .Content }}</div>
+
+{{/* Posts surface here only while they are less than a year old, so the page stays a plain card when nothing is new. */}}
+{{ $posts := where site.RegularPages "Section" "in" site.Params.writingSections }}
+{{ with first 3 (where $posts "Date" "ge" (now.AddDate -1 0 0)) }}
+<section>
+  <h2>Recent writing</h2>
+  <ul class="plain posts">
+    {{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="meta">{{ .Date.Format "January 2006" }}</span></li>{{ end }}
+  </ul>
+</section>
+{{ end }}
+
+{{ partial "links.html" site.Params.homeLinks }}
+{{ end }}

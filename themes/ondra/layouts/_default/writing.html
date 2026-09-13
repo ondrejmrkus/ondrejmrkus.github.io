@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{ partial "site-name.html" . }}
+<h1 class="page-title">{{ .Title }}</h1>
+<div class="prose">{{ .Content }}</div>
+{{ partial "post-list.html" (where site.RegularPages "Section" "in" site.Params.writingSections) }}
+{{ partial "links.html" site.Params.homeLinks }}
+{{ end }}

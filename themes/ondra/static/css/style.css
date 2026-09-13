@@ -1,0 +1,148 @@
+/* iA Writer Duo (SIL Open Font License), self-hosted. Latin subset only; other characters fall back to Menlo. */
+@font-face { font-family: 'iA Writer Duo'; font-weight: 400; font-style: normal; font-display: swap;
+  src: url(../fonts/ia-writer-duo-latin-400-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'iA Writer Duo'; font-weight: 700; font-style: normal; font-display: swap;
+  src: url(../fonts/ia-writer-duo-latin-700-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'iA Writer Duo'; font-weight: 400; font-style: italic; font-display: swap;
+  src: url(../fonts/ia-writer-duo-latin-400-italic.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+/* Colors. Light is the default; dark follows the system setting unless the visitor picked a theme with the toggle,
+   which is stored as data-theme on <html>. The dark values are repeated for both routes on purpose. */
+:root {
+  color-scheme: light;
+  --paper: #faf9f6;
+  --ink: #1b1b1b;
+  --gray: #6f6c66;
+  --soft: #45423d;
+  --rule: #e4e1da;
+  --underline: #bdb9b0;
+  --code: #efede7;
+  /* Drawings have white backgrounds: multiply melts them into the light paper. */
+  --img-blend: multiply;
+  --img-filter: none;
+  --face-blend: multiply;
+  --face-filter: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --paper: #171614;
+    --ink: #e6e2da;
+    --gray: #9a958b;
+    --soft: #c8c3b9;
+    --rule: #2f2d29;
+    --underline: #5c5851;
+    --code: #262420;
+    /* On dark paper the drawings and the stickman face stay as they are, as soft light cards. */
+    --img-blend: normal;
+    --img-filter: brightness(.9);
+    --face-blend: normal;
+    --face-filter: brightness(.9);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #171614;
+  --ink: #e6e2da;
+  --gray: #9a958b;
+  --soft: #c8c3b9;
+  --rule: #2f2d29;
+  --underline: #5c5851;
+  --code: #262420;
+  --img-blend: normal;
+  --img-filter: brightness(.9);
+  --face-blend: normal;
+  --face-filter: brightness(.9);
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'iA Writer Duo', Menlo, ui-monospace, monospace;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.site { max-width: 36rem; margin: 0 auto; padding: 72px 24px 56px; }
+
+a { color: inherit; text-decoration: underline; text-decoration-color: var(--underline); text-underline-offset: 3px; }
+a:hover { text-decoration-color: var(--ink); }
+
+h1 { font-size: 23px; line-height: 1.3; margin: 0; font-weight: 700; }
+p { margin: 0 0 16px; }
+
+.meta { font-size: 13px; color: var(--gray); margin-left: 6px; white-space: nowrap; }
+
+/* Home */
+.card-head { display: flex; align-items: center; gap: 14px; margin-bottom: 24px; }
+.role { color: var(--gray); margin: 2px 0 0; }
+.face { mix-blend-mode: var(--face-blend); filter: var(--face-filter); border-radius: 3px; width: 22px; height: 22px; vertical-align: -5px; margin-right: 6px; }
+.face.big { width: 52px; height: 52px; margin: 0; border-radius: 6px; }
+
+.home h2, .home .prose h2, .year {
+  font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--gray); font-weight: 400;
+  margin: 40px 0 10px;
+}
+.home .prose ul, .plain { list-style: none; padding: 0; margin: 0; }
+.home .prose li, .plain li { margin: 0 0 10px; }
+.posts li { margin: 0 0 8px; }
+.year { margin-top: 32px; }
+
+.links { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--rule); display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 22px; }
+
+/* Theme toggle: a text button at the end of the links row. Hidden without JavaScript, since it can't work then. */
+.theme-toggle {
+  display: none; margin-left: auto; padding: 0; border: 0; background: none; cursor: pointer;
+  font: inherit; font-size: 13px; color: var(--gray);
+  text-decoration: underline; text-decoration-color: var(--underline); text-underline-offset: 3px;
+}
+.js .theme-toggle { display: inline; }
+.theme-toggle:hover { color: var(--ink); text-decoration-color: var(--ink); }
+.theme-toggle .to-light { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .to-dark { display: none; }
+  :root:not([data-theme="light"]) .theme-toggle .to-light { display: inline; }
+}
+:root[data-theme="dark"] .theme-toggle .to-dark { display: none; }
+:root[data-theme="dark"] .theme-toggle .to-light { display: inline; }
+
+/* Inner pages */
+.site-name { display: inline-block; margin-bottom: 40px; color: var(--gray); text-decoration: none; }
+.page-title { margin-bottom: 6px; }
+.written { display: block; margin: 0 0 24px; }
+.lede { font-style: italic; color: var(--soft); }
+
+/* Article body */
+.prose h2 { font-size: 18px; line-height: 1.4; margin: 40px 0 12px; }
+.prose h3 { font-size: 16px; margin: 32px 0 8px; }
+/* Images may grow wider than the text column (the comics are hard to read at column width), centered on it.
+   They never exceed their natural size, so small images stay sharp. */
+.prose img {
+  display: block; width: auto; height: auto; max-width: min(52rem, calc(100vw - 48px));
+  position: relative; left: 50%; transform: translateX(-50%);
+  mix-blend-mode: var(--img-blend); filter: var(--img-filter); border-radius: 4px;
+}
+.prose figure { margin: 28px 0; }
+.prose figcaption { font-size: 13px; color: var(--gray); margin-top: 6px; }
+.prose ul, .prose ol { padding-left: 1.4em; margin: 0 0 16px; }
+.prose li { margin-bottom: 6px; }
+.prose blockquote { margin: 24px 0; padding-left: 18px; border-left: 2px solid var(--rule); color: var(--soft); }
+.prose hr { border: 0; border-top: 1px solid var(--rule); margin: 32px 0; }
+.prose iframe { max-width: 100%; }
+.prose code { font-family: inherit; background: var(--code); padding: 1px 4px; border-radius: 3px; }
+
+@media (max-width: 480px) {
+  body { font-size: 15px; }
+  .site { padding: 40px 18px 40px; }
+  .meta { white-space: normal; }
+}

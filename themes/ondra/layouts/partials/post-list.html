@@ -1,0 +1,6 @@
+{{ range .GroupByDate "2006" }}
+<h2 class="year">{{ .Key }}</h2>
+<ul class="plain posts">
+  {{ range .Pages }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with index site.Params.sectionLabels .Section }} <span class="meta">{{ . }}</span>{{ end }}</li>{{ end }}
+</ul>
+{{ end }}

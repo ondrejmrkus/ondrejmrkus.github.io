@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{ partial "site-name.html" . }}
+<h1 class="page-title">{{ .Title }}</h1>
+<div class="prose">{{ .Content }}</div>
+{{ partial "post-list.html" .Pages }}
+{{ partial "links.html" (slice (dict "name" "All writing" "url" "/writing/") (dict "name" "Home" "url" "/")) }}
+{{ end }}

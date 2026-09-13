@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ partial "site-name.html" . }}
+<article>
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ if in site.Params.writingSections .Section }}
+  <p class="meta written">{{ .Date.Format "January 2006" }} · {{ index site.Params.sectionLabels .Section }}</p>
+  {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+  {{ end }}
+  <div class="prose">{{ .Content }}</div>
+</article>{{ partial "links.html" (slice (dict "name" "All writing" "url" "/writing/") (dict "name" "Home" "url" "/")) }}
+{{ end }}
