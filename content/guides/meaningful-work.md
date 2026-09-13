@@ -540,8 +540,6 @@ Your priority now is to prove to yourself you can begin your walk over the Maybe
 ---
 
 > **Big thanks** to Linette and Dan for reading long drafts of this.
->
-> If you have any thoughts about the guide, want to share your insights, or tell me which picture you liked the most, write me an email.
 
 ---
 

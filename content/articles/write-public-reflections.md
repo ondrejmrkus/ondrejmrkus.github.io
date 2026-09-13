@@ -102,5 +102,3 @@ To actually start doing it, you need to decide you _want it_ more than you _fear
 **Do you want the good more than you fear the bad?**
 
 If you do, go for it.
-
-_(I'd be honored to get your first reflection. Even if I'm a stranger to you, that could be a good thing. Sometimes it's easier to share with strangers than with the people who know you well. Here's my email.)_

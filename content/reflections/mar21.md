@@ -112,8 +112,6 @@ Bonus: Ask some wild **What if's**_._
 
 I did the whole thing in 2 or 3 hours of unfiltered writing. It was fun and helpful for deciding what I want to do next. You should try it.
 
-And if you come up with some good **What if's** – let me know. I'm curious.
-
 ## Work that happened
 
 Next, we get to what this piece is supposed to be about – the work that got done. Let's keep it short.
@@ -126,7 +124,7 @@ I pushed this from an idea at the beginning of March to something that's actuall
 
 I made some quick web prototypes and tested them every few days with people who might be interested in joining, most of them were, so I launched it as an experimental run.
 
-([The latest prototype](https://metasprint.webflow.io/))
+(The latest prototype)
 
 ### 🚀 Innovation lab
 
@@ -190,8 +188,6 @@ So I'm going to adjust the way I share. Again. 🤷‍♂️
 That's it.
 
 **P.S.**: As you can see, these monthly emails are unpredictable – not even I know what is going to be in them before I sit down to write them.
-
-So please tell me what you liked and didn't like. I'd be very grateful to know.
 
 Or just reply to the email with something like: "Dope, bro." That's fine too, and it warms my chickles.
 

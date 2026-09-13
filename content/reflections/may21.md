@@ -197,8 +197,6 @@ This is meant as a snapshot of my design process that could be helpful when you 
 
 What do you think?
 
-If you have a question, an opinion, an idea, please shoot at: my email
-
 Please, really do. Knowing what's helpful, or unclear, or completely missing is precious feedback for me.
 
 Now, let's move on to other things that happened in May.

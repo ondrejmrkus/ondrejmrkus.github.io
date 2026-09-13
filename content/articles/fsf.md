@@ -123,7 +123,7 @@ It doesn't matter. She only needs a couple of winners in her portfolio. So she u
 This way, she **reacts to opportunities faster** than most people while **taking less risk** because she doesn’t commit herself fully until she sees the project is probably going to work.
 
 Example: Developing a new course in 3 weeks
-- This April, I had an idea for a writers course, but I was buried in other projects and didn’t know how it should work. So I ran an experiment. I made a [simple website](https://metasprint.webflow.io/) and I sent it to a few friends who wanted to write more.
+- This April, I had an idea for a writers course, but I was buried in other projects and didn’t know how it should work. So I ran an experiment. I made a simple website and I sent it to a few friends who wanted to write more.
 - They sent me feedback, and I used it to improve the idea. I repeated this 3 times with different friends. And, in the third round, I started getting replies like “I want this. When does it start?”
 - I knew I’m onto something. So I told my friends the course is happening: Weekly sessions for a month and the price is $50. 7 people enrolled and I ran the course.
 - The whole process took just 3 weeks and just a few hours of work from having the idea to launching the course with 7 paying customers.

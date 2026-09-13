@@ -99,5 +99,3 @@ I have a lot more to say about this, but the TEA is limited, so I have to ship i
 Stay tuned for more on Tuesdays and Thursdays.
 
 Share with a friend.
-
-And I'm very much open to your questions and thoughts about this: Let's talk.

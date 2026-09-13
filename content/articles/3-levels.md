@@ -246,5 +246,3 @@ However, there is a big gap between knowing these levels, practicing them, and m
 I know I haven't mastered any of them yet. But I'm trying my best to become better every day at **making the right things in the right way**.
 
 And if that sounds like something you'd like to do, these 3 levels are the direction to go.
-
-Email me your thoughts, feedback, or questions about how to apply this to your project. I'm glad to help any fellow innovator.
