@@ -95,6 +95,9 @@ p { margin: 0 0 16px; }
 }
 .home .prose ul, .plain { list-style: none; padding: 0; margin: 0; }
 .home .prose li, .plain li { margin: 0 0 10px; }
+/* The Now list gets a Markdown-style asterisk. Hanging indent, so a wrapped line lines up with the text, not the star. */
+.home .prose li { position: relative; padding-left: 2ch; }
+.home .prose li::before { content: "*"; position: absolute; left: 0; color: var(--gray); }
 .posts li { margin: 0 0 8px; }
 .year { margin-top: 32px; }
 
